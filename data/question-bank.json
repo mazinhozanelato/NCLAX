@@ -10054,5 +10054,794 @@
       }
     ],
     "verified": true
+  },
+  {
+    "id": "q211",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "basic-care-comfort",
+    "stem": "A nurse is planning a meal for a client with dysphagia who is on a mechanically altered diet. The speech therapist has recommended nectar-thick liquids. Which meal choice is most appropriate?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Regular coffee and a plain bagel",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Nectar-thick juice, pureed chicken, and mashed potatoes",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Ice water with ice chips and a grilled cheese sandwich",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Regular milk and a bowl of dry cereal",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "For a client with dysphagia on a mechanically altered diet with nectar-thick liquids, the appropriate meal includes thickened liquids (nectar consistency — flows off a spoon like syrup), pureed or soft foods that form a cohesive bolus, and moist foods that are easy to swallow. Thin liquids (regular coffee, water, regular milk) are the most difficult to swallow safely and have the highest aspiration risk. Dry foods (plain bagel, dry cereal) can be difficult to form into a bolus and may crumble. Ice chips are thin liquid. The nurse should also position the client upright at 90°, use chin-tuck technique, and keep upright 30 minutes after meals. Source: Nurseslabs — Dysphagia Nursing; RegisteredNurseRN — Nutrition Nursing.",
+    "tags": [
+      "dysphagia",
+      "aspiration-prevention",
+      "thickened-liquids",
+      "nutrition",
+      "diet-modification"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Dysphagia Diet",
+        "url": "https://nurseslabs.com/dysphagia/"
+      },
+      {
+        "name": "RegisteredNurseRN - Nutrition",
+        "url": "https://www.registerednursern.com/nutrition-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q212",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "basic-care-comfort",
+    "stem": "A nurse is caring for a client receiving continuous enteral feeding through a nasogastric tube. Which nursing action is most important to prevent aspiration?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Position the client flat to improve gastric emptying",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Elevate the head of the bed to at least 30-45 degrees during and after feeding",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Administer the feeding at the fastest rate to reduce total feeding time",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Add blue food coloring to the formula to detect aspiration",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Elevating the head of the bed (HOB) to 30-45 degrees during and for at least 30-60 minutes after enteral feeding is the most important intervention to prevent aspiration. Gravity helps keep the feeding in the stomach and prevents reflux into the esophagus. Flat positioning increases aspiration risk significantly. Rapid feeding rates cause gastric distension, nausea, vomiting, and aspiration. Blue food coloring is no longer recommended (FDA warning due to toxicity and unreliability). Other important nursing actions: check gastric residual volumes per protocol, verify tube placement before feeding, and monitor for signs of intolerance (distension, nausea, diarrhea). Source: RegisteredNurseRN — Enteral Nutrition; Nurseslabs — Tube Feeding.",
+    "tags": [
+      "enteral-feeding",
+      "aspiration-prevention",
+      "HOB-elevation",
+      "tube-feeding",
+      "nutrition"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Enteral Feeding",
+        "url": "https://www.registerednursern.com/enteral-nutrition-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Enteral Nutrition",
+        "url": "https://nurseslabs.com/enteral-nutrition/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q213",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "basic-care-comfort",
+    "stem": "A nurse is teaching a client about preoperative NPO (nothing by mouth) guidelines. The client's surgery is scheduled for 8:00 AM. Which instruction is most appropriate?",
+    "options": [
+      {
+        "id": "A",
+        "text": "\"You may eat a full meal up to 4 hours before surgery\"",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "\"Do not eat solid food after midnight, and clear liquids may be taken up to 2 hours before surgery per your surgeon's orders\"",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "\"You must avoid all food and water for 24 hours before surgery\"",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "\"You may drink milk and orange juice on the morning of surgery\"",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Current ASA (American Society of Anesthesiologists) NPO guidelines recommend: no solid food for at least 6-8 hours before surgery (typically after midnight for morning cases), clear liquids (water, black coffee, clear juice without pulp) may be consumed up to 2 hours before anesthesia induction. These guidelines reduce aspiration risk while preventing dehydration. Eating 4 hours before is too close for solid food. 24-hour NPO is unnecessarily restrictive. Milk and orange juice are NOT clear liquids — they contain fat/protein/pulp and follow the solid food rules (6-8 hours). Always follow the specific surgeon's and anesthesiologist's orders. Source: Nurseslabs — Preoperative Nursing; RegisteredNurseRN — Perioperative Care.",
+    "tags": [
+      "NPO",
+      "preoperative",
+      "fasting-guidelines",
+      "patient-education",
+      "surgery"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Preoperative Care",
+        "url": "https://nurseslabs.com/preoperative-nursing-care/"
+      },
+      {
+        "name": "RegisteredNurseRN - Perioperative",
+        "url": "https://www.registerednursern.com/perioperative-nursing-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q214",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "basic-care-comfort",
+    "stem": "A nurse is caring for a client who is 3 days post-abdominal surgery and has not had a bowel movement. The client reports abdominal distension, absent bowel sounds, and nausea. Which condition should the nurse suspect?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Constipation from inadequate fiber intake",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Paralytic ileus",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Small bowel obstruction requiring immediate surgery",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Normal post-operative recovery pattern",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Paralytic (adynamic) ileus is the temporary cessation of bowel motility commonly occurring after abdominal surgery, especially with bowel manipulation. Hallmark findings include: absent bowel sounds (most significant), abdominal distension, nausea/vomiting, no flatus or bowel movements. While some slowing of bowel function is expected post-operatively (24-72 hours), absent bowel sounds on day 3 with these symptoms suggest ileus. Management includes: NPO or NG tube to decompress, IV fluids, ambulation (promotes peristalsis), and monitoring. Simple constipation would still have bowel sounds present. Mechanical obstruction shows high-pitched (hyperactive) bowel sounds proximal to the obstruction. Source: Nurseslabs — Bowel Obstruction; RegisteredNurseRN — GI Nursing.",
+    "tags": [
+      "paralytic-ileus",
+      "bowel-sounds",
+      "post-operative",
+      "abdominal-distension",
+      "GI"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Intestinal Obstruction",
+        "url": "https://nurseslabs.com/intestinal-obstruction/"
+      },
+      {
+        "name": "RegisteredNurseRN - GI Disorders",
+        "url": "https://www.registerednursern.com/bowel-obstruction-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q215",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "basic-care-comfort",
+    "stem": "A nurse is teaching a client with a newly created colostomy about stoma care. Which statement by the client indicates correct understanding?",
+    "options": [
+      {
+        "id": "A",
+        "text": "\"My stoma should appear dark purple or black, which means it's healing well\"",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "\"I should cut the wafer opening to fit about 1/8 inch larger than my stoma\"",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "\"I can empty my pouch when it is completely full to reduce the number of changes\"",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "\"I should apply a skin barrier powder directly on the stoma itself\"",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The wafer opening should be cut to approximately 1/8 inch (3 mm) larger than the stoma to protect the peristomal skin from effluent while ensuring the stoma is not constricted. A healthy stoma should be red and moist (like the inside of the mouth) — dark purple or black indicates ischemia/necrosis and requires immediate reporting. The pouch should be emptied when it is 1/3 to 1/2 full (not completely full) to prevent leakage from the weight pulling the seal. Skin barrier powder is applied to irritated peristomal skin, not directly on the stoma. The nurse should also teach about dietary considerations, odor management, and when to change the appliance. Source: RegisteredNurseRN — Colostomy Care; Nurseslabs — Ostomy Nursing.",
+    "tags": [
+      "colostomy",
+      "stoma-care",
+      "ostomy",
+      "patient-education",
+      "peristomal-skin"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Ostomy Care",
+        "url": "https://www.registerednursern.com/ostomy-care-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Ostomy Care",
+        "url": "https://nurseslabs.com/ostomy-care/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q216",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "basic-care-comfort",
+    "stem": "A nurse is developing a care plan for a female client with stress urinary incontinence. Which intervention should the nurse include as first-line management?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Recommend an indwelling urinary catheter for continuous drainage",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Teach Kegel (pelvic floor) exercises and encourage a bladder training schedule",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Restrict fluid intake to less than 1 liter per day",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Prepare the client for immediate surgical correction",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Kegel (pelvic floor) exercises are the first-line, non-invasive intervention for stress urinary incontinence. These exercises strengthen the pubococcygeal muscles that support the pelvic floor. Combined with a bladder training schedule (timed voiding with gradually increasing intervals), most clients experience significant improvement. An indwelling catheter increases infection risk and does not treat the underlying problem — it should be avoided for incontinence management. Severe fluid restriction can lead to concentrated urine, UTIs, and dehydration. Surgery is reserved for cases that fail conservative management. The nurse should also assess for modifiable risk factors: caffeine, obesity, chronic cough, and constipation. Source: Nurseslabs — Urinary Incontinence; RegisteredNurseRN — Incontinence Nursing.",
+    "tags": [
+      "urinary-incontinence",
+      "Kegel-exercises",
+      "pelvic-floor",
+      "bladder-training",
+      "conservative-management"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Urinary Incontinence",
+        "url": "https://nurseslabs.com/urinary-incontinence/"
+      },
+      {
+        "name": "RegisteredNurseRN - Incontinence",
+        "url": "https://www.registerednursern.com/urinary-incontinence-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q217",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "basic-care-comfort",
+    "stem": "A nurse is positioning a client who had a right-sided pneumonectomy (lung removal) 4 hours ago. Which position is most appropriate?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Right side (operative side) or supine",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Left side (non-operative side) with the head flat",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Prone position to promote drainage",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Trendelenburg position to increase blood flow to the lungs",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "After pneumonectomy, the client should be positioned on the operative side (right side) or supine with the HOB slightly elevated. Positioning on the operative side allows the remaining lung (left) to fully expand for optimal gas exchange and prevents fluid from the surgical site from draining into the remaining lung. Lying on the non-operative (left) side would compress the only functioning lung and could allow fluid to shift. Prone positioning is not indicated. Trendelenburg would impair respiratory function. Important: after pneumonectomy, there is NO chest tube (the empty space fills gradually with serosanguineous fluid). This differs from lobectomy, where the client is positioned on the non-operative side to drain the remaining lobe. Source: Nurseslabs — Thoracic Surgery; RegisteredNurseRN — Post-Thoracotomy Nursing.",
+    "tags": [
+      "pneumonectomy",
+      "positioning",
+      "thoracic-surgery",
+      "post-operative",
+      "lung-expansion"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Thoracic Surgery",
+        "url": "https://nurseslabs.com/thoracic-surgery/"
+      },
+      {
+        "name": "RegisteredNurseRN - Thoracic Nursing",
+        "url": "https://www.registerednursern.com/thoracic-surgery-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q218",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "basic-care-comfort",
+    "stem": "A nurse is teaching a nursing assistant about proper body mechanics when assisting a client from bed to wheelchair. Which instruction is correct?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bend at the waist to lower your center of gravity when lifting",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Use a wide base of support, bend at the knees and hips, and keep the client close to your body",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Twist your torso to pivot the client into the wheelchair",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Reach out with extended arms to support the client at arm's length",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Proper body mechanics to prevent musculoskeletal injury include: maintaining a wide base of support (feet shoulder-width apart), bending at the knees and hips (not the waist — this strains the back), keeping the client/load close to the body (reduces strain on the back), using the large muscles of the legs for lifting, and turning the entire body rather than twisting the torso. Bending at the waist puts excessive strain on the lumbar spine. Twisting increases risk of back injury. Extended arms create a longer lever arm and more back strain. The nurse should also assess whether a mechanical lift device is needed based on the client's weight and mobility. Source: Nurseslabs — Body Mechanics; RegisteredNurseRN — Patient Safety.",
+    "tags": [
+      "body-mechanics",
+      "patient-transfer",
+      "injury-prevention",
+      "nursing-assistant",
+      "ergonomics"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Body Mechanics",
+        "url": "https://nurseslabs.com/body-mechanics/"
+      },
+      {
+        "name": "RegisteredNurseRN - Body Mechanics",
+        "url": "https://www.registerednursern.com/body-mechanics-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q219",
+    "type": "select-all-that-apply",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "basic-care-comfort",
+    "stem": "A nurse is caring for an immobile client at risk for contractures. Which nursing interventions help prevent contracture formation? Select all that apply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Perform passive range of motion (ROM) exercises at least twice daily",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Use trochanter rolls, hand rolls, and footboards for proper alignment",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Maintain the client in one position to prevent pain with movement",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Reposition the client every 2 hours and encourage active movement when possible",
+        "isCorrect": true
+      },
+      {
+        "id": "E",
+        "text": "Place a pillow under the knees to keep them flexed at all times",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Contracture prevention in immobile clients requires: passive ROM exercises at least twice daily (maintains joint mobility), positioning devices (trochanter rolls prevent external hip rotation, hand rolls maintain functional hand position, footboards prevent plantar flexion/foot drop), and frequent repositioning with encouragement of active participation. Keeping the client in one position accelerates contracture formation — joints must be moved through their full range regularly. A pillow under the knees keeps them in chronic flexion, promoting hip and knee flexion contractures. Joints should generally be maintained in functional positions, and periods of extension should be included. Source: Nurseslabs — Immobility Complications; RegisteredNurseRN — Range of Motion.",
+    "tags": [
+      "contractures",
+      "ROM",
+      "immobility",
+      "positioning-devices",
+      "rehabilitation"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Immobility",
+        "url": "https://nurseslabs.com/immobility/"
+      },
+      {
+        "name": "RegisteredNurseRN - Immobility Nursing",
+        "url": "https://www.registerednursern.com/immobility-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q220",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "basic-care-comfort",
+    "stem": "A nurse is caring for a client with chronic cancer pain. The client states, \"I don't want more medication. Can we try something else for my pain?\" Which non-pharmacological intervention should the nurse suggest first?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Distraction techniques, guided imagery, and relaxation exercises",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Increasing the medication dose since non-drug methods don't work for cancer pain",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Applying ice packs directly to the tumor site",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Suggesting the client endure the pain to build tolerance",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Non-pharmacological pain management techniques are valuable adjuncts to pain control and should be offered based on client preference. Effective non-pharmacological methods include: distraction (music, art, conversation), guided imagery, progressive muscle relaxation, deep breathing exercises, meditation, massage therapy, heat/cold application (to appropriate areas), TENS units, and acupuncture. These complement, not replace, pharmacological management. Telling the client that non-drug methods don't work ignores evidence-based practice. Ice directly on a tumor is inappropriate. Suggesting to \"endure\" pain contradicts the ethical obligation to manage pain — pain is a 5th vital sign. The nurse should respect the client's autonomy while ensuring adequate pain control. Source: RegisteredNurseRN — Pain Management; Nurseslabs — Non-Pharmacological Pain.",
+    "tags": [
+      "non-pharmacological-pain",
+      "guided-imagery",
+      "relaxation",
+      "cancer-pain",
+      "patient-preference"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Pain Management",
+        "url": "https://www.registerednursern.com/pain-management-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Pain Management",
+        "url": "https://nurseslabs.com/pain-management/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q221",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "basic-care-comfort",
+    "stem": "A nurse is caring for a terminally ill client receiving hospice care. The client asks the nurse, \"Am I dying?\" What is the most therapeutic response?",
+    "options": [
+      {
+        "id": "A",
+        "text": "\"Don't worry, you'll be fine. Let's talk about something cheerful\"",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "\"What makes you feel that way? I'm here to listen and support you\"",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "\"I'll need to ask your doctor before I can discuss that with you\"",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "\"Yes, you are dying, and there is nothing more we can do\"",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The most therapeutic response acknowledges the client's feelings, uses open-ended questioning, and offers presence and support. This allows the client to express fears and concerns. False reassurance ('you'll be fine') dismisses the client's legitimate feelings and breaks trust. Deferring to the doctor avoids the nurse's role in providing emotional support and end-of-life communication. A blunt, hopeless statement lacks compassion and therapeutic communication skills. In palliative/hospice care, the nursing focus shifts to comfort, dignity, quality of life, and emotional/spiritual support. The goal of hospice is a peaceful, comfortable death — not cure. Source: Nurseslabs — End-of-Life Care; RegisteredNurseRN — Therapeutic Communication.",
+    "tags": [
+      "end-of-life",
+      "hospice",
+      "therapeutic-communication",
+      "palliative-care",
+      "dying"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - End-of-Life Nursing",
+        "url": "https://nurseslabs.com/end-of-life-care/"
+      },
+      {
+        "name": "RegisteredNurseRN - Therapeutic Communication",
+        "url": "https://www.registerednursern.com/therapeutic-communication-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q222",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "safety-infection-control",
+    "stem": "A nurse sustains a needlestick injury from a used needle while drawing blood from a client with unknown HIV status. What is the nurse's first action?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Immediately file an incident report and wait for further instructions",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Wash the puncture site thoroughly with soap and water, then report to employee health/supervisor immediately",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Apply a tourniquet above the site to prevent bloodborne pathogen spread",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Squeeze the wound vigorously to force out contaminated blood",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "After a needlestick injury, the nurse should immediately: wash the puncture site thoroughly with soap and water (for mucous membrane exposure, flush with water). Then report to the employee health department/supervisor immediately for evaluation and possible post-exposure prophylaxis (PEP). PEP for HIV should be initiated within 1-2 hours if indicated. The source client should be tested (with consent) for HIV, hepatitis B, and hepatitis C. Filing an incident report is important but comes after immediate wound care. A tourniquet is not effective for bloodborne pathogen exposure. Vigorous squeezing is not recommended as it may increase tissue damage. Baseline blood tests should be drawn from the exposed worker. Source: RegisteredNurseRN — Needlestick Protocol; Nurseslabs — Bloodborne Pathogen Exposure.",
+    "tags": [
+      "needlestick",
+      "bloodborne-pathogens",
+      "PEP",
+      "exposure-protocol",
+      "occupational-safety"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Needlestick Injury",
+        "url": "https://www.registerednursern.com/needlestick-injury-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Infection Control",
+        "url": "https://nurseslabs.com/infection-control/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q223",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "safe-effective-care",
+    "subcategory": "safety-infection-control",
+    "stem": "A nurse is working in the oncology unit when a bag of IV chemotherapy medication falls and breaks on the floor, creating a spill. What is the nurse's first action?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mop up the spill with regular cleaning supplies and paper towels",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Evacuate all clients and staff from the unit",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Put on chemotherapy-rated PPE and use the chemotherapy spill kit to contain the spill",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Call environmental services to clean up the spill as a biohazard",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Chemotherapy spills require immediate response using a designated chemotherapy spill kit. The nurse should: don chemotherapy-rated PPE (double gloves, gown, goggles, shoe covers), use the spill kit to contain and absorb the medication (absorbent pads, plastic-backed sheets), clean the area from the outside in, dispose of all contaminated materials in designated chemotherapy waste containers, and document the spill per facility protocol. Regular cleaning supplies are inadequate and expose personnel to hazardous drug residue. Full unit evacuation is unnecessary for a contained spill. Environmental services personnel may not be trained in chemotherapy spill management — the nurse on the unit should initiate the response. OSHA requires all personnel handling chemotherapy to be trained in spill procedures. Source: Nurseslabs — Chemotherapy Safety; RegisteredNurseRN — Hazardous Drug Handling.",
+    "tags": [
+      "chemotherapy-spill",
+      "hazardous-drugs",
+      "PPE",
+      "spill-kit",
+      "oncology-safety"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Chemotherapy Safety",
+        "url": "https://nurseslabs.com/chemotherapy/"
+      },
+      {
+        "name": "RegisteredNurseRN - Chemo Safety",
+        "url": "https://www.registerednursern.com/chemotherapy-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q224",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "safe-effective-care",
+    "subcategory": "safety-infection-control",
+    "stem": "A nurse is preparing to administer a medication to a client. Which action is most important to prevent a medication error?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ask the client to state their name and verify with the identification band and a second identifier",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Rely on the room number to identify the correct client",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Ask the client's roommate to confirm the client's identity",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Check only the medication label against the provider's order",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The Joint Commission's National Patient Safety Goals require at least two patient identifiers before administering medications: the client should state their name, and the nurse verifies against the identification band using two identifiers (name and date of birth, or name and medical record number). Room numbers are NOT acceptable identifiers because clients may change rooms. Another client cannot reliably identify a patient. While checking the medication label against the order is important, patient identification is the FIRST and most critical step. The 6 Rights of Medication Administration: right patient, right drug, right dose, right route, right time, right documentation. Source: RegisteredNurseRN — Medication Safety; Nurseslabs — Patient Identification.",
+    "tags": [
+      "patient-identification",
+      "medication-safety",
+      "two-identifiers",
+      "Joint-Commission",
+      "error-prevention"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Medication Safety",
+        "url": "https://www.registerednursern.com/medication-administration-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Patient Safety",
+        "url": "https://nurseslabs.com/patient-safety/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q225",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "safety-infection-control",
+    "stem": "A nurse is preparing to care for a client who has a documented latex allergy. Which action is most important?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Place the client on airborne precautions",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Remove all latex-containing products from the room and use non-latex alternatives",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Administer diphenhydramine (Benadryl) prophylactically before using latex gloves",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Document the allergy and continue using standard supplies",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "For clients with documented latex allergy, all latex-containing products must be removed from the room and replaced with non-latex alternatives (nitrile or vinyl gloves, latex-free IV tubing, blood pressure cuffs, stethoscope tubing, tourniquets, etc.). Latex allergy can cause reactions ranging from contact dermatitis to life-threatening anaphylaxis. Airborne precautions are for airborne pathogens (TB, measles), not latex allergy. Premedicating and still using latex does not prevent anaphylaxis and is unsafe. Documentation is important but insufficient without removing the allergen. The client should be scheduled as the first case of the day for procedures (to minimize airborne latex particles). Common latex-containing items: gloves, urinary catheters, wound drains, tourniquets. Source: Nurseslabs — Latex Allergy; RegisteredNurseRN — Allergy Management.",
+    "tags": [
+      "latex-allergy",
+      "non-latex",
+      "anaphylaxis-prevention",
+      "patient-safety",
+      "allergen-removal"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Latex Allergy",
+        "url": "https://nurseslabs.com/latex-allergy/"
+      },
+      {
+        "name": "RegisteredNurseRN - Latex Allergy",
+        "url": "https://www.registerednursern.com/latex-allergy-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q226",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "safe-effective-care",
+    "subcategory": "safety-infection-control",
+    "stem": "A nurse is reviewing safety practices with nursing students. Which statement about safety devices for sharps is correct?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Needles should be recapped using two hands for security before disposal",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Activate the safety mechanism on the needle device immediately after use and dispose in a sharps container at point of use",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Sharps containers should be filled to the top before replacing to reduce waste",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Used needles can be placed on the bedside table temporarily while documenting",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "OSHA's Bloodborne Pathogens Standard and the Needlestick Safety and Prevention Act require: use of safety-engineered sharps devices, activating the safety mechanism immediately after use, and disposing in a puncture-resistant sharps container at the point of use (not carried to another location). NEVER recap needles — this is the most common cause of needlestick injuries. If recapping is absolutely necessary (rare situations), use the one-handed scoop technique only. Sharps containers should be replaced when 2/3 to 3/4 full — overfilling increases injury risk. Never leave used sharps uncontained on any surface. The nurse is responsible for proper disposal of their own sharps. Source: RegisteredNurseRN — Sharps Safety; Nurseslabs — Standard Precautions.",
+    "tags": [
+      "sharps-safety",
+      "needlestick-prevention",
+      "OSHA",
+      "standard-precautions",
+      "disposal"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Sharps Safety",
+        "url": "https://www.registerednursern.com/infection-control-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Standard Precautions",
+        "url": "https://nurseslabs.com/standard-precautions/"
+      }
+    ],
+    "verified": true
   }
 ]

@@ -2,7 +2,7 @@
 
 An adaptive NCLEX-RN exam simulator designed to help nursing students prepare for the real exam using verified practice questions sourced from authoritative nursing education platforms.
 
-**Question Bank:** 210 questions | **Last Updated:** February 19, 2026 | **Version:** 1.7.0 | [Full Changelog](CHANGELOG.md)
+**Question Bank:** 226 questions | **Last Updated:** February 19, 2026 | **Version:** 1.8.0 | [Full Changelog](CHANGELOG.md)
 
 ## Educational Proposal
 
@@ -136,6 +136,7 @@ See the full update history with detailed stats in the [Changelog](CHANGELOG.md)
 
 | Version | Date | Questions Added | Total |
 |---------|------|-----------------|-------|
+| v1.8.0 | 2026-02-19 | +16 (q211–q226) | 226 |
 | v1.7.0 | 2026-02-19 | +19 (q192–q210) | 210 |
 | v1.6.0 | 2026-02-19 | +21 (q171–q191) | 191 |
 | v1.5.0 | 2026-02-19 | +24 (q147–q170) | 170 |

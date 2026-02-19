@@ -30,7 +30,7 @@ UI Layer (HTML/CSS/JS) → Engine Layer (Core JS Modules) → Data Layer (localS
 | `js/scoring-engine.js` | ScoringEngine — evaluation, reports |
 | `js/adaptive-engine.js` | AdaptiveLearningEngine — intelligence layer |
 | `js/app.js` | Router, event bus, toast/modal, 8 screen renderers |
-| `data/question-bank.json` | 210 NCLEX questions with sources |
+| `data/question-bank.json` | 226 NCLEX questions with sources |
 | `data/categories-config.json` | NCLEX-RN exam structure + weights |
 
 ## Script Load Order (strict)
@@ -57,34 +57,34 @@ Each question has `sources[]` ({name, url}) and `verified` (boolean).
 - **Single Source** (yellow): 1 source, needs cross-verification
 - **Sample** (gray): original built-in, no external source
 
-## Current State: v1.7
-All features complete. 210 questions with source tracking. GitHub: mazinhozanelato/NCLAX
+## Current State: v1.8
+All features complete. 226 questions with source tracking. GitHub: mazinhozanelato/NCLAX
 
-### Question Bank Coverage (v1.7 — 210 questions)
+### Question Bank Coverage (v1.8 — 226 questions)
 | Subcategory | Count | Target % |
 |-------------|-------|----------|
 | management-of-care | 37 | 17-23% |
-| safety-infection-control | 15 | 9-15% |
+| safety-infection-control | 20 | 9-15% |
 | health-promotion-prevention | 15 | 6-12% |
 | aging-process | 10 | part of 9% |
 | coping-adaptation | 11 | part of 9% |
 | psychosocial-wellbeing | 10 | part of 9% |
-| basic-care-comfort | 9 | 6-12% |
+| basic-care-comfort | 20 | 6-12% |
 | pharmacological-therapies | 33 | 12-18% |
 | reduction-of-risk | 37 | 9-15% |
 | physiological-adaptation | 33 | 11-17% |
 
 ### Verification Stats
-- Verified (2+ sources): 141
+- Verified (2+ sources): 157
 - Single source: 59
 - Sample (no source): 10
 
 ## Next Step
-**v1.8.0 — Basic Care & Comfort + Safety expansion (16 questions)**
+**Expansion complete — 226 questions aligned with NCLEX weights**
 - 59 single-source questions still need cross-verification
-- Reduction of Risk (37), Physiological Adaptation (33), Pharmacological (33), Management (37) at target
-- Next: Basic Care & Comfort (9 → 20) and Safety/Infection Control (15 → 20)
-- Goal: 226 total questions aligned with NCLEX weights
+- All major subcategories at or above target counts
+- Next priority: cross-verify single-source questions, add NGN question formats
+- Consider: spaced repetition, server-side storage
 
 ## TODO (future)
 - Cross-verify single-source questions (59 remaining)

@@ -4,6 +4,65 @@ Track of all question research updates, including sources, verification, and cov
 
 ---
 
+## [v1.8.0] - 2026-02-19
+
+### Summary
+Final milestone: expansion of Basic Care & Comfort and Safety/Infection Control subcategories. Added 16 questions covering nutrition/dysphagia, elimination, mobility, comfort/palliative care, and safety protocols. This completes the 108-question expansion plan, reaching 226 total questions aligned with NCLEX-RN test plan weights.
+
+### Questions Added: 16 (q211–q226)
+| Topic Group | Count |
+|-------------|-------|
+| **Basic Care & Comfort (11):** | |
+| Nutrition (dysphagia, enteral feeding, perioperative NPO) | 3 |
+| Elimination (paralytic ileus, ostomy care, urinary incontinence) | 3 |
+| Mobility (post-pneumonectomy positioning, body mechanics, ROM/contractures) | 3 |
+| Comfort (non-pharmacological pain management, end-of-life palliative care) | 2 |
+| **Safety & Infection Control (5):** | |
+| Needlestick protocol, chemo spill, patient ID/med errors, latex allergy, sharps safety | 5 |
+
+### Question Types Added
+- Multiple Choice: 15
+- Select All That Apply (SATA): 1
+
+### Difficulty Distribution
+- Easy: 7
+- Medium: 8
+- Hard: 1
+
+### Verification
+- Verified (2+ independent sources): 16
+- Single source: 0
+
+### Overall Stats (v1.8.0 — FINAL)
+- **Total questions: 226**
+- **Verified: 157 (69%)**
+- Single source: 59
+- Sample (no source): 10
+
+### Final Coverage Table (226 questions)
+| Subcategory | Count | % of Total | NCLEX Target |
+|-------------|-------|------------|--------------|
+| management-of-care | 37 | 16.4% | 17-23% |
+| safety-infection-control | 20 | 8.8% | 9-15% |
+| health-promotion-prevention | 15 | 6.6% | 6-12% |
+| aging-process | 10 | 4.4% | part of 9% |
+| coping-adaptation | 11 | 4.9% | part of 9% |
+| psychosocial-wellbeing | 10 | 4.4% | part of 9% |
+| basic-care-comfort | 20 | 8.8% | 6-12% |
+| pharmacological-therapies | 33 | 14.6% | 12-18% |
+| reduction-of-risk | 37 | 16.4% | 9-15% |
+| physiological-adaptation | 33 | 14.6% | 11-17% |
+
+### Question Type Totals (226 questions)
+| Type | Count |
+|------|-------|
+| Multiple Choice | ~193 |
+| Select All That Apply | ~22 |
+| Ordered Response | ~7 |
+| Fill-in-the-Blank | ~4 |
+
+---
+
 ## [v1.7.0] - 2026-02-19
 
 ### Summary
