@@ -2,6 +2,8 @@
 
 An adaptive NCLEX-RN exam simulator designed to help nursing students prepare for the real exam using verified practice questions sourced from authoritative nursing education platforms.
 
+**Question Bank:** 60 questions | **Last Updated:** February 18, 2026 | **Version:** 1.1.0 | [Full Changelog](CHANGELOG.md)
+
 ## Educational Proposal
 
 This program was built with one clear objective: **provide nursing students with a realistic, high-quality study tool that mirrors the actual NCLEX-RN exam experience.**
@@ -125,6 +127,17 @@ Questions are stored in `data/question-bank.json`. You can also add them through
 | `health-promotion` | Health Promotion and Maintenance | 9% |
 | `psychosocial-integrity` | Psychosocial Integrity | 9% |
 | `physiological-integrity` | Physiological Integrity | 56% |
+
+## Question Bank Updates
+
+The question bank is updated periodically (monthly or quarterly) with new researched and verified questions. Each update targets coverage gaps in under-represented NCLEX categories and cross-verifies previously single-source questions.
+
+See the full update history with detailed stats in the [Changelog](CHANGELOG.md).
+
+| Version | Date | Questions Added | Total |
+|---------|------|-----------------|-------|
+| v1.1.0 | 2026-02-18 | +50 (q011–q060) | 60 |
+| v1.0.0 | 2026-02-18 | 10 (q001–q010) | 10 |
 
 ## Architecture
 
