@@ -2649,5 +2649,1681 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": "q061",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A patient is receiving IV amiodarone. Which of the following findings should be reported to the healthcare provider IMMEDIATELY?",
+    "options": [
+      {
+        "id": "A",
+        "text": "ECG shows atrial fibrillation with a rate of 100-110 bpm",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Blood pressure is 102/78 mmHg, and the patient reports fatigue",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Patient is experiencing a persistent dry cough and mild shortness of breath",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Patient reports fluttering or palpitations in the chest",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Amiodarone can cause pulmonary toxicity, which presents as cough, shortness of breath, fever, chest pain, and wheezing. This is a serious adverse effect that requires immediate intervention. Atrial fibrillation and palpitations are expected findings in a patient being treated for arrhythmia, and the blood pressure reading with fatigue is within acceptable range. Source: RegisteredNurseRN - Antiarrhythmics Pharmacology Quiz Nursing.",
+    "tags": [
+      "antiarrhythmics",
+      "amiodarone",
+      "pulmonary-toxicity",
+      "cardiac-medications"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Antiarrhythmics Pharmacology Quiz Nursing",
+        "url": "https://www.registerednursern.com/antiarrhythmics-pharmacology-quiz-nursing/"
+      },
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Pharmacology Cardiovascular Medications",
+        "url": "https://www.rnpedia.com/practice-exams/nclex-exam/nclex-practice-exam-for-pharmacology-cardiovascular-medications/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q062",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A patient is prescribed Warfarin (Coumadin) for the treatment of a blood clot. What is the therapeutic INR range for this medication?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2-3",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "1-3",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "4-8",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "0.5-2.5",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The therapeutic INR range for warfarin is 2-3 for most indications such as DVT, PE, and atrial fibrillation. For patients with mechanical heart valves, the range may be extended to 2.5-3.5. An INR below 2 indicates insufficient anticoagulation with clot risk, while an INR above 3 increases bleeding risk. Source: RegisteredNurseRN - Warfarin NCLEX Questions.",
+    "tags": [
+      "anticoagulants",
+      "warfarin",
+      "INR",
+      "cardiac-medications",
+      "lab-values"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Warfarin NCLEX Questions (Coumadin)",
+        "url": "https://www.registerednursern.com/warfarin-nclex-questions-coumadin/"
+      },
+      {
+        "name": "RegisteredNurseRN - PT/INR vs aPTT Nursing NCLEX Questions",
+        "url": "https://www.registerednursern.com/pt-inr-vs-aptt-nursing-quiz/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q063",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "The nurse receives an order to draw a peak level on a patient prescribed Gentamicin via Intravenous (IV) infusion. The infusion will take 30 minutes. When is the best time for the nurse to draw this peak level?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Immediately before the next dose of Gentamicin",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "4 hours after infusion is complete",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "30 minutes after infusion is complete",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "30 minutes before starting the infusion",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The peak level represents the highest concentration of medication in the blood and should be drawn 30 minutes after the IV infusion is complete. This timing captures when the drug reaches its maximum serum concentration. Option A describes when to draw a trough level, not a peak level. Drawing at 4 hours or before the infusion would not accurately reflect the peak concentration. Source: RegisteredNurseRN - Aminoglycosides NCLEX Quiz Questions.",
+    "tags": [
+      "antibiotics",
+      "aminoglycosides",
+      "gentamicin",
+      "peak-trough",
+      "lab-values"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Aminoglycosides (Antibiotics) NCLEX Quiz Questions",
+        "url": "https://www.registerednursern.com/aminoglycosides-antibiotics-nclex-quiz-questions/"
+      },
+      {
+        "name": "RegisteredNurseRN - Antibiotics Nursing Pharmacology Questions",
+        "url": "https://www.registerednursern.com/antibiotics-nursing-pharmacology-questions/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q064",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "Your patient's blood glucose level is 215 mg/dL. The patient is about to eat lunch. Per sliding scale, you administer 4 units of Insulin Lispro (Humalog) subcutaneously at 1130. As the nurse, you know the patient is most at risk for hypoglycemia at what time?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1145",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "1230",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "1430",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "1630",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Insulin Lispro is a rapid-acting insulin with an onset of approximately 15 minutes, a peak of about 1 hour, and a duration of approximately 3 hours. Hypoglycemia risk is highest during the insulin's peak effect, which is when it works the strongest to lower blood glucose. Since the medication was administered at 1130, peak effect occurs at approximately 1230 (one hour later), making this the time of greatest hypoglycemia risk. Source: RegisteredNurseRN - NCLEX Practice Question on Insulin.",
+    "tags": [
+      "insulin",
+      "rapid-acting",
+      "lispro",
+      "hypoglycemia",
+      "peak-onset-duration"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - NCLEX Practice Question on Insulin",
+        "url": "https://www.registerednursern.com/nclex-practice-question-on-insulin/"
+      },
+      {
+        "name": "RegisteredNurseRN - Insulin Types Quiz for Nursing Students",
+        "url": "https://www.registerednursern.com/insulin-types-quiz"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q065",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "Nurse Rachel is assessing four clients who are candidates for opioid analgesia. Aware of the potential for respiratory depression, a serious side effect of opioid use, she evaluates which client is at the greatest risk for this adverse outcome.",
+    "options": [
+      {
+        "id": "A",
+        "text": "A 40-year-old male with a broken leg who is a smoker",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "A 28-year-old female postpartum with episiotomy pain",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "A 35-year-old female with migraines and allergies",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "A 65-year-old male with COPD and mild hip pain",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "The patient with the greatest risk for respiratory depression due to opioid analgesia is the 65-year-old male with COPD. COPD is a chronic lung disease that already compromises respiratory function, making this patient particularly vulnerable to the respiratory depressant effects of opioids. Age is also a contributing factor, as elderly patients metabolize drugs more slowly. The other patients do not have underlying conditions that significantly increase their risk for respiratory depression. Source: RNpedia - MSN Exam for Pain.",
+    "tags": [
+      "opioids",
+      "respiratory-depression",
+      "COPD",
+      "pain-management",
+      "patient-safety"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - MSN Exam for Pain",
+        "url": "https://www.rnpedia.com/practice-exams/medical-and-surgical-nursing-exams/msn-exam-pain/"
+      },
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Pharmacology: Anesthetic and Narcotic Medications",
+        "url": "https://www.rnpedia.com/practice-exams/nclex-exam/nclex-practice-exam-for-pharmacology-anesthetic-and-narcotic-medications/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q066",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A patient is currently taking Spironolactone. You notice the following ECG changes on the patient's ECG: tall, peaked T-waves, wide QRS complex, and ST segment depression. The patient's morning lab results are back. Based on these ECG findings, the nurse makes it priority to check what lab result?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chloride",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Potassium",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Phosphate",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Sodium",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The ECG changes described (tall peaked T-waves, wide QRS complex, and ST segment depression) are classic signs of hyperkalemia. Spironolactone is a potassium-sparing diuretic that increases serum potassium levels by inhibiting aldosterone. This makes potassium the priority lab value to check. Normal potassium is 3.5-5.0 mEq/L. Hyperkalemia can lead to life-threatening cardiac arrhythmias if not identified and treated promptly. Source: RegisteredNurseRN - Potassium-Sparing Diuretics NCLEX Questions.",
+    "tags": [
+      "electrolytes",
+      "hyperkalemia",
+      "potassium",
+      "spironolactone",
+      "ECG-changes",
+      "diuretics"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Potassium-Sparing Diuretics NCLEX Questions Pharmacology",
+        "url": "https://www.registerednursern.com/potassium-sparing-diuretics-nclex-questions-pharmacology"
+      },
+      {
+        "name": "Nurseslabs - Fluid & Electrolyte NCLEX Practice Quiz",
+        "url": "https://nurseslabs.com/fluid-electrolyte-homeostasis-nclex-practice-questions/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q067",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A 36-year-old patient is admitted to the ER. The patient is extremely diaphoretic, shivering, experiencing muscle rigidity and irritability. The patient's heart rate is 140 and temperature 102.6 F. The patient has a history of depression, diabetes, atrial fibrillation, and hypertension. The patient's family reports the patient has also been experiencing a constant dry cough and has been taking an over-the-counter medication in an attempt to get relief from the cough. The patient is currently taking Sertraline and the other medications below. What other medication taken by the patient should the nurse immediately notify the doctor about?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Glyburide",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Dextromethorphan",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Metoprolol",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Lisinopril",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The patient's presentation (diaphoresis, shivering, muscle rigidity, irritability, tachycardia, hyperthermia) is consistent with serotonin syndrome. Dextromethorphan is an OTC cough suppressant that, when combined with Sertraline (an SSRI), can dangerously increase serotonin levels leading to serotonin syndrome. This is a life-threatening condition requiring immediate medical attention. Glyburide (antidiabetic), metoprolol (beta-blocker), and lisinopril (ACE inhibitor) do not increase serotonin levels. Source: RegisteredNurseRN - SSRIs Antidepressants NCLEX Questions.",
+    "tags": [
+      "psychotropic-medications",
+      "SSRIs",
+      "serotonin-syndrome",
+      "drug-interactions",
+      "sertraline"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - SSRIs (Antidepressants) NCLEX Questions Quiz",
+        "url": "https://www.registerednursern.com/ssris-antidepressants-nclex-questions/"
+      },
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Pharmacology for Neurologic and Psychiatric Medications",
+        "url": "https://www.rnpedia.com/practice-exams/nclex-exam/nclex-practice-exam-for-pharmacology-for-neurologic-and-psychiatric-medications/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q068",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A patient with heart failure is prescribed Digoxin and a loop diuretic. The nurse knows that what finding would increase the risk of Digoxin toxicity?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Magnesium level 1.8 mg/dL",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Potassium 2 mEq/L",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "BUN 15",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Albumin 5 g/dL",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Hypokalemia (low potassium level) increases the risk of Digoxin toxicity. Loop diuretics cause potassium wasting, leading to hypokalemia. When potassium levels are low, digoxin binds more readily to cardiac cells, increasing its toxic effects. A potassium of 2 mEq/L is critically low (normal 3.5-5.0 mEq/L). The nurse should always check a patient's potassium result before administering Digoxin, especially if they are taking a loop diuretic. Signs of digoxin toxicity include visual disturbances, nausea, vomiting, and dysrhythmias. Source: RegisteredNurseRN - Loop Diuretics NCLEX Questions.",
+    "tags": [
+      "digoxin",
+      "hypokalemia",
+      "loop-diuretics",
+      "drug-interactions",
+      "electrolytes",
+      "cardiac-medications"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Loop Diuretics Pharmacology NCLEX Questions",
+        "url": "https://www.registerednursern.com/loop-diuretics-nclex-questions/"
+      },
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Pharmacology Cardiovascular Medications",
+        "url": "https://www.rnpedia.com/practice-exams/nclex-exam/nclex-practice-exam-for-pharmacology-cardiovascular-medications/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q069",
+    "type": "select-all-that-apply",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "Your patient was started on Warfarin (Coumadin) a week ago for the treatment of a DVT. Which findings below would indicate an adverse reaction to this medication? Select all that apply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Patient reports a severe and sudden headache",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Melena",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Chvostek's Sign",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Hematuria",
+        "isCorrect": true
+      },
+      {
+        "id": "E",
+        "text": "Coffee ground emesis",
+        "isCorrect": true
+      },
+      {
+        "id": "F",
+        "text": "Bleeding gums",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "Options A, B, D, E, and F all indicate bleeding complications from warfarin therapy. A severe sudden headache may indicate intracranial bleeding. Melena (dark tarry stools) indicates GI bleeding. Hematuria (blood in urine) indicates urinary tract bleeding. Coffee ground emesis indicates upper GI bleeding. Bleeding gums indicate mucosal bleeding from excessive anticoagulation. Chvostek's Sign is a facial twitch elicited by tapping the facial nerve, which indicates hypocalcemia and is not related to warfarin therapy. Source: RegisteredNurseRN - Warfarin NCLEX Questions.",
+    "tags": [
+      "anticoagulants",
+      "warfarin",
+      "bleeding",
+      "adverse-effects",
+      "medication-safety",
+      "SATA"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Warfarin NCLEX Questions (Coumadin)",
+        "url": "https://www.registerednursern.com/warfarin-nclex-questions-coumadin/"
+      },
+      {
+        "name": "RegisteredNurseRN - Heparin NCLEX Questions (Anticoagulation)",
+        "url": "https://www.registerednursern.com/heparin-nclex-questions-anticoagulation/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q070",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A charge nurse is observing a newly licensed nurse administer medications to a client. Which of the following actions by the newly licensed nurse should prompt the charge nurse to intervene?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Documents medication administration prior to administering it",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Verifies the medication against the prescription and medication label",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Checks the provider's orders and confirmed dosage in a medication reference guide",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Scans the bar code on the medication administration record and the client's arm band",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Documenting medication administration before actually giving it to the client is an unsafe practice and requires immediate intervention by the charge nurse. Proper procedure mandates that nurses document administration after confirming the medication was delivered to the patient. Pre-documentation can lead to errors if the medication is ultimately not given. Options B, C, and D represent correct nursing actions that support the rights of medication administration. Source: Naxlex - Medication Administration NCLEX Question.",
+    "tags": [
+      "medication-safety",
+      "rights-of-medication-administration",
+      "documentation",
+      "nursing-practice"
+    ],
+    "sources": [
+      {
+        "name": "Naxlex - Medication Administration NCLEX Question",
+        "url": "https://www.naxlex.com/nursing/question/a-charge-nurse-is-observing-a-newly-licensed-nurse-administer-medicati"
+      },
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Pharmacology Essential Principles and Drug Administration",
+        "url": "https://www.rnpedia.com/practice-exams/nclex-exam/nclex-practice-exam-for-pharmacology-essential-principles-and-drug-administration/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q071",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "basic-care-comfort",
+    "stem": "A nurse is teaching about food choices to a client who has chronic kidney disease and must limit potassium intake. Which of the following choices should the nurse recommend as containing the least potassium?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 cup white rice",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "1/2 cup nonfat yogurt",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "1 medium baked potato with skin",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "2 tablespoons peanut butter",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "White rice is a low-potassium food containing approximately 54 mg of potassium per cup, making it significantly lower than the alternatives. Nonfat yogurt contains 200-300 mg per serving, peanut butter has 150-200 mg per serving, and a baked potato with skin exceeds 900 mg of potassium. Patients with chronic kidney disease must limit potassium because impaired glomerular filtration prevents adequate potassium excretion, leading to hyperkalemia. Source: Naxlex - Food Choices for Chronic Kidney Disease; RegisteredNurseRN - Chronic Kidney Disease NCLEX Practice Questions.",
+    "tags": [
+      "nutrition",
+      "renal-diet",
+      "potassium",
+      "chronic-kidney-disease"
+    ],
+    "sources": [
+      {
+        "name": "Naxlex - Nursing Exam: Food Choices for CKD",
+        "url": "https://www.naxlex.com/nursing/question/a-nurse-is-teaching-about-food-choices-to-a-client-who-has-chronic-kid"
+      },
+      {
+        "name": "RegisteredNurseRN - Chronic Kidney Disease NCLEX Practice Questions",
+        "url": "https://www.registerednursern.com/chronic-kidney-disease-nclex-practice-questions/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q072",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "basic-care-comfort",
+    "stem": "A nurse is caring for a client who has recently undergone a mastectomy. What is the best position for the nurse to place the client in?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Head elevated 30 degrees with unaffected arm supported on a pillow",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Side-lying position facing forward",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Head elevated 30 degrees with affected arm supported on a pillow",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Lying on back with affected arm flat on the bed",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "After a mastectomy, the client should be positioned with the head of the bed elevated to approximately 30 degrees to promote drainage and ease breathing. The affected arm should be elevated and supported on a pillow to prevent lymphedema, reduce swelling, and maintain shoulder mobility. Positioning on the affected side or leaving the arm unsupported can impair lymphatic drainage and increase the risk of complications. Source: RNpedia - NCLEX Practice Exam for Patient Positioning; RegisteredNurseRN - NCLEX Practice Questions Test Positioning Patients.",
+    "tags": [
+      "positioning",
+      "post-surgical",
+      "mastectomy",
+      "lymphedema-prevention"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Patient Positioning",
+        "url": "https://www.rnpedia.com/practice-exams/nclex-exam/nclex-practice-exam-patient-positioning/"
+      },
+      {
+        "name": "RegisteredNurseRN - NCLEX Practice Questions Test Positioning Patients",
+        "url": "https://www.registerednursern.com/nclex-practice-questions-test-positioning-patients-nursing-fundamentals/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q073",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "basic-care-comfort",
+    "stem": "A patient will be using a walker for the first time. The nurse adjusts the walker to fit the patient. Which finding demonstrates that the walker properly fits the patient?",
+    "options": [
+      {
+        "id": "A",
+        "text": "There is a 2-3 finger width distance between the hand grips and the wrists",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "The elbows bend at 15-30 degrees when the patient holds the hand grips",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "The patient's back is in mid-line with the crossbar of the walker",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "The crossbar is even with the greater trochanter",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "When a walker properly fits a patient, the elbows should bend at approximately 15-30 degrees when the patient holds onto the hand grips. This angle ensures the patient can bear weight effectively through the arms without straining the shoulders or wrists. An improper fit can lead to poor posture, increased risk of falls, and upper extremity injury. The 2-3 finger width measurement applies to crutch axillary padding, not walker fitting. Source: RegisteredNurseRN - Assistive Devices NCLEX Questions.",
+    "tags": [
+      "mobility",
+      "assistive-devices",
+      "walker",
+      "ambulation"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Assistive Devices NCLEX Questions",
+        "url": "https://www.registerednursern.com/assistive-devices-nclex-questions-crutches-canes-walkers/"
+      },
+      {
+        "name": "Quizlet - Assistive Devices NCLEX Questions",
+        "url": "https://quizlet.com/487808790/assistive-devices-nclex-questions-crutches-canes-walkers-flash-cards/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q074",
+    "type": "select-all-that-apply",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "basic-care-comfort",
+    "stem": "A nurse is using the Braden Scale to determine a patient's risk for pressure injury development. Which of the following are subscales used in calculating the Braden Scale score? Select all that apply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mobility",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Pain",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Nutrition",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Sensory perception",
+        "isCorrect": true
+      },
+      {
+        "id": "E",
+        "text": "Moisture",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "The Braden Scale consists of six subscales: sensory perception, moisture, activity, mobility, nutrition, and friction/shear. Each subscale is rated on a scale of 1 to 4, except friction and shear which is rated 1 to 3. Total scores range from 6 to 23, with lower scores indicating higher risk for pressure injury development. Pain is NOT a Braden Scale subscale. Source: Naxlex - Braden Scale NCLEX Question; RegisteredNurseRN - Pressure Ulcer NCLEX Questions.",
+    "tags": [
+      "skin-care",
+      "Braden-scale",
+      "pressure-injury-prevention",
+      "risk-assessment"
+    ],
+    "sources": [
+      {
+        "name": "Naxlex - Braden Scale Nursing Exam Question",
+        "url": "https://www.naxlex.com/nursing/question/the-nurse-uses-the-braden-scale-to-determine-the-patient39s-risk-fo"
+      },
+      {
+        "name": "RegisteredNurseRN - Pressure Ulcer NCLEX Questions",
+        "url": "https://www.registerednursern.com/pressure-ulcer-nclex-questions/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q075",
+    "type": "ordered-response",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "basic-care-comfort",
+    "stem": "A nurse is preparing to insert an indwelling urinary catheter for a female client. Place the following actions in the correct sequence the nurse should perform.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Insert the catheter until a flow of urine begins"
+      },
+      {
+        "id": "B",
+        "text": "Attach the prefilled syringe to the indwelling catheter inflation hub"
+      },
+      {
+        "id": "C",
+        "text": "Lubricate the catheter and place the fenestrated drape over the perineum"
+      },
+      {
+        "id": "D",
+        "text": "Apply sterile gloves and place cleansing balls in antiseptic solution"
+      },
+      {
+        "id": "E",
+        "text": "Cleanse the urinary meatus with the dominant hand in a downward motion"
+      }
+    ],
+    "correctOrder": [
+      "D",
+      "C",
+      "E",
+      "A",
+      "B"
+    ],
+    "rationale": "The correct sequence for indwelling urinary catheter insertion follows proper aseptic technique: (1) Apply sterile gloves and prepare cleansing materials first to establish the sterile field. (2) Lubricate the catheter tip and position the sterile fenestrated drape. (3) Cleanse the urinary meatus using downward strokes with antiseptic-soaked cotton balls. (4) Insert the catheter until urine flow is observed, then advance an additional 1-2 inches. (5) Inflate the retention balloon to secure the catheter in place. Source: Naxlex - Indwelling Urinary Catheter Insertion Sequence.",
+    "tags": [
+      "elimination",
+      "urinary-catheter",
+      "sterile-technique",
+      "CAUTI-prevention"
+    ],
+    "sources": [
+      {
+        "name": "Naxlex - Indwelling Urinary Catheter Insertion Sequence",
+        "url": "https://www.naxlex.com/nursing/question/a-nurse-is-preparing-to-insert-an-indwelling-urinary-catheter-for-a-fe"
+      },
+      {
+        "name": "RegisteredNurseRN - Indwelling Foley Catheter Insertion",
+        "url": "https://www.registerednursern.com/indwelling-foley-catheter-how-to-insert-a-foley-catheter/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q076",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "basic-care-comfort",
+    "stem": "Nurse Laura is attending to a resident in a long-term care facility who reports experiencing pain. What should be the nurse's first step in assessing the client's pain?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Obtain a description of the pain's location and intensity",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Acknowledge and accept the client's report of pain",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Ask the client to identify coping strategies for pain",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Assess the current status of the client's pain using a numeric scale",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Pain assessment must begin by acknowledging and accepting the client's report of pain, since pain is a subjective experience and the patient's self-report constitutes the most reliable pain indicator. This validation establishes trust before proceeding with further detailed assessment. While obtaining location, intensity, and using a pain scale are important subsequent steps, the nurse must first accept the client's report as valid. Source: RNpedia - NCLEX Practice Exam for Basic Care and Comfort; Nurseslabs - Pain Management NCLEX Practice Quiz.",
+    "tags": [
+      "pain-assessment",
+      "non-pharmacological",
+      "therapeutic-communication",
+      "subjective-data"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Basic Care and Comfort",
+        "url": "https://www.rnpedia.com/practice-exams/nclex-exam/nclex-practice-exam-basic-care-comfort/"
+      },
+      {
+        "name": "Nurseslabs - Pain Management NCLEX Practice Quiz",
+        "url": "https://nurseslabs.com/pain-management-nclex-practice-quiz-1-25-items/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q077",
+    "type": "select-all-that-apply",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "basic-care-comfort",
+    "stem": "The nurse is educating a client with insomnia about how to promote better sleep. Which interventions should the nurse include in the teaching? Select all that apply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Enjoy a glass of wine before bed to promote relaxation",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Do not exercise at least one hour prior to sleep",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Go to bed at the same time every evening",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Read a book for 30 minutes in bed before sleeping",
+        "isCorrect": false
+      },
+      {
+        "id": "E",
+        "text": "Do not take naps during the day",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "Effective sleep hygiene interventions include: avoiding exercise close to bedtime as it can increase alertness; maintaining a consistent bedtime schedule to regulate the circadian rhythm; and avoiding daytime naps that can disrupt nighttime sleep patterns. Alcohol (Option A) is incorrect because while it may initially cause drowsiness, it disrupts sleep quality and reduces REM sleep. Reading in bed (Option D) is incorrect because stimulus control therapy recommends associating the bed exclusively with sleep. Source: Naxlex - Insomnia and Sleep Promotion NCLEX Question.",
+    "tags": [
+      "rest-and-sleep",
+      "sleep-hygiene",
+      "insomnia",
+      "patient-education"
+    ],
+    "sources": [
+      {
+        "name": "Naxlex - Insomnia and Sleep Promotion Nursing Exam",
+        "url": "https://www.naxlex.com/nursing/question/the-nurse-is-educating-a-client-with-insomnia-how-to-promote-better-sl"
+      },
+      {
+        "name": "Quizlet - NCLEX Questions Rest and Sleep",
+        "url": "https://quizlet.com/123755717/nclex-questions-rest-and-sleep-flash-cards/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q078",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "basic-care-comfort",
+    "stem": "A nurse is providing dietary education to a client who has recently experienced a myocardial infarction and is now on a sodium-restricted diet. Which meal plan would be the most suitable to recommend?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3 oz. broiled fish, 1 baked potato, 1/2 cup canned beets, 1 orange, and milk",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "3 oz. canned salmon, fresh broccoli, 1 biscuit, tea, and 1 apple",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "A bologna sandwich, fresh eggplant, 2 oz. fresh fruit, tea, and apple juice",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "3 oz. turkey, 1 fresh sweet potato, 1/2 cup fresh green beans, milk, and 1 orange",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "Option D is the most appropriate sodium-restricted meal because it emphasizes fresh, unprocessed foods. Fresh turkey, sweet potato, and green beans are naturally low in sodium. Option A contains canned beets which are high in sodium. Option B includes canned salmon with significant added sodium. Option C contains bologna, a processed deli meat very high in sodium. Source: RNpedia - NCLEX Practice Exam for Basic Care and Comfort.",
+    "tags": [
+      "nutrition",
+      "cardiac-diet",
+      "sodium-restriction",
+      "myocardial-infarction"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Basic Care and Comfort",
+        "url": "https://www.rnpedia.com/practice-exams/nclex-exam/nclex-practice-exam-basic-care-comfort/"
+      },
+      {
+        "name": "Nurseslabs - Fundamentals of Nursing NCLEX Practice Questions",
+        "url": "https://nurseslabs.com/nclex-exam-basic-care-comfort-20-items/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q079",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is reviewing the arterial blood gas (ABG) results of a client who the provider suspects has metabolic acidosis. Which of the following results should the nurse expect to see?",
+    "options": [
+      {
+        "id": "A",
+        "text": "HCO3 above 26 mEq/L",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "PaCO2 above 45 mm Hg",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "PaO2 below 70 mm Hg",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "pH below 7.35",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "In metabolic acidosis, the primary disturbance involves decreased bicarbonate (HCO3-) and a lowered pH. The defining characteristic is a pH below 7.35, since normal blood pH ranges from 7.35 to 7.45. The body attempts respiratory compensation by increasing ventilation to eliminate CO2, which would lower PaCO2, not raise it. An elevated HCO3 would indicate alkalosis. Source: Naxlex - ABG Interpretation NCLEX Questions.",
+    "tags": [
+      "lab-values",
+      "ABG",
+      "metabolic-acidosis",
+      "acid-base-balance"
+    ],
+    "sources": [
+      {
+        "name": "Naxlex - ABG Interpretation NCLEX Questions",
+        "url": "https://www.naxlex.com/nursing/question/a-nurse-is-reviewing-the-arterial-blood-gas-abg-results-of-a-client"
+      },
+      {
+        "name": "Nurseslabs - Arterial Blood Gas (ABGs) Interpretation Quiz",
+        "url": "https://nurseslabs.com/arterial-blood-gas-abgs-nclex-quiz/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q080",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A patient's arterial blood gas (ABG) results include a pH of 7.32, a PaCO2 of 56 mm Hg, and an HCO3 of 24 mEq/L. Which acid-base imbalance would the nurse use when developing the patient's plan of care?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Metabolic acidosis",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Metabolic alkalosis",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Respiratory acidosis",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Respiratory alkalosis",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The pH of 7.32 is low (acidotic, below normal 7.35-7.45). The PaCO2 of 56 mm Hg is elevated (normal 35-45 mm Hg), indicating the respiratory system is causing the acid accumulation. The HCO3 of 24 mEq/L is within normal range (22-26 mEq/L), meaning metabolic compensation has not yet occurred. This is uncompensated respiratory acidosis. Source: Naxlex - ABG Analysis NCLEX Questions.",
+    "tags": [
+      "lab-values",
+      "ABG",
+      "respiratory-acidosis",
+      "acid-base-balance"
+    ],
+    "sources": [
+      {
+        "name": "Naxlex - ABG Analysis NCLEX Questions",
+        "url": "https://www.naxlex.com/nursing/question/a-patients-arterial-blood-gas-abg-results-include-a-ph-of-732-a-p"
+      },
+      {
+        "name": "Nurseslabs - Arterial Blood Gas Interpretation Guide",
+        "url": "https://nurseslabs.com/arterial-blood-gas-abgs-interpretation-guide/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q081",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A patient reports itching, chills, and headache 10 minutes into a blood transfusion. The patient's temperature is 99.8 degrees F. What is the priority nursing action?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Stop the transfusion immediately",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Notify the physician",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Decrease the transfusion rate",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Reassure the patient that mild symptoms are expected",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "When a patient exhibits signs and symptoms of a possible transfusion reaction (itching, chills, headache), the nurse's priority action is to stop the transfusion immediately. After stopping the transfusion, the nurse should disconnect the blood tubing, replace it with new tubing, and infuse normal saline. Then the nurse will notify the physician and blood bank. Decreasing the rate is not appropriate when a reaction is suspected. Source: RegisteredNurseRN - Blood Transfusion NCLEX Questions.",
+    "tags": [
+      "blood-transfusion",
+      "transfusion-reaction",
+      "priority-action",
+      "patient-safety"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Blood Transfusion NCLEX Questions",
+        "url": "https://www.registerednursern.com/blood-transfusion-nclex-questions/"
+      },
+      {
+        "name": "Nurseslabs - Blood Transfusion Therapy Nursing Interventions",
+        "url": "https://nurseslabs.com/blood-transfusion/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q082",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is providing care to a patient with a chest tube and notes continuous bubbling in the water seal chamber and oscillation (tidaling). What is the correct nursing intervention?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Reposition the patient because the tubing is likely kinked",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Continue monitoring the drainage system as this is an expected finding",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Increase suction until the bubbling stops",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Check the drainage system for an air leak",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "Continuous bubbling in the water seal chamber indicates an air leak somewhere in the system. While intermittent bubbling may be normal (especially with a pneumothorax), continuous bubbling is not normal and requires investigation. Oscillation (tidaling) is a normal finding that indicates the system is functioning and the tube is patent. Increasing suction would not resolve an air leak. Source: RegisteredNurseRN - Chest Tube NCLEX Questions.",
+    "tags": [
+      "chest-tube",
+      "water-seal",
+      "air-leak",
+      "assessment"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Chest Tube NCLEX Questions",
+        "url": "https://www.registerednursern.com/chest-tube-nclex-questions/"
+      },
+      {
+        "name": "Nurseslabs - Respiratory System NCLEX Practice Questions",
+        "url": "https://nurseslabs.com/respiratory-system-nclex-practice-questions/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q083",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is caring for a client who has a central venous access device. Which of the following actions should the nurse take?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Use a 5-mL syringe to flush the catheter",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Change the site dressing and stabilization device every 24 hours",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Expect blood to appear in the catheter lumen after flushing",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Use chlorhexidine solution to clean the catheter site",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "Chlorhexidine solution is the recommended antiseptic for central venous access device site care due to its broad-spectrum antimicrobial properties. It helps reduce catheter-related bloodstream infections. Using a small syringe (less than 10 mL) creates excessive pressure that can damage the catheter. Blood appearing in the catheter lumen after flushing indicates potential complications requiring investigation. Source: Naxlex - Central Venous Access Device NCLEX Questions.",
+    "tags": [
+      "central-line",
+      "infection-prevention",
+      "catheter-care",
+      "chlorhexidine"
+    ],
+    "sources": [
+      {
+        "name": "Naxlex - Central Venous Access Device NCLEX Questions",
+        "url": "https://www.naxlex.com/nursing/question/a-nurse-is-caring-for-a-client-who-has-a-central-venous-access-device"
+      },
+      {
+        "name": "RegisteredNurseRN - PICC Line Care",
+        "url": "https://www.registerednursern.com/picc-line-care-picc-line-dressing-change-clinical-nursing-skills/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q084",
+    "type": "select-all-that-apply",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is assisting a physician with chest tube removal. Which of the following actions are appropriate? Select all that apply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Teach the patient to breathe out deeply, then rapidly inhale during removal",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Gather petroleum gauze dressing per physician preference",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Place the patient in a Semi-Fowler's position",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Have the patient take a deep breath, exhale, and bear down (Valsalva maneuver) during removal",
+        "isCorrect": true
+      },
+      {
+        "id": "E",
+        "text": "Pre-medicate with analgesic as ordered",
+        "isCorrect": true
+      },
+      {
+        "id": "F",
+        "text": "Place the patient prone after removal",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "When assisting with chest tube removal: (B) Petroleum gauze creates an airtight seal over the insertion site to prevent air entry. (C) Semi-Fowler's position promotes optimal lung expansion. (D) The Valsalva maneuver increases intrathoracic pressure, preventing air from entering during removal. (E) Pre-medication with analgesics helps manage pain. Option A is incorrect because rapid inhalation during removal could draw air into the pleural space. Option F is incorrect because prone positioning is not indicated. Source: RegisteredNurseRN - Chest Tube NCLEX Questions.",
+    "tags": [
+      "chest-tube",
+      "removal",
+      "Valsalva-maneuver",
+      "SATA",
+      "postoperative-care"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Chest Tube NCLEX Questions",
+        "url": "https://www.registerednursern.com/chest-tube-nclex-questions/"
+      },
+      {
+        "name": "Nurseslabs - Fundamentals of Nursing NCLEX Practice Questions",
+        "url": "https://nurseslabs.com/patient-tubes-ngt-chest-tracheostomy-nclex-practice-quiz-15-items/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q085",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse just inserted a nasogastric tube. Which of the following is NOT a correct way to check correct placement of the tube?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Administering a 100 cc water flush and assessing for patient coughing",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Checking the pH of GI contents to be at 1 to 3.5",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Obtaining a sample of GI contents through the tube by aspirating",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Following the physician order for an X-ray to confirm placement",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Administering a 100 cc water flush to check for coughing is NOT an appropriate method to verify nasogastric tube placement. This technique is unreliable and dangerous because it could cause aspiration if the tube is in the lungs. Correct methods include: checking the pH of aspirated gastric contents (pH 1 to 3.5), aspirating GI contents for visual inspection, and obtaining an X-ray (the gold standard). Source: RegisteredNurseRN - NCLEX Practice Questions Quiz for Patients with Tubes.",
+    "tags": [
+      "nasogastric-tube",
+      "tube-placement",
+      "patient-safety",
+      "assessment"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - NCLEX Practice Questions Quiz for Patients with Tubes",
+        "url": "https://www.registerednursern.com/nclex-practice-questions-quiz-for-patients-with-tubes/"
+      },
+      {
+        "name": "RNpedia - Perioperative Nursing Notes",
+        "url": "https://www.rnpedia.com/nursing-notes/medical-surgical-nursing-notes/perioperative-nursing/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q086",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is monitoring a client post-cardiac catheterization. Which finding should the nurse report to the physician immediately?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Reduced urine output",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Absence of pulse in the extremity where the catheter was inserted",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Increased blood pressure",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Elevated heart rate",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Following cardiac catheterization, an absent pulse in the extremity used for catheter insertion is the most critical finding requiring immediate physician notification. Absence of a pulse indicates arterial occlusion or thrombosis, which can lead to limb ischemia and tissue necrosis. The nurse should assess the affected extremity for the 5 Ps: pain, pallor, pulselessness, paresthesia, and paralysis. Source: RNpedia - NCLEX Practice Exam for Reduction of Risk Potential.",
+    "tags": [
+      "cardiac-catheterization",
+      "post-procedure",
+      "vascular-assessment",
+      "diagnostic-tests"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Reduction of Risk Potential",
+        "url": "https://www.rnpedia.com/practice-exams/nclex-exam/nclex-practice-exam-reduction-risk-potential/"
+      },
+      {
+        "name": "RegisteredNurseRN - Blood Transfusion NCLEX Review",
+        "url": "https://www.registerednursern.com/blood-transfusion-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q087",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A patient has a potassium level of 3.0. Which foods would you encourage the patient to consume?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cheese, collard greens, and fish",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Avocados, strawberries, and potatoes",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Tofu, oatmeal, and peas",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Peanuts, bread, and corn",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Avocados, strawberries, and potatoes are all high in potassium and would help correct hypokalemia (K+ < 3.5 mEq/L). Cheese and collard greens are high in calcium, not potassium. Tofu and oatmeal are high in magnesium. The nurse should educate the patient to consume potassium-rich foods such as bananas, avocados, potatoes, oranges, and strawberries. Source: RegisteredNurseRN - Quiz Fluid & Electrolytes Hypokalemia & Hyperkalemia for NCLEX Exam.",
+    "tags": [
+      "hypokalemia",
+      "electrolyte-imbalance",
+      "nutrition",
+      "potassium"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Hypokalemia & Hyperkalemia Quiz for NCLEX Exam",
+        "url": "https://www.registerednursern.com/quiz-fluid-electrolytes-hypokalemia-hyperkalemia-for-nclex-exam/"
+      },
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Fluids, Electrolytes & Homeostasis 1",
+        "url": "https://www.rnpedia.com/practice-exams/nclex-exam/nclex-practice-exam-for-fluids-electrolytes-homeostasis-1/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q088",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "Nurse Smith is caring for Mr. Rodriguez, a patient diagnosed with Guillain-Barre syndrome. He starts showing signs of respiratory acidosis due to reduced alveolar ventilation. Which set of arterial blood gas (ABG) values would confirm respiratory acidosis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "pH 5.0; PaCO2 30 mm Hg",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "pH 7.40; PaCO2 35 mm Hg",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "pH 7.35; PaCO2 40 mm Hg",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "pH 7.25; PaCO2 50 mm Hg",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "Respiratory acidosis is characterized by a decreased pH (below 7.35) and an elevated PaCO2 (above 45 mm Hg) resulting from hypoventilation. In Guillain-Barre syndrome, progressive muscle weakness can impair respiratory muscles, leading to inadequate ventilation and CO2 retention. Option D shows pH 7.25 (acidotic) and PaCO2 50 (elevated), confirming respiratory acidosis. Options B and C reflect normal values. Source: RNpedia - NCLEX Practice Exam Respiratory System 1.",
+    "tags": [
+      "respiratory-acidosis",
+      "acid-base-balance",
+      "ABG-interpretation",
+      "guillain-barre"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Respiratory System 1",
+        "url": "https://www.rnpedia.com/practice-exams/nclex-exam/nclex-practice-exam-respiratory-system-1/"
+      },
+      {
+        "name": "RegisteredNurseRN - Metabolic Alkalosis and Metabolic Acidosis NCLEX Quiz",
+        "url": "https://www.registerednursern.com/metabolic-alkalosis-and-metabolic-acidosis-nclex-quiz-acid-base-imbalances-quiz/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q089",
+    "type": "select-all-that-apply",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A patient is being treated for increased intracranial pressure. Which activities below should the patient avoid performing? Select all that apply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Coughing",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Sneezing",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Talking",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Valsalva maneuver",
+        "isCorrect": true
+      },
+      {
+        "id": "E",
+        "text": "Vomiting",
+        "isCorrect": true
+      },
+      {
+        "id": "F",
+        "text": "Keeping the head of the bed between 30-35 degrees",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Coughing, sneezing, the Valsalva maneuver, and vomiting all increase intrathoracic and intra-abdominal pressure, which impedes venous return from the brain and raises intracranial pressure (ICP). Talking does not significantly raise ICP. Keeping the head of the bed elevated at 30-35 degrees actually helps decrease ICP by promoting venous drainage from the brain. Source: RegisteredNurseRN - Increased Intracranial Pressure (ICP) NCLEX Questions.",
+    "tags": [
+      "increased-ICP",
+      "neurological-emergency",
+      "nursing-interventions",
+      "SATA"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Increased Intracranial Pressure (ICP) NCLEX Questions",
+        "url": "https://www.registerednursern.com/increased-intracranial-pressure-icp-nclex-questions/"
+      },
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Physiological Adaptation",
+        "url": "https://www.rnpedia.com/practice-exams/nclex-exam/nclex-practice-exam-physiological-adaptation/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q090",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A patient is admitted with Diabetic Ketoacidosis. The physician orders intravenous fluids of 0.9% Normal Saline and 10 units of intravenous regular insulin IV bolus and then to start an insulin drip per protocol. The patient's labs are the following: pH 7.25, Glucose 455, potassium 2.5. Which of the following is the most appropriate nursing intervention to perform next?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Start the IV fluids and administer the insulin bolus and drip as ordered",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Hold the insulin and notify the doctor of the potassium level of 2.5",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Hold IV fluids and administer insulin as ordered",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Recheck the glucose level",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The potassium level of 2.5 mEq/L is critically low (normal 3.5-5.0 mEq/L). Administering insulin will further drive potassium into cells, worsening hypokalemia and potentially causing fatal cardiac dysrhythmias. The nurse must hold the insulin and notify the physician so potassium can be replaced before insulin therapy is initiated. Potassium levels should be at least 3.3 mEq/L or higher before starting insulin therapy in DKA. Source: RegisteredNurseRN - Diabetic Ketoacidosis NCLEX Questions.",
+    "tags": [
+      "DKA",
+      "diabetes-complications",
+      "hypokalemia",
+      "insulin-therapy",
+      "critical-thinking"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Diabetic Ketoacidosis NCLEX Questions",
+        "url": "https://www.registerednursern.com/diabetic-ketoacidosis-quiz/"
+      },
+      {
+        "name": "RegisteredNurseRN - DKA vs HHNS NCLEX Questions",
+        "url": "https://www.registerednursern.com/dka-vs-hhns-nclex-questions/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q091",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "Nurse Katherine is conducting a cardiovascular assessment on a client diagnosed with congestive heart failure (CHF). Keeping in mind the common pathophysiological changes and findings associated with CHF, which heart sound is most characteristic of this condition upon auscultation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Split S2",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Apical click",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Systolic murmur",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "S3 ventricular gallop",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "The S3 heart sound, also known as a ventricular gallop, is most characteristic of congestive heart failure. It occurs during early diastole as a result of the rapid deceleration of blood flow across the mitral valve into a volume-overloaded ventricle. While a split S2 can occur in certain conditions, it is not specific to CHF. The S3 gallop is a key auscultatory finding that helps confirm the diagnosis of heart failure. Source: RNpedia - NCLEX Practice Exam for Physiological Adaptation.",
+    "tags": [
+      "heart-failure",
+      "cardiac-assessment",
+      "S3-gallop",
+      "auscultation"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Physiological Adaptation",
+        "url": "https://www.rnpedia.com/practice-exams/nclex-exam/nclex-practice-exam-physiological-adaptation/"
+      },
+      {
+        "name": "Nurseslabs - Cardiovascular System Disorders NCLEX Practice Questions",
+        "url": "https://nurseslabs.com/cardiovascular-system-disorders-nclex-practice-questions/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q092",
+    "type": "fill-in-the-blank",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A patient has a blood pressure of 130/88 mmHg and an ICP reading of 12 mmHg. Calculate the patient's cerebral perfusion pressure (CPP). Use the formula: CPP = MAP - ICP, where MAP = (SBP + 2(DBP)) / 3. Round to the nearest whole number. Enter the numeric value only.",
+    "correctAnswer": "90",
+    "acceptableAnswers": [
+      "90"
+    ],
+    "unit": "mmHg",
+    "rationale": "To calculate CPP: First, find the Mean Arterial Pressure (MAP). MAP = (SBP + 2(DBP)) / 3 = (130 + 2(88)) / 3 = (130 + 176) / 3 = 306 / 3 = 102 mmHg. Then, CPP = MAP - ICP = 102 - 12 = 90 mmHg. A normal CPP is 60-100 mmHg, so this patient's CPP of 90 mmHg is within normal range. CPP below 60 mmHg indicates inadequate cerebral blood flow and requires immediate intervention. Source: RegisteredNurseRN - Increased Intracranial Pressure (ICP) NCLEX Questions.",
+    "tags": [
+      "increased-ICP",
+      "CPP-calculation",
+      "MAP",
+      "neurological-assessment"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Increased Intracranial Pressure (ICP) NCLEX Questions",
+        "url": "https://www.registerednursern.com/increased-intracranial-pressure-icp-nclex-questions/"
+      },
+      {
+        "name": "RegisteredNurseRN - How to Calculate CPP (Cerebral Perfusion Pressure)",
+        "url": "https://www.registerednursern.com/calculate-cpp-cerebral-perfusion-pressure-nursing/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q093",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "Which lab result below demonstrates that the patient's cells are using anaerobic metabolism during shock?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ammonia 18 micrograms/dL",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Potassium 4.5 mEq/L",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Serum Lactate 9 mmol/L",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Bicarbonate 23 mEq/L",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "When cells experience inadequate tissue perfusion during shock, they switch from aerobic to anaerobic metabolism. Anaerobic metabolism produces lactic acid as a byproduct. A normal serum lactate level is less than 1 mmol/L, and lactic acidosis is defined as greater than 4 mmol/L. A serum lactate of 9 mmol/L is critically elevated and indicates severe anaerobic metabolism. The other values are within normal range. Source: RegisteredNurseRN - Stages of Shock NCLEX Questions.",
+    "tags": [
+      "shock",
+      "lactic-acidosis",
+      "anaerobic-metabolism",
+      "lab-values"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Stages of Shock NCLEX Questions",
+        "url": "https://www.registerednursern.com/stages-of-shock-nclex-questions/"
+      },
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Physiological Adaptation",
+        "url": "https://www.rnpedia.com/practice-exams/nclex-exam/nclex-practice-exam-physiological-adaptation/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q094",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "Nurse Lila is caring for an adult with chronic renal failure undergoing peritoneal dialysis. Given the patient's current laboratory values, with a hemoglobin of 9.2 and a hematocrit of 30, she considers the underlying causes for his anemia. Which of the following is the most probable reason for the anemia in this patient?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The patient's kidneys' inability to produce erythropoietin, the hormone essential for stimulating bone marrow to manufacture red blood cells",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Destruction of red blood cells as they come into contact with the dialysis solution membrane, causing hemolysis",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Consumption of inadequate protein due to altered taste sensations related to dialysis",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Hemodilution resulting from fluid retention",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "In chronic renal failure, the kidneys lose their ability to produce adequate amounts of erythropoietin (EPO), a hormone that stimulates the bone marrow to produce red blood cells. Without sufficient EPO, the bone marrow cannot produce enough red blood cells, leading to anemia. This is the primary cause of anemia in chronic kidney disease. Treatment typically involves administering synthetic erythropoietin (epoetin alfa). Source: RNpedia - NCLEX Practice Exam for Physiological Adaptation.",
+    "tags": [
+      "renal-failure",
+      "anemia",
+      "erythropoietin",
+      "dialysis",
+      "chronic-kidney-disease"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Physiological Adaptation",
+        "url": "https://www.rnpedia.com/practice-exams/nclex-exam/nclex-practice-exam-physiological-adaptation/"
+      },
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Renal Disorders 1",
+        "url": "https://www.rnpedia.com/practice-exams/nclex-exam/nclex-practice-exam-for-renal-disorders-1/"
+      }
+    ],
+    "verified": false
   }
 ]

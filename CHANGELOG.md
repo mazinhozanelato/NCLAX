@@ -4,6 +4,57 @@ Track of all question research updates, including sources, verification, and cov
 
 ---
 
+## [v1.2.0] - 2026-02-18
+
+### Summary
+Focused research update targeting Physiological Integrity coverage gaps identified in v1.1.0. All four Physiological Integrity subcategories were significantly expanded.
+
+### Questions Added: 34 (q061–q094)
+| Category | Count |
+|----------|-------|
+| Physiological Integrity — Pharmacological Therapies | 10 |
+| Physiological Integrity — Basic Care & Comfort | 8 |
+| Physiological Integrity — Reduction of Risk | 8 |
+| Physiological Integrity — Physiological Adaptation | 8 |
+
+### Question Types Added
+- Multiple Choice: 24
+- Select All That Apply (SATA): 7
+- Ordered Response: 1
+- Fill-in-the-Blank: 1
+
+### Verification
+- Verified (2+ independent sources): 26
+- Single source: 8 (q062, q063, q064, q065, q069, q090, q092, q094)
+- Total sources used: 6
+
+### Sources Used
+- RegisteredNurseRN.com
+- RNpedia.com
+- Nurseslabs.com
+- Naxlex.com
+- Quizlet (NCLEX study sets)
+
+### Coverage Improvements (before → after)
+| Subcategory | Before | After | Target % |
+|-------------|--------|-------|----------|
+| Pharmacological Therapies | 2 | 12 | 12-18% |
+| Basic Care & Comfort | 1 | 9 | 6-12% |
+| Reduction of Risk | 1 | 9 | 9-15% |
+| Physiological Adaptation | 1 | 9 | 11-17% |
+
+### Remaining Coverage Notes
+- Physiological Integrity now well-represented across all subcategories
+- Safe & Effective Care and Psychosocial categories remain stable from v1.1.0
+- Health Promotion categories could benefit from future expansion
+
+### Notes
+- Fixed q077 type from multiple-choice to select-all-that-apply (stem asks "Select all that apply")
+- Fixed q092 to use proper fill-in-the-blank format (correctAnswer/acceptableAnswers/unit)
+- Verified flag set based on independent source domains (same site, different pages = 1 source)
+
+---
+
 ## [v1.1.0] - 2026-02-18
 
 ### Summary
