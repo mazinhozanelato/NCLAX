@@ -4,6 +4,56 @@ Track of all question research updates, including sources, verification, and cov
 
 ---
 
+## [v1.3.0] - 2026-02-19
+
+### Summary
+Targeted research update focusing on Health Promotion and Psychosocial Integrity coverage gaps identified in v1.2.0. Aging Process and Psychosocial Well-being subcategories were more than doubled, while Coping/Adaptation and Health Promotion/Prevention received significant expansion.
+
+### Questions Added: 24 (q095–q118)
+| Category | Count |
+|----------|-------|
+| Health Promotion — Prevention | 7 |
+| Health Promotion — Aging/Development | 7 |
+| Psychosocial Integrity — Coping/Adaptation | 5 |
+| Psychosocial Integrity — Psychosocial Well-being | 5 |
+
+### Question Types Added
+- Multiple Choice: 19
+- Select All That Apply (SATA): 4
+- Ordered Response: 1
+
+### Verification
+- Verified (2+ independent sources): 20
+- Single source: 4 (q107, q108, q111, q116)
+- Total sources used: 6
+
+### Sources Used
+- Nurseslabs.com
+- RegisteredNurseRN.com
+- RNpedia.com
+- Naxlex.com
+- Quizlet (NCLEX study sets)
+- NCBI/NLM (ncbi.nlm.nih.gov)
+
+### Coverage Improvements (before → after)
+| Subcategory | Before | After | Target % |
+|-------------|--------|-------|----------|
+| Health Promotion/Prevention | 8 | 15 | 6-12% |
+| Aging/Development | 3 | 10 | part of 9% |
+| Coping/Adaptation | 6 | 11 | part of 9% |
+| Psychosocial Well-being | 5 | 10 | part of 9% |
+
+### Remaining Coverage Notes
+- All subcategories now have 9+ questions
+- Health Promotion and Psychosocial categories now well-represented
+- Next priority: cross-verify single-source questions and continue expanding toward 200+ total
+
+### Notes
+- Fixed q095–q101 verified flags (agent had set all to false; corrected based on independent source domains)
+- Verified flag set based on independent source domains (same site, different pages = 1 source)
+
+---
+
 ## [v1.2.0] - 2026-02-18
 
 ### Summary

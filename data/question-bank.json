@@ -4325,5 +4325,1234 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": "q095",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "health-promotion",
+    "subcategory": "health-promotion-prevention",
+    "stem": "A 52-year-old female client with no significant medical history presents for a routine wellness visit. She reports never having a mammogram. Based on American Cancer Society guidelines, which statement by the nurse is most appropriate regarding breast cancer screening?",
+    "options": [
+      {
+        "id": "A",
+        "text": "You should begin mammogram screening at age 55 and repeat every two years",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Since you are over 50, you only need a mammogram every five years",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Women with average risk should begin annual screening mammograms at age 40",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Mammograms are only recommended for women with a family history of breast cancer",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The American Cancer Society, American College of Radiologists, and National Cancer Institute recommend that women with average risk should begin annual screening mammograms at age 40. This client at age 52 is overdue for screening. Option A is incorrect because screening should start at 40, not 55. Option B is incorrect because mammograms should be performed annually, not every five years. Option D is incorrect because mammograms are recommended for all women regardless of family history, as most breast cancers occur in women without a family history. Although mammography can detect 90-95% of breast cancers, nurses should advise patients about the possibility of false-positive results. Source: Nurseslabs - Mammography Nursing Responsibilities; RegisteredNurseRN - Oncology Nursing Disorders Quiz.",
+    "tags": [
+      "cancer-screening",
+      "mammogram",
+      "breast-cancer",
+      "ACS-guidelines",
+      "secondary-prevention"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Mammography (Mammogram) Nursing Responsibilities",
+        "url": "https://nurseslabs.com/mammography-mammogram/"
+      },
+      {
+        "name": "RegisteredNurseRN - NCLEX Practice Quiz for Oncology Nursing Disorders",
+        "url": "https://www.registerednursern.com/nclex-practice-quiz-for-oncology-nursing-disorders/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q096",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "health-promotion",
+    "subcategory": "health-promotion-prevention",
+    "stem": "A nurse is providing education at a women's health clinic about cervical cancer screening. A 33-year-old client asks how often she needs a Pap smear. Based on current screening guidelines, which response by the nurse is correct?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Women aged 30 to 65 should have a Pap test with HPV co-testing every 5 years, or a Pap test alone every 3 years",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "All women should have a Pap smear annually beginning at age 18 regardless of sexual activity",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Women aged 30 to 65 need a Pap smear every year, and HPV testing is not necessary",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Cervical cancer screening can be discontinued after age 50 if previous results were normal",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Current guidelines recommend that women aged 30 to 65 should have Pap smear with HPV co-testing (preferred) every 5 years, or a Pap test alone every 3 years. For women aged 21 to 29, a Pap smear alone every 3 years is recommended, and HPV testing should not be done in women younger than 30. Option B is incorrect because screening begins at age 21, not 18, and is not done annually. Option C is incorrect because annual Pap smears are no longer the recommendation, and HPV co-testing is the preferred method for women over 30. Option D is incorrect because screening should continue until age 65 (not 50) if adequate prior screening results are negative. Screening may be discontinued after age 65 if the woman has had adequate prior negative results and no history of CIN2+ in the past 25 years. Source: RNpedia - Papanicolaou Test (Pap Smear); Nurseslabs - Pap Smear Nursing Responsibilities.",
+    "tags": [
+      "cancer-screening",
+      "Pap-smear",
+      "cervical-cancer",
+      "HPV",
+      "screening-guidelines"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - Papanicolaou Test (Pap Smear)",
+        "url": "https://www.rnpedia.com/nursing-notes/maternal-and-child-nursing-notes/papanicolaou-test-pap-smear/"
+      },
+      {
+        "name": "Nurseslabs - Pap Smear (Papanicolaou Smear) Nursing Responsibilities",
+        "url": "https://nurseslabs.com/pap-smear-papanicolaou-smear/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q097",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "health-promotion",
+    "subcategory": "health-promotion-prevention",
+    "stem": "During a routine pediatric visit, a parent brings in a 2-month-old infant for scheduled immunizations. Which combination of vaccines should the nurse expect the provider to order for this visit?",
+    "options": [
+      {
+        "id": "A",
+        "text": "MMR, Varicella, Hepatitis A, and Polio",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "DTaP, Hepatitis B, Hib, Polio, Rotavirus (RV), and Pneumococcal Conjugate Vaccine (PCV)",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "DTaP, MMR, Polio, and Varicella",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Hepatitis A, Hepatitis B, Influenza, and Hib",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "At 2 months of age, the recommended immunizations are DTaP, Hepatitis B, Hib, Polio (IPV), Rotavirus (RV), and Pneumococcal Conjugate Vaccine (PCV). Option A is incorrect because MMR and Varicella are first administered at 12 months, and Hepatitis A is given at 12 months. Option C is incorrect because MMR and Varicella are given at 12 months, not 2 months, and the 4-6 year immunization schedule includes DTaP, Polio, MMR, and Varicella. Option D is incorrect because Hepatitis A is first given at 12 months and the influenza vaccine begins at 6 months of age. The nurse should also monitor for anaphylaxis as a priority assessment when administering any vaccination. Source: RegisteredNurseRN - Immunization Schedule NCLEX Questions (Ages 0 to 6 Years); RNpedia - NCLEX Practice Exam for Health Promotion and Maintenance.",
+    "tags": [
+      "immunizations",
+      "pediatric",
+      "vaccination-schedule",
+      "infant-care",
+      "primary-prevention"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Immunization Schedule NCLEX Questions (Ages 0 to 6 Years)",
+        "url": "https://www.registerednursern.com/immunization-schedule-nclex-questions-ages-0-6-years/"
+      },
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Health Promotion and Maintenance",
+        "url": "https://www.rnpedia.com/practice-exams/nclex-exam/nclex-practice-exam-health-promotion-maintenance/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q098",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "health-promotion",
+    "subcategory": "health-promotion-prevention",
+    "stem": "A nurse is providing prenatal education to a 28-year-old client in her first trimester who is 5'5\" and weighs 130 pounds (BMI approximately 21.6). Which statement by the client indicates a need for further teaching about nutrition during pregnancy?",
+    "options": [
+      {
+        "id": "A",
+        "text": "\"I need to be sure to eat a lot of foods with folic acid in them like green leafy vegetables and fortified cereals.\"",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "\"I can expect to gain about 50 to 60 pounds during my pregnancy.\"",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "\"I will need to increase my calorie intake by about 300 calories per day.\"",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "\"I should take only the prenatal vitamins prescribed by my provider, not over-the-counter high-potency vitamins.\"",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "For a client with a normal BMI (approximately 21.6), the recommended total weight gain during pregnancy is 25 to 35 pounds. Expecting to gain 50 to 60 pounds is excessive and would require further education. Option A is correct because folic acid (400 mcg daily, ideally starting one month before conception) helps prevent neural tube defects such as spina bifida and anencephaly, and is found in green leafy vegetables and fortified grains. Option C is correct because an additional 300 calories per day is the recommended increase to support fetal development. Option D is correct because over-the-counter high-potency vitamins may contain harmful levels of certain nutrients (such as vitamin A) that could be teratogenic. Source: RegisteredNurseRN - NCLEX Practice Test for Prenatal Maternity Nursing OB; RNpedia - Maternal and Child Practice Exam (Antepartum).",
+    "tags": [
+      "prenatal-care",
+      "nutrition",
+      "pregnancy",
+      "weight-gain",
+      "folic-acid",
+      "patient-education"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - NCLEX Practice Test for Prenatal Maternity Nursing OB",
+        "url": "https://www.registerednursern.com/nclex-practice-test-for-prenatal-maternity-nursing-ob/"
+      },
+      {
+        "name": "RNpedia - Maternal and Child Practice Exam 8 (Antepartum)",
+        "url": "https://www.rnpedia.com/practice-exams/maternal-and-child-health-nursing-exams/maternal-child-practice-exam-8-antepartum/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q099",
+    "type": "select-all-that-apply",
+    "difficulty": "hard",
+    "category": "health-promotion",
+    "subcategory": "health-promotion-prevention",
+    "stem": "A nurse is developing a health promotion plan for a 50-year-old male client with a family history of hypertension, elevated LDL cholesterol of 160 mg/dL, and a sedentary lifestyle. The client has a BMI of 31 and smokes one pack of cigarettes per day. Which interventions should the nurse include to reduce the client's risk for coronary artery disease? Select all that apply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Engage in brisk walking for at least 30 minutes, five or more days per week",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Reduce intake of saturated fats, trans fats, and dietary cholesterol",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Increase sodium intake to maintain adequate blood pressure",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Enroll in a smoking cessation program to stop all tobacco use",
+        "isCorrect": true
+      },
+      {
+        "id": "E",
+        "text": "Increase intake of soluble fiber, plant stanols, and sterols",
+        "isCorrect": true
+      },
+      {
+        "id": "F",
+        "text": "Limit physical activity to prevent cardiac strain until cholesterol normalizes",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Therapeutic lifestyle changes for coronary artery disease risk reduction include regular aerobic exercise (at least 150 minutes of moderate-intensity activity per week, such as brisk walking for 30 minutes five days per week), dietary modifications to reduce saturated fats, trans fats, and cholesterol intake, smoking cessation, weight reduction, and increased intake of soluble fiber and plant stanols/sterols. These are modifiable risk factors recommended by the NCEP ATP guidelines. Option C is incorrect because increased sodium intake can worsen hypertension, a major risk factor for CAD. Option F is incorrect because physical activity is a cornerstone of cardiovascular health promotion, and exercise should be encouraged, not limited, for clients with elevated cholesterol and sedentary lifestyles. Source: RNpedia - NCLEX Practice Exam for Health Promotion and Maintenance; Nurseslabs - Cancer and Oncology Nursing NCLEX Practice Quiz.",
+    "tags": [
+      "cardiovascular-risk",
+      "lifestyle-modifications",
+      "exercise",
+      "smoking-cessation",
+      "cholesterol",
+      "therapeutic-lifestyle-changes"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Health Promotion and Maintenance",
+        "url": "https://www.rnpedia.com/practice-exams/nclex-exam/nclex-practice-exam-health-promotion-maintenance/"
+      },
+      {
+        "name": "Nurseslabs - Nurses as Cancer Insurgents: 9 Guidelines for Cancer Screening Tests",
+        "url": "https://nurseslabs.com/nurses-cancer-insurgents-guidelines-cancer-screening-tests/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q100",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "health-promotion",
+    "subcategory": "health-promotion-prevention",
+    "stem": "A nurse at a community health clinic is conducting an alcohol screening assessment on a 42-year-old male client during an annual physical. The client reports drinking 3-4 beers daily and has recently been reprimanded at work for performance issues. Which screening tool should the nurse use as an initial, brief assessment for potential alcohol misuse?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The Michigan Alcoholism Screening Test (MAST)",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "The CAGE questionnaire",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "The Clinical Institute Withdrawal Assessment (CIWA)",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "The Beck Depression Inventory (BDI)",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The CAGE questionnaire is a 4-item, brief, relatively nonconfrontational screening tool for detection of alcohol misuse that requires less than one minute to administer, making it an ideal bedside and clinic instrument. The CAGE acronym stands for: Cut down (Have you ever felt you should cut down on your drinking?), Annoyed (Have people annoyed you by criticizing your drinking?), Guilty (Have you ever felt bad or guilty about your drinking?), and Eye-opener (Have you ever had a drink first thing in the morning to steady your nerves?). It is only a screening tool, and further assessment is needed to make a diagnosis. Option A is incorrect because MAST is a 25-item questionnaire that is more time-consuming and is not the preferred initial brief screening tool. Option C is incorrect because CIWA assesses alcohol withdrawal severity, not screening for alcohol misuse. Option D is incorrect because BDI screens for depression, not alcohol misuse. Source: Nurseslabs - Mental Health and Psychiatric Nursing NCLEX Practice Questions; RegisteredNurseRN - NCLEX Practice Questions with Rationale.",
+    "tags": [
+      "substance-abuse",
+      "alcohol-screening",
+      "CAGE-questionnaire",
+      "health-assessment",
+      "prevention"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Mental Health and Psychiatric Nursing NCLEX Practice Questions",
+        "url": "https://nurseslabs.com/mental-health-and-psychiatric-nursing-nclex-practice-questions-nursing-test-bank/"
+      },
+      {
+        "name": "RegisteredNurseRN - NCLEX Practice Questions with Rationale",
+        "url": "https://www.registerednursern.com/nurse/nclex-practice-questions-with-rationale/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q101",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "health-promotion",
+    "subcategory": "health-promotion-prevention",
+    "stem": "A nurse is assessing a newborn in the nursery whose mother reported consuming alcohol throughout her pregnancy. The nurse observes distinctive facial features consistent with fetal alcohol syndrome (FAS). Which set of clinical findings would the nurse expect to identify?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wide-set eyes, a smooth philtrum, and a flattened nose",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Large fontanelles, protruding tongue, and low-set ears",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Shortened limbs, increased jitteriness, and persistent sucking reflex",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Cleft lip, microcephaly, and single palmar crease",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The hallmark facial features of fetal alcohol syndrome include wide-set eyes, a smooth philtrum (the groove between the nose and upper lip), and a flattened nasal bridge. These are characteristic diagnostic indicators resulting from the teratogenic effects of alcohol during fetal development. FAS is entirely preventable through alcohol abstinence during pregnancy. Option B describes features more consistent with Down syndrome (trisomy 21). Option C describes features that may be seen in neonatal abstinence syndrome from opioid exposure, not FAS. Option D includes some features that may overlap with various congenital conditions but does not represent the classic FAS facial triad. This question reinforces the importance of prenatal substance abuse prevention education as a core health promotion activity. Source: RNpedia - NCLEX Practice Exam for Health Promotion and Maintenance; RegisteredNurseRN - NCLEX Practice Test for Prenatal Maternity Nursing OB.",
+    "tags": [
+      "fetal-alcohol-syndrome",
+      "substance-abuse-prevention",
+      "prenatal-education",
+      "newborn-assessment",
+      "teratogenic-effects"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Health Promotion and Maintenance",
+        "url": "https://www.rnpedia.com/practice-exams/nclex-exam/nclex-practice-exam-health-promotion-maintenance/"
+      },
+      {
+        "name": "RegisteredNurseRN - NCLEX Practice Test for Prenatal Maternity Nursing OB",
+        "url": "https://www.registerednursern.com/nclex-practice-test-for-prenatal-maternity-nursing-ob/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q102",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "health-promotion",
+    "subcategory": "aging-process",
+    "stem": "A nurse is assessing a 9-month-old infant during a well-child visit. Which finding indicates the infant is meeting the expected developmental milestones?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The infant speaks in two-word sentences",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "The infant begins to use a spoon with some spilling",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "The infant creeps along the floor and uses a crude pincer grasp",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "The infant grasps objects using a palmar grasp only",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "At 9 months, an infant should be creeping or crawling along the floor, demonstrating a crude pincer grasp (grasping small objects with the index finger and thumb), sitting without support, and babbling. Option A is incorrect because two-word sentences are a milestone for a 2-year-old. Option B is incorrect because self-feeding with a spoon typically develops around 15-18 months. Option D is incorrect because the palmar grasp is an earlier milestone seen in the first few months of life; by 9 months, the infant has progressed to the more refined pincer grasp. Source: Naxlex - 9-Month-Old Developmental Assessment; RegisteredNurseRN - Infant Developmental Milestones NCLEX Questions.",
+    "tags": [
+      "developmental-milestones",
+      "infant",
+      "pincer-grasp",
+      "gross-motor",
+      "pediatric"
+    ],
+    "sources": [
+      {
+        "name": "Naxlex - 9-Month-Old Infant Developmental Assessment",
+        "url": "https://www.naxlex.com/nursing/question/the-nurse-is-assessing-development-in-a-9-month-old-infant-what-woul"
+      },
+      {
+        "name": "RegisteredNurseRN - Infant Developmental Milestones NCLEX Questions",
+        "url": "https://www.registerednursern.com/infant-developmental-milestones-nclex-questions/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q103",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "health-promotion",
+    "subcategory": "aging-process",
+    "stem": "A nurse is caring for a hospitalized 10-year-old who refuses to participate in schoolwork sent from the teacher and states, \"I can't do anything right.\" Based on Erikson's theory of psychosocial development, the nurse recognizes this child is struggling with which developmental crisis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Autonomy vs. Shame and Doubt",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Initiative vs. Guilt",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Industry vs. Inferiority",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Identity vs. Role Confusion",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "According to Erikson, school-age children (ages 6-12) are in the Industry vs. Inferiority stage, where they develop a sense of competence through accomplishments and skill acquisition. A child who feels unable to succeed and avoids tasks is demonstrating inferiority. Option A (Autonomy vs. Shame and Doubt) applies to toddlers ages 1-3 years. Option B (Initiative vs. Guilt) applies to preschoolers ages 3-6 years. Option D (Identity vs. Role Confusion) applies to adolescents ages 12-18 years. Source: RegisteredNurseRN - School-Age Developmental Milestones NCLEX Questions; Quizlet - Erikson's Psychosocial Development NCLEX Style Questions.",
+    "tags": [
+      "erikson",
+      "industry-vs-inferiority",
+      "school-age",
+      "psychosocial-development",
+      "pediatric"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - School-Age Developmental Milestones NCLEX Questions",
+        "url": "https://www.registerednursern.com/school-age-developmental-milestones-nclex-questions-quiz"
+      },
+      {
+        "name": "Quizlet - Erikson's Psychosocial Development NCLEX Style Questions",
+        "url": "https://quizlet.com/942172598/eriksons-psychosocial-development-nclex-style-questions-flash-cards/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q104",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "health-promotion",
+    "subcategory": "aging-process",
+    "stem": "A nurse is teaching a class about normal age-related physiological changes in hearing to a group of nursing students. Which statement by a student demonstrates correct understanding of these changes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "\"Older adults experience decreased thickness of the tympanic membrane, leading to hearing loss.\"",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "\"Presbycusis causes a decreased ability to hear high-frequency sounds such as consonants and alarms.\"",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "\"Aging causes a significant increase in cerumen production, which is the primary cause of hearing loss.\"",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "\"Tinnitus consistently decreases with advancing age in most older adults.\"",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Presbycusis is a gradual, age-related sensorineural hearing loss that primarily affects the ability to hear high-pitched sounds such as consonants (s, t, f, sh), birdsong, and alarms. It is caused by degeneration of the inner ear or auditory nerve over time. Option A is incorrect because tympanic membrane thickness does not significantly change with aging. Option C is incorrect because while cerumen production may vary, it is not the primary cause of age-related hearing loss. Option D is incorrect because tinnitus does not consistently decrease with age. Source: Naxlex - Physiological Changes to Hearing in Older Adults; RNpedia - MSN Exam for Eye and Ear Disorders.",
+    "tags": [
+      "presbycusis",
+      "hearing-loss",
+      "age-related-changes",
+      "geriatric",
+      "sensory"
+    ],
+    "sources": [
+      {
+        "name": "Naxlex - Physiological Changes to Hearing in Older Adults",
+        "url": "https://www.naxlex.com/nursing/question/a-nurse-is-teaching-a-class-about-physiological-changes-to-hearing-in"
+      },
+      {
+        "name": "RNpedia - MSN Exam for Care of Clients with Eye and Ear Disorder",
+        "url": "https://www.rnpedia.com/practice-exams/medical-and-surgical-nursing-exams/msn-exam-care-clients-eye-ear-disorder/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q105",
+    "type": "select-all-that-apply",
+    "difficulty": "hard",
+    "category": "health-promotion",
+    "subcategory": "aging-process",
+    "stem": "A nurse is conducting a post-fall assessment on a 78-year-old client who fell while ambulating to the bathroom at night. Which of the following components should the nurse include in a comprehensive fall prevention assessment? Select all that apply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Functional status and ability to perform activities of daily living",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Complete medical history including chronic conditions",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Financial status and insurance coverage",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Physical status including balance, gait, strength, and mobility",
+        "isCorrect": true
+      },
+      {
+        "id": "E",
+        "text": "Environmental hazard assessment of the client's surroundings",
+        "isCorrect": true
+      },
+      {
+        "id": "F",
+        "text": "Occupational history and previous employment records",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "A comprehensive post-fall prevention assessment should include: (A) Functional status to identify limitations contributing to fall risk; (B) Medical history to reveal conditions or medications contributing to falls; (D) Physical status assessment of balance, strength, gait, and mobility; and (E) Environmental assessment to identify hazards such as poor lighting or slippery surfaces. Option C (financial status) and Option F (occupational history) are not directly relevant to a post-fall clinical assessment. Source: Naxlex - Post-Fall Prevention Assessment; Nurseslabs - Risk for Falls Nursing Diagnosis and Care Plan.",
+    "tags": [
+      "fall-prevention",
+      "geriatric",
+      "assessment",
+      "safety",
+      "elderly"
+    ],
+    "sources": [
+      {
+        "name": "Naxlex - Post-Fall Prevention Assessment NCLEX Question",
+        "url": "https://www.naxlex.com/nursing/question/which-of-the-following-assessments-should-be-included-in-a-post-fall-p"
+      },
+      {
+        "name": "Nurseslabs - Risk for Falls Nursing Diagnosis and Care Plan",
+        "url": "https://nurseslabs.com/risk-for-falls/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q106",
+    "type": "ordered-response",
+    "difficulty": "hard",
+    "category": "health-promotion",
+    "subcategory": "aging-process",
+    "stem": "A nursing student is studying Erikson's stages of psychosocial development. Place the following Erikson developmental stages in the correct chronological order from earliest to latest.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Industry vs. Inferiority (School-age: 6-12 years)"
+      },
+      {
+        "id": "B",
+        "text": "Trust vs. Mistrust (Infancy: birth to 18 months)"
+      },
+      {
+        "id": "C",
+        "text": "Identity vs. Role Confusion (Adolescence: 12-18 years)"
+      },
+      {
+        "id": "D",
+        "text": "Initiative vs. Guilt (Preschool: 3-6 years)"
+      },
+      {
+        "id": "E",
+        "text": "Ego Integrity vs. Despair (Late adulthood: 65 years to death)"
+      }
+    ],
+    "correctOrder": [
+      "B",
+      "D",
+      "A",
+      "C",
+      "E"
+    ],
+    "rationale": "Erikson's stages proceed chronologically: (1) Trust vs. Mistrust (birth to 18 months) — infant develops trust with consistent care; (2) Initiative vs. Guilt (3-6 years) — preschooler asserts control through play; (3) Industry vs. Inferiority (6-12 years) — school-age child develops competence; (4) Identity vs. Role Confusion (12-18 years) — adolescent explores identity; (5) Ego Integrity vs. Despair (65+ years) — older adult reflects on life with satisfaction or regret. Source: RNpedia - Erik Erikson's Theory of Psychosocial Development; RegisteredNurseRN - Preschooler Growth Developmental Milestones NCLEX Questions.",
+    "tags": [
+      "erikson",
+      "psychosocial-development",
+      "growth-development",
+      "developmental-stages",
+      "ordered-response"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - Erik Erikson's Theory of Psychosocial Development",
+        "url": "https://www.rnpedia.com/nursing-notes/psychiatric-nursing-notes/erik-eriksons-theory-psychosocial-development/"
+      },
+      {
+        "name": "RegisteredNurseRN - Preschooler Growth Developmental Milestones NCLEX Questions",
+        "url": "https://www.registerednursern.com/preschooler-growth-developmental-milestones-nclex-questions-quiz/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q107",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "health-promotion",
+    "subcategory": "aging-process",
+    "stem": "A nurse in a long-term care facility is developing activities for the residents. According to Erikson's theory of psychosocial development, which activity best supports the developmental needs of older adult residents?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Organizing competitive sports tournaments between residents",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Facilitating reminiscence groups where residents share life stories",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Assigning residents to mentor adolescent volunteers",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Encouraging residents to learn new vocational skills for employment",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Older adults (65+) are in Erikson's Ego Integrity vs. Despair stage. Reminiscence groups allow residents to engage in life review and find meaning in their accomplishments, directly supporting ego integrity. Option A is more aligned with Industry vs. Inferiority (school-age). Option C is more aligned with Generativity vs. Stagnation (middle adulthood). Option D does not address the primary developmental need of life reflection. Source: RNpedia - NCLEX Practice Exam for Growth and Development; RNpedia - Erik Erikson's Theory of Psychosocial Development.",
+    "tags": [
+      "erikson",
+      "ego-integrity-vs-despair",
+      "geriatric",
+      "reminiscence",
+      "late-adulthood"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Growth and Development",
+        "url": "https://www.rnpedia.com/practice-exams/nclex-exam/nclex-practice-exam-growth-development/"
+      },
+      {
+        "name": "RNpedia - Erik Erikson's Theory of Psychosocial Development",
+        "url": "https://www.rnpedia.com/nursing-notes/psychiatric-nursing-notes/erik-eriksons-theory-psychosocial-development/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q108",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "health-promotion",
+    "subcategory": "aging-process",
+    "stem": "A nurse is planning care for an older adult client. The nurse should anticipate monitoring the client for which of the following normal age-related vision changes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Widened peripheral vision and improved night vision",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Decreased depth perception and reduced accommodation for near vision",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Enlarged pupils with increased responsiveness to light changes",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Increased flexibility of the lens and improved color discrimination",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Normal age-related vision changes include presbyopia (decreased accommodation for near vision due to lens hardening), decreased depth perception, smaller and less responsive pupils, narrowed peripheral vision, and reduced ability to adapt to lighting changes. Option A is incorrect because peripheral vision narrows and night vision worsens. Option C is incorrect because pupils become smaller and less responsive. Option D is incorrect because the lens becomes less flexible and color discrimination decreases. Source: Naxlex - Age-Related Changes to Vision; Naxlex - Planning Care for Older Adult Client Vision Changes.",
+    "tags": [
+      "presbyopia",
+      "vision-changes",
+      "age-related-changes",
+      "geriatric",
+      "depth-perception"
+    ],
+    "sources": [
+      {
+        "name": "Naxlex - Age-Related Changes to Vision in Older Adult Patients",
+        "url": "https://www.naxlex.com/nursing/question/a-nurse-is-instructing-a-newly-licensed-nurse-about-age-related-change"
+      },
+      {
+        "name": "Naxlex - Planning Care for Older Adult Client Vision Changes",
+        "url": "https://www.naxlex.com/nursing/question/a-nurse-is-planning-care-for-an-older-adult-clientthe-nurse-should-pl"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q109",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "psychosocial-integrity",
+    "subcategory": "coping-adaptation",
+    "stem": "A nurse is caring for a client who was recently diagnosed with terminal cancer. The client states, 'If I can just live long enough to see my daughter's wedding, I won't ask for anything else.' According to Kubler-Ross's stages of grief, which stage is the client demonstrating?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Denial",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Anger",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Bargaining",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Depression",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The client is in the bargaining stage of Kubler-Ross's model. Bargaining is characterized by attempts to negotiate or make deals to delay the inevitable loss. Denial would involve refusing to acknowledge the diagnosis. Anger would present as hostility. Depression involves deep sadness and withdrawal. The mnemonic DABDA (Denial, Anger, Bargaining, Depression, Acceptance) helps recall the sequence. Source: Nurseslabs - Grieving & Loss Nursing Diagnosis & Care Plan; Quizlet - Loss, Grief, and Dying NCLEX Practice Questions.",
+    "tags": [
+      "grief",
+      "kubler-ross",
+      "bargaining",
+      "stages-of-grief",
+      "terminal-illness"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Grieving & Loss Nursing Diagnosis & Care Plan",
+        "url": "https://nurseslabs.com/grieving/"
+      },
+      {
+        "name": "Quizlet - Loss, Grief, and Dying NCLEX Practice Questions",
+        "url": "https://quizlet.com/391628973/loss-grief-and-dying-nclex-practice-questions-flash-cards/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q110",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "psychosocial-integrity",
+    "subcategory": "coping-adaptation",
+    "stem": "A client who abuses alcohol and cocaine tells the nurse, 'I only use substances because of my stressful marriage and my impossible job. Anyone in my situation would do the same thing.' Which defense mechanism should the nurse identify in this client's statement?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Displacement",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Projection",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Rationalization",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Sublimation",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The client is using rationalization, creating acceptable justifications for unacceptable behaviors. Displacement involves redirecting emotions to a safer target. Projection involves attributing one's own feelings to others. Sublimation channels unacceptable impulses into socially constructive activities. Source: RNpedia - NCLEX Practice Exam for Psychiatric Nursing 5; Nurseslabs - Defense Mechanisms.",
+    "tags": [
+      "defense-mechanisms",
+      "rationalization",
+      "substance-abuse",
+      "maladaptive-coping",
+      "alcohol-abuse"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Psychiatric Nursing 5",
+        "url": "https://www.rnpedia.com/practice-exams/nclex-exam/nclex-practice-exam-psychiatric-nursing-5/"
+      },
+      {
+        "name": "Nurseslabs - Defense Mechanisms",
+        "url": "https://nurseslabs.com/defense-mechanisms/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q111",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "psychosocial-integrity",
+    "subcategory": "coping-adaptation",
+    "stem": "The nurse considers a client's response to crisis intervention successful. Which outcome best indicates that crisis intervention has been effective?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The client changes coping skills and behavioral patterns",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "The client develops insight into the reasons the crisis occurred",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "The client learns to relate better to others",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "The client returns to the previous level of functioning",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "The primary goal of crisis intervention is to help the client return to the previous level of functioning (pre-crisis equilibrium). Changing coping skills and developing insight are goals of longer-term psychotherapy. Learning to relate better describes a goal of group or interpersonal therapy. Crisis intervention is characterized by its immediacy, brevity, and focus on stabilization. Source: RNpedia - NCLEX Practice Exam for Psychiatric Nursing 5; RNpedia - Crisis Intervention Nursing Notes.",
+    "tags": [
+      "crisis-intervention",
+      "coping",
+      "homeostasis",
+      "pre-crisis-functioning",
+      "psychosocial-support"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Psychiatric Nursing 5",
+        "url": "https://www.rnpedia.com/practice-exams/nclex-exam/nclex-practice-exam-psychiatric-nursing-5/"
+      },
+      {
+        "name": "RNpedia - Crisis Intervention Nursing Notes",
+        "url": "https://www.rnpedia.com/nursing-notes/psychiatric-nursing-notes/crisis-intervention/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q112",
+    "type": "select-all-that-apply",
+    "difficulty": "hard",
+    "category": "psychosocial-integrity",
+    "subcategory": "coping-adaptation",
+    "stem": "A nurse is caring for a client who has just experienced the sudden death of a spouse. Which nursing interventions are appropriate to facilitate the grieving process? Select all that apply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Encourage the client to express feelings and emotions about the loss",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Advise the client to avoid reminders of the spouse to reduce distress",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Assess the client's cultural and spiritual beliefs regarding death and mourning",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Tell the client that time will heal their pain and sorrow",
+        "isCorrect": false
+      },
+      {
+        "id": "E",
+        "text": "Explore changes in the client's life that have occurred since the loss",
+        "isCorrect": true
+      },
+      {
+        "id": "F",
+        "text": "Facilitate connection to social support systems, including family and support groups",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "Options A, C, E, and F are correct. Encouraging expression of feelings supports healthy grief processing. Assessing cultural and spiritual beliefs ensures culturally sensitive care. Exploring life changes helps assess grief response and identify stressors. Facilitating social support reduces isolation. Option B is incorrect because avoiding reminders can hinder acceptance. Option D is incorrect because platitudes minimize the client's emotional experience. Source: Naxlex - NCLEX Grief and Loss Questions; Nurseslabs - Grieving & Loss Nursing Diagnosis & Care Plan.",
+    "tags": [
+      "grief",
+      "loss",
+      "therapeutic-communication",
+      "cultural-considerations",
+      "support-systems",
+      "bereavement"
+    ],
+    "sources": [
+      {
+        "name": "Naxlex - Nursing Exam: Grief and Loss Support Question",
+        "url": "https://www.naxlex.com/nursing/question/a-nurse-is-caring-for-a-client-who-has-just-experienced-the-loss-of-a-"
+      },
+      {
+        "name": "Nurseslabs - Grieving & Loss Nursing Diagnosis & Care Plan",
+        "url": "https://nurseslabs.com/grieving/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q113",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "psychosocial-integrity",
+    "subcategory": "coping-adaptation",
+    "stem": "A retired executive who was unexpectedly forced into early retirement becomes severely depressed and states, 'I have lost everything that defined who I am.' The nurse identifies this client as experiencing which type of crisis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Situational crisis",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Maturational crisis",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Adventitious crisis",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Social crisis",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "This client is experiencing a situational crisis arising from an unexpected external event (forced early retirement). A maturational crisis involves predictable developmental transitions. An adventitious crisis refers to disasters not part of everyday life. A social crisis affects entire communities. The key distinction is that this retirement was unexpected rather than a planned developmental transition. Source: RNpedia - Practice Exam for Stress, Crisis, and Crisis Intervention; Quizlet - Crisis Theory and Intervention: Saunders NCLEX Review.",
+    "tags": [
+      "crisis",
+      "situational-crisis",
+      "maturational-crisis",
+      "loss-of-identity",
+      "retirement",
+      "coping"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - PNLE Practice Exam for Stress, Crisis, and Crisis Intervention",
+        "url": "https://www.rnpedia.com/practice-exams/philippine-nursing-licensure-exam-pnle/fon-practice-exam-stress-crisis-crisis-intervention-communication-recording-learning-documentation/"
+      },
+      {
+        "name": "Quizlet - Crisis Theory and Intervention: Saunders NCLEX Review",
+        "url": "https://quizlet.com/ca/708319570/crisis-theory-and-intervention-saunders-nclex-review-flash-cards/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q114",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "psychosocial-integrity",
+    "subcategory": "psychosocial-wellbeing",
+    "stem": "A client admitted after a suicide attempt related to major depression states, 'I should have died! I've always been a failure. Nothing ever goes right for me.' Which response by the nurse is most therapeutic?",
+    "options": [
+      {
+        "id": "A",
+        "text": "\"Why do you think you're a failure?\"",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "\"You have so much to live for.\"",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "\"These feelings are part of your depression and will improve with treatment.\"",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "\"It sounds like you've felt like a failure for some time?\"",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "Option D uses the therapeutic communication technique of reflection, restating the client's feelings to encourage further exploration. Option A is non-therapeutic because asking 'why' puts the client on the defensive. Option B offers false reassurance. Option C minimizes the client's emotional experience. Source: RNpedia - Psych NCLEX Exam for Therapeutic Communication; NCBI Bookshelf - Therapeutic Communication and the Nurse-Client Relationship.",
+    "tags": [
+      "therapeutic-communication",
+      "depression",
+      "suicide",
+      "reflection",
+      "nurse-client-relationship"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - Psych NCLEX Exam for Therapeutic Communication",
+        "url": "https://www.rnpedia.com/practice-exams/psychiatric-nursing-exams/psych-nclex-exam-for-therapeutic-communication/"
+      },
+      {
+        "name": "NCBI Bookshelf - Therapeutic Communication and the Nurse-Client Relationship",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK617004/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q115",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "psychosocial-integrity",
+    "subcategory": "psychosocial-wellbeing",
+    "stem": "A nurse discovers a written note in a client's belongings that details the specific time, place, and method the client plans to use to commit suicide. What is the priority nursing intervention?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Encourage the client to discuss feelings of hopelessness in the next group therapy session",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Place the client on one-to-one suicide precautions and notify the healthcare provider immediately",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Document the finding and continue to monitor the client every 15 minutes",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Ask the client to sign a no-suicide contract and remove the note from the room",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "A detailed suicide plan specifying time, place, and method indicates extremely high and imminent risk. One-to-one continuous observation and immediate provider notification are required. Group therapy delays a safety-critical response. 15-minute checks are insufficient for this level of risk. No-suicide contracts are not evidence-based and should never replace appropriate precautions. Source: RNpedia - Psych NCLEX Exam for Suicidal and Personality Disorder; NCBI Bookshelf - Sample Nursing Interventions for Risk for Suicide.",
+    "tags": [
+      "suicide-precautions",
+      "safety",
+      "priority-intervention",
+      "one-to-one-observation",
+      "crisis-intervention"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - Psych NCLEX Exam for Suicidal and Personality Disorder",
+        "url": "https://www.rnpedia.com/practice-exams/psychiatric-nursing-exams/psych-nclex-exam-for-suicidal-and-personality-disorder/"
+      },
+      {
+        "name": "NCBI Bookshelf - Sample Nursing Interventions for Risk for Suicide",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK590042/table/ch4planning.T.sample_nursing_interventio/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q116",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "psychosocial-integrity",
+    "subcategory": "psychosocial-wellbeing",
+    "stem": "A client diagnosed with schizophrenia states, 'I hear the voice of King Tut telling me things.' The client appears distressed and is looking around the room. Which response by the nurse is most therapeutic?",
+    "options": [
+      {
+        "id": "A",
+        "text": "\"King Tut has been dead for thousands of years. The voices are not real.\"",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "\"I don't hear a voice, but I understand that you hear what sounds like a voice to you.\"",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "\"You shouldn't focus on that voice. Try to think about something else.\"",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "\"Don't worry about the voices as long as they don't belong to anyone real.\"",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Option B presents reality (the nurse does not hear the voice) while validating the client's perceptual experience without reinforcing the hallucination. Option A directly confronts the hallucination, increasing anxiety. Option C dismisses the experience. Option D minimizes it and could reinforce delusional thinking. Source: RNpedia - Psychiatric Nursing Practice Exam 7; RNpedia - Psych NCLEX Exam for Schizophrenia.",
+    "tags": [
+      "hallucinations",
+      "schizophrenia",
+      "therapeutic-communication",
+      "reality-orientation",
+      "sensory-perceptual-alterations"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - Psychiatric Nursing Practice Exam 7",
+        "url": "https://www.rnpedia.com/practice-exams/psychiatric-nursing-exams/psychiatric-nursing-practice-exam-7/"
+      },
+      {
+        "name": "RNpedia - Psych NCLEX Exam for Schizophrenia",
+        "url": "https://www.rnpedia.com/practice-exams/psychiatric-nursing-exams/psych-nclex-exam-for-schizophrenia/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q117",
+    "type": "select-all-that-apply",
+    "difficulty": "medium",
+    "category": "psychosocial-integrity",
+    "subcategory": "psychosocial-wellbeing",
+    "stem": "A nurse is performing a psychosocial assessment on a 15-year-old adolescent client in the emergency department. Which of the following findings should alert the nurse to a potential risk for suicide? Select all that apply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The client's family recently relocated to a new city",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "The client reports a sudden decline in school grades over the past month",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "The client experienced the death of a parent at age 8",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "The client's parents report having low expectations for the child's academic performance",
+        "isCorrect": false
+      },
+      {
+        "id": "E",
+        "text": "The client expresses feelings of helplessness and states 'nothing will ever get better'",
+        "isCorrect": true
+      },
+      {
+        "id": "F",
+        "text": "The client recently joined the school soccer team",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Options A, B, C, and E are correct risk factors. Recent relocation disrupts social networks. Academic decline signals emotional distress. Parental death creates vulnerability. Hopelessness is among the strongest predictors of suicidal behavior. Option D (low parental expectations) lacks direct correlation to suicide risk. Option F (joining a sports team) is a protective factor. Source: Naxlex - Psychosocial Assessment on an Adolescent; Nurseslabs - Suicide Behaviors Nursing Care Plans.",
+    "tags": [
+      "suicide-risk-assessment",
+      "adolescent",
+      "risk-factors",
+      "psychosocial-assessment",
+      "depression",
+      "protective-factors"
+    ],
+    "sources": [
+      {
+        "name": "Naxlex - NCLEX Psychosocial Integrity Practice Question",
+        "url": "https://www.naxlex.com/nursing/question/nbsp-a-nurse-is-performing-a-psychosocial-assessment-on-an-adoles"
+      },
+      {
+        "name": "Nurseslabs - Suicide Behaviors Nursing Care Plans",
+        "url": "https://nurseslabs.com/suicide-behaviors-nursing-care-plans/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q118",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "psychosocial-integrity",
+    "subcategory": "psychosocial-wellbeing",
+    "stem": "A nurse is assessing a child brought to the emergency department with multiple bruises in various stages of healing on the trunk and upper arms, a circular burn mark on the forearm, and a spiral fracture of the humerus. The parent states the child 'fell off the swing set.' The child shrinks away when the nurse approaches. Which action by the nurse is the priority?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ask the parent to provide additional details about the swing set incident in the child's presence",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Perform the assessment in a safe, private environment and report suspected abuse to the appropriate authorities",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Confront the parent about the inconsistency between the injuries and the stated mechanism of injury",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Document the findings and schedule a follow-up appointment with the pediatrician in one week",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The injuries are highly suspicious for child abuse: bruises in various healing stages indicate repeated trauma, circular burns suggest intentional infliction, spiral fractures result from twisting force inconsistent with a simple fall, and the child's fearful behavior is a behavioral indicator. Nurses are mandated reporters who must report suspected abuse immediately. Option A may intimidate the child. Option C may escalate the situation. Option D delays reporting and endangers the child. Source: Naxlex - Child Abuse Assessment NCLEX Question; NCBI Bookshelf - Trauma, Abuse, and Violence in Nursing.",
+    "tags": [
+      "child-abuse",
+      "mandated-reporter",
+      "abuse-recognition",
+      "assessment",
+      "safety",
+      "emergency-nursing"
+    ],
+    "sources": [
+      {
+        "name": "Naxlex - Child Abuse Assessment NCLEX Practice Question",
+        "url": "https://www.naxlex.com/nursing/question/a-nurse-is-assessing-a-child-with-suspected-abuse-which-factor-is-ess"
+      },
+      {
+        "name": "NCBI Bookshelf - Chapter 15: Trauma, Abuse, and Violence",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK590028/"
+      }
+    ],
+    "verified": true
   }
 ]
