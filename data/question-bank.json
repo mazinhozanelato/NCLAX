@@ -6920,5 +6920,1189 @@
       }
     ],
     "verified": true
+  },
+  {
+    "id": "q147",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A client presents to the emergency department with crushing substernal chest pain radiating to the left arm, diaphoresis, and nausea. The 12-lead ECG shows ST-segment elevation in leads II, III, and aVF. Which type of myocardial infarction should the nurse suspect?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Anterior wall MI",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Lateral wall MI",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Inferior wall MI",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Septal MI",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "ST-segment elevation in leads II, III, and aVF indicates an inferior wall STEMI (ST-elevation myocardial infarction), involving the right coronary artery territory. Anterior wall MI shows changes in V1-V4 (LAD artery). Lateral wall MI shows changes in leads I, aVL, V5-V6 (circumflex artery). Septal MI shows changes in V1-V2. For inferior MI, the nurse should also assess for right ventricular involvement (right-sided ECG leads) and avoid nitrates if right ventricular MI is suspected due to preload dependence. Source: RegisteredNurseRN — Myocardial Infarction; Nurseslabs — Acute Coronary Syndrome.",
+    "tags": [
+      "STEMI",
+      "inferior-MI",
+      "ECG-leads",
+      "cardiac-emergency",
+      "coronary-arteries"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Myocardial Infarction",
+        "url": "https://www.registerednursern.com/myocardial-infarction-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Acute Coronary Syndrome",
+        "url": "https://nurseslabs.com/acute-coronary-syndrome/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q148",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A nurse is caring for a client who had cardiac surgery and develops muffled heart sounds, distended neck veins, and hypotension. Which condition should the nurse suspect, and what is the priority intervention?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Heart failure; administer diuretics",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Cardiac tamponade; prepare for pericardiocentesis",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Tension pneumothorax; prepare for needle decompression",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Myocardial infarction; administer thrombolytics",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Beck's triad — muffled (distant) heart sounds, jugular venous distension (JVD), and hypotension — is the classic presentation of cardiac tamponade, where fluid accumulates in the pericardial sac and compresses the heart, impairing filling. The priority intervention is pericardiocentesis (needle aspiration of pericardial fluid). Cardiac tamponade is common after cardiac surgery due to post-operative bleeding. Heart failure would present with crackles and edema. Tension pneumothorax presents with tracheal deviation and absent breath sounds. MI would not cause muffled heart sounds. Source: Nurseslabs — Cardiac Tamponade; RegisteredNurseRN — Pericardial Disorders.",
+    "tags": [
+      "cardiac-tamponade",
+      "Beck-triad",
+      "pericardiocentesis",
+      "cardiac-emergency"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Cardiac Tamponade",
+        "url": "https://nurseslabs.com/cardiac-tamponade/"
+      },
+      {
+        "name": "RegisteredNurseRN - Cardiac Tamponade",
+        "url": "https://www.registerednursern.com/cardiac-tamponade-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q149",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A nurse is caring for a client with new-onset atrial fibrillation with a ventricular rate of 150 bpm. The client reports feeling dizzy and lightheaded. Which intervention should the nurse anticipate?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Administer atropine 0.5 mg IV push",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Prepare for synchronized cardioversion",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Perform vagal maneuvers",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Administer adenosine rapid IV push",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "A client with atrial fibrillation at a rapid ventricular rate (150 bpm) who is symptomatic (dizzy, lightheaded — hemodynamically unstable) requires synchronized cardioversion as the priority intervention. Atropine is used for bradycardia, not tachycardia. Vagal maneuvers and adenosine are used for supraventricular tachycardia (SVT), not atrial fibrillation. If the client were hemodynamically stable, rate control medications (diltiazem, beta-blockers, or amiodarone) would be used first. Anticoagulation is also a key consideration for A-fib due to stroke risk. Source: RegisteredNurseRN — Atrial Fibrillation; Nurseslabs — Cardiac Arrhythmias.",
+    "tags": [
+      "atrial-fibrillation",
+      "cardioversion",
+      "tachycardia",
+      "hemodynamic-instability"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Atrial Fibrillation",
+        "url": "https://www.registerednursern.com/atrial-fibrillation-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Cardiac Dysrhythmias",
+        "url": "https://nurseslabs.com/cardiac-arrhythmias/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q150",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A nurse is caring for a client in the ICU who develops a blood pressure of 70/40 mmHg, tachycardia, cold/clammy skin, elevated CVP, and distended neck veins. Which type of shock should the nurse suspect?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hypovolemic shock",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Septic shock (warm phase)",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Cardiogenic shock",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Neurogenic shock",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Cardiogenic shock is characterized by hypotension, tachycardia, cold/clammy skin (vasoconstriction), elevated CVP, and JVD — indicating the heart is failing as a pump and blood is backing up. The elevated CVP and JVD differentiate it from hypovolemic shock (which has low CVP). Septic shock warm phase presents with warm, flushed skin and vasodilation. Neurogenic shock presents with bradycardia (loss of sympathetic tone) and warm skin. Cardiogenic shock is treated with inotropes (dobutamine), vasopressors, and possibly an intra-aortic balloon pump (IABP). Source: Nurseslabs — Cardiogenic Shock; RegisteredNurseRN — Types of Shock.",
+    "tags": [
+      "cardiogenic-shock",
+      "shock-types",
+      "CVP",
+      "ICU-nursing",
+      "hemodynamics"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Cardiogenic Shock",
+        "url": "https://nurseslabs.com/cardiogenic-shock/"
+      },
+      {
+        "name": "RegisteredNurseRN - Types of Shock",
+        "url": "https://www.registerednursern.com/types-of-shock-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q151",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A nurse is assessing a client with infective endocarditis. Which finding is characteristic of this condition?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pericardial friction rub with sharp chest pain",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "New-onset heart murmur with Janeway lesions on the palms",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Sudden onset of severe tearing chest pain radiating to the back",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Bilateral pitting edema with nocturnal dyspnea",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Infective endocarditis involves infection of the heart valves, presenting with a new or changing heart murmur (from valve damage) and peripheral manifestations: Janeway lesions (painless erythematous lesions on palms/soles), Osler nodes (painful nodules on fingers/toes), splinter hemorrhages (nail bed), and Roth spots (retinal hemorrhages). Pericardial friction rub with chest pain indicates pericarditis. Tearing chest pain to the back suggests aortic dissection. Bilateral edema with dyspnea suggests heart failure. Blood cultures (3 sets from different sites) are essential for diagnosis. Source: Nurseslabs — Infective Endocarditis; RegisteredNurseRN — Endocarditis Nursing.",
+    "tags": [
+      "endocarditis",
+      "Janeway-lesions",
+      "heart-murmur",
+      "cardiac-infection"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Infective Endocarditis",
+        "url": "https://nurseslabs.com/infective-endocarditis/"
+      },
+      {
+        "name": "RegisteredNurseRN - Endocarditis",
+        "url": "https://www.registerednursern.com/endocarditis-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q152",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A nurse is caring for a client with status asthmaticus who is not responding to repeated nebulizer treatments. The client's oxygen saturation is 85% and they are using accessory muscles to breathe. Which intervention is the highest priority?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Administer another albuterol nebulizer treatment",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Prepare for endotracheal intubation and mechanical ventilation",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Encourage the client to use a peak flow meter",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Administer a leukotriene modifier orally",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Status asthmaticus is a severe, life-threatening asthma attack that does not respond to conventional bronchodilator therapy. With an SpO2 of 85% and accessory muscle use despite repeated treatments, the client is in respiratory failure and requires intubation and mechanical ventilation as the priority. Repeating nebulizers that have already failed is ineffective. A peak flow meter is inappropriate in acute respiratory distress. Oral leukotriene modifiers are for maintenance therapy, not acute emergencies. IV corticosteroids, IV magnesium sulfate, and epinephrine may also be used. Source: RegisteredNurseRN — Status Asthmaticus; Nurseslabs — Asthma Nursing Management.",
+    "tags": [
+      "status-asthmaticus",
+      "respiratory-failure",
+      "intubation",
+      "emergency",
+      "asthma"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Status Asthmaticus",
+        "url": "https://www.registerednursern.com/status-asthmaticus-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Asthma Nursing Care",
+        "url": "https://nurseslabs.com/asthma/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q153",
+    "type": "select-all-that-apply",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A nurse is caring for a client diagnosed with acute respiratory distress syndrome (ARDS). Which assessment findings are characteristic of this condition? Select all that apply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Refractory hypoxemia not responsive to supplemental oxygen",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Bilateral white-out infiltrates on chest X-ray",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "PaO₂/FiO₂ ratio less than 300 mmHg",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Elevated pulmonary artery wedge pressure indicating cardiac cause",
+        "isCorrect": false
+      },
+      {
+        "id": "E",
+        "text": "Progressive dyspnea and tachypnea",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "ARDS is characterized by: refractory hypoxemia (the hallmark — PaO₂ does not improve adequately with increasing FiO₂), bilateral diffuse infiltrates on chest X-ray (\"white-out\" or \"ground glass\" appearance), a PaO₂/FiO₂ ratio <300 (mild ARDS <300, moderate <200, severe <100), and progressive respiratory distress with tachypnea. ARDS is non-cardiogenic pulmonary edema — the PAWP should be <18 mmHg (elevated PAWP indicates cardiogenic pulmonary edema). Management includes mechanical ventilation with low tidal volumes (6 mL/kg), PEEP, prone positioning, and treating the underlying cause. Source: Nurseslabs — ARDS Nursing Care; RegisteredNurseRN — ARDS Review.",
+    "tags": [
+      "ARDS",
+      "refractory-hypoxemia",
+      "respiratory-failure",
+      "mechanical-ventilation",
+      "ICU"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - ARDS",
+        "url": "https://nurseslabs.com/acute-respiratory-distress-syndrome-ards/"
+      },
+      {
+        "name": "RegisteredNurseRN - ARDS",
+        "url": "https://www.registerednursern.com/ards-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q154",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A nurse is caring for a client with acute pulmonary edema. The client is sitting upright, is severely dyspneic with pink frothy sputum, and has crackles throughout both lung fields. Which medication should the nurse administer first?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Furosemide (Lasix) IV as prescribed",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Oral potassium chloride supplement",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Metoprolol (Lopressor) oral dose",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Lisinopril (Zestril) oral dose",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Acute (flash) pulmonary edema with pink frothy sputum indicates severe fluid overload in the lungs. The priority medication is IV furosemide (loop diuretic) to rapidly reduce fluid volume and preload. The classic mnemonic for acute pulmonary edema treatment is LMNOP: Lasix (furosemide), Morphine, Nitrates, Oxygen, Position (high Fowler's). Oral potassium is a supplement, not an emergency drug. Metoprolol (beta-blocker) and lisinopril (ACE inhibitor) are maintenance medications and work too slowly for acute management. High-flow oxygen and IV nitroglycerin may also be administered. Source: RegisteredNurseRN — Pulmonary Edema; Nurseslabs — Heart Failure Nursing.",
+    "tags": [
+      "pulmonary-edema",
+      "furosemide",
+      "heart-failure",
+      "LMNOP",
+      "respiratory-emergency"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Pulmonary Edema",
+        "url": "https://www.registerednursern.com/pulmonary-edema-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Heart Failure",
+        "url": "https://nurseslabs.com/heart-failure/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q155",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A nurse is caring for a trauma client who develops a tension pneumothorax. While awaiting the provider, which position should the nurse place the client in?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Supine with legs elevated (Trendelenburg)",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "High Fowler's position on the affected side",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Semi-Fowler's to high Fowler's position",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Prone position",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "For tension pneumothorax, the client should be positioned in semi-Fowler's to high Fowler's position to facilitate breathing and reduce respiratory distress. This position uses gravity to lower the diaphragm and maximize lung expansion of the unaffected lung. Trendelenburg would worsen respiratory distress by pushing abdominal contents against the diaphragm. Lying on the affected side may compromise the unaffected lung. Prone positioning is inappropriate for an acute emergency. Definitive treatment is needle decompression at the second intercostal space, midclavicular line, followed by chest tube insertion. Source: Nurseslabs — Pneumothorax; RegisteredNurseRN — Chest Trauma.",
+    "tags": [
+      "tension-pneumothorax",
+      "positioning",
+      "respiratory-emergency",
+      "trauma-nursing"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Pneumothorax",
+        "url": "https://nurseslabs.com/pneumothorax/"
+      },
+      {
+        "name": "RegisteredNurseRN - Pneumothorax",
+        "url": "https://www.registerednursern.com/pneumothorax-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q156",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A nurse is assessing a client with respiratory failure. The arterial blood gas results show: pH 7.22, PaCO₂ 68 mmHg, PaO₂ 52 mmHg, HCO₃ 24 mEq/L. Which type of respiratory failure does this represent?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Type I (hypoxemic) respiratory failure",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Type II (hypercapnic) respiratory failure",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Metabolic acidosis with respiratory compensation",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Mixed respiratory and metabolic alkalosis",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The ABG shows: acidotic pH (7.22), elevated PaCO₂ (68 mmHg — normal 35-45), low PaO₂ (52 mmHg), and normal HCO₃ (24 mEq/L). This is uncompensated respiratory acidosis consistent with Type II (hypercapnic/ventilatory) respiratory failure — the client cannot adequately ventilate to remove CO₂. Common causes include COPD exacerbation, respiratory muscle fatigue, and CNS depression. Type I (hypoxemic) failure shows low PaO₂ with normal or low PaCO₂ (e.g., pneumonia, ARDS). Metabolic acidosis would show low HCO₃. Treatment includes bronchodilators, non-invasive ventilation (BiPAP), or intubation. Source: RegisteredNurseRN — ABG Interpretation; Nurseslabs — Respiratory Failure.",
+    "tags": [
+      "respiratory-failure",
+      "ABG",
+      "hypercapnia",
+      "respiratory-acidosis",
+      "ventilation"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - ABG Interpretation",
+        "url": "https://www.registerednursern.com/arterial-blood-gas-abg-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Respiratory Failure",
+        "url": "https://nurseslabs.com/respiratory-failure/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q157",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A client arrives at the emergency department with sudden onset of right-sided weakness, slurred speech, and facial drooping that started 45 minutes ago. After confirming an ischemic stroke on CT scan, which intervention is the highest priority?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Administer IV alteplase (tPA) within the treatment window",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Administer aspirin 325 mg orally immediately",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Perform a carotid endarterectomy",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Start IV heparin infusion for anticoagulation",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "For confirmed ischemic stroke within the treatment window (up to 4.5 hours from symptom onset), IV alteplase (tPA) is the priority intervention — it dissolves the clot and restores blood flow. This client is within the window at 45 minutes. Aspirin is given but not within 24 hours of tPA administration. Carotid endarterectomy is a surgical preventive measure, not an acute treatment. IV heparin is contraindicated acutely with tPA and is not first-line for ischemic stroke. Key nursing actions: monitor neuro status every 15 minutes, maintain BP parameters, and assess for bleeding complications. Source: Nurseslabs — Ischemic Stroke; RegisteredNurseRN — Stroke Nursing Care.",
+    "tags": [
+      "stroke",
+      "tPA",
+      "alteplase",
+      "ischemic-stroke",
+      "neurological-emergency"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Ischemic Stroke",
+        "url": "https://nurseslabs.com/cerebrovascular-accident-stroke/"
+      },
+      {
+        "name": "RegisteredNurseRN - Stroke",
+        "url": "https://www.registerednursern.com/stroke-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q158",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A nurse is caring for a client with a seizure disorder who has been seizing continuously for 8 minutes without regaining consciousness between seizures. Which medication should the nurse anticipate administering first?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Phenytoin (Dilantin) IV loading dose",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Lorazepam (Ativan) IV",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Valproic acid (Depakote) orally",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Carbamazepine (Tegretol) orally",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Status epilepticus is defined as continuous seizure activity lasting >5 minutes or two or more seizures without regaining consciousness. The first-line treatment is a benzodiazepine — lorazepam (Ativan) IV is the preferred initial drug to rapidly stop seizure activity. If benzodiazepines fail, second-line agents include IV phenytoin (fosphenytoin), levetiracetam, or valproic acid. Oral medications cannot be given during active seizures. The nurse should protect the client from injury, maintain airway, position on side, time the seizure, and never restrain or insert objects in the mouth. Source: RegisteredNurseRN — Status Epilepticus; Nurseslabs — Seizure Nursing Management.",
+    "tags": [
+      "status-epilepticus",
+      "seizure",
+      "lorazepam",
+      "benzodiazepine",
+      "neurological-emergency"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Status Epilepticus",
+        "url": "https://www.registerednursern.com/status-epilepticus-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Seizure Disorders",
+        "url": "https://nurseslabs.com/seizure-disorder/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q159",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A nurse is caring for a client with a spinal cord injury at T4. The client suddenly develops a severe pounding headache, blood pressure of 240/140 mmHg, profuse sweating above the injury level, and bradycardia. Which action should the nurse perform first?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Administer prescribed antihypertensive medication",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Sit the client upright and check for a distended bladder",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Place the client flat and prepare for IV fluid bolus",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Apply a cold compress to the forehead and continue monitoring",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "This is autonomic dysreflexia — a life-threatening emergency in clients with spinal cord injuries at T6 or above. The most common trigger is bladder distension. The first action is to sit the client upright (to lower BP using orthostatic effect) and identify/remove the noxious stimulus — check for full bladder (catheterize if needed), fecal impaction, tight clothing, or skin irritation. Antihypertensives may be needed but addressing the cause is the priority first action. Placing the client flat would worsen the dangerously high BP. Cold compresses do not address the underlying emergency. If untreated, the extreme hypertension can cause stroke, seizures, or death. Source: Nurseslabs — Autonomic Dysreflexia; RegisteredNurseRN — Spinal Cord Injury.",
+    "tags": [
+      "autonomic-dysreflexia",
+      "spinal-cord-injury",
+      "hypertensive-emergency",
+      "bladder-distension"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Autonomic Dysreflexia",
+        "url": "https://nurseslabs.com/autonomic-dysreflexia/"
+      },
+      {
+        "name": "RegisteredNurseRN - Spinal Cord Injury",
+        "url": "https://www.registerednursern.com/spinal-cord-injury-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q160",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A nurse is assessing a client suspected of having bacterial meningitis. Which assessment findings are most consistent with this diagnosis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fever, nuchal rigidity, and positive Kernig's and Brudzinski's signs",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Low-grade fever, clear nasal drainage, and photophobia",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Afebrile with unilateral facial weakness and hearing loss",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Headache with visual field deficits and papilledema",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The classic triad of bacterial meningitis is: fever, nuchal rigidity (stiff neck), and altered mental status. Positive Kernig's sign (pain with leg extension when hip is flexed) and Brudzinski's sign (involuntary hip/knee flexion when neck is flexed) indicate meningeal irritation. Photophobia and severe headache are also common. Droplet precautions are required for the first 24 hours of antibiotic therapy. Unilateral facial weakness suggests Bell's palsy or stroke. Visual field deficits with papilledema suggest increased intracranial pressure from a mass lesion. A lumbar puncture is needed for definitive diagnosis. Source: RegisteredNurseRN — Meningitis; Nurseslabs — Meningitis Nursing Care.",
+    "tags": [
+      "meningitis",
+      "Kernig-sign",
+      "Brudzinski-sign",
+      "nuchal-rigidity",
+      "infection"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Meningitis",
+        "url": "https://www.registerednursern.com/meningitis-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Meningitis",
+        "url": "https://nurseslabs.com/meningitis/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q161",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A nurse is caring for a client with Graves' disease who develops a temperature of 104°F (40°C), heart rate of 160 bpm, agitation, and delirium. Which life-threatening complication should the nurse suspect?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Myxedema coma",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Thyroid storm (thyrotoxic crisis)",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Addisonian crisis",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Pheochromocytoma crisis",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Thyroid storm (thyrotoxic crisis) is a life-threatening exacerbation of hyperthyroidism (Graves' disease) characterized by severe hyperthermia (>104°F), extreme tachycardia, agitation/delirium, and potential cardiovascular collapse. Treatment includes: PTU or methimazole (block thyroid hormone synthesis), beta-blockers (control heart rate), corticosteroids (block T4 to T3 conversion), cooling measures, and IV fluids. Myxedema coma is the opposite — severe hypothyroidism with hypothermia and bradycardia. Addisonian crisis involves cortisol deficiency with hypotension. Pheochromocytoma causes episodic hypertension but not sustained high fever. Source: Nurseslabs — Thyroid Storm; RegisteredNurseRN — Hyperthyroidism.",
+    "tags": [
+      "thyroid-storm",
+      "Graves-disease",
+      "hyperthyroidism",
+      "endocrine-emergency"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Thyroid Storm",
+        "url": "https://nurseslabs.com/hyperthyroidism/"
+      },
+      {
+        "name": "RegisteredNurseRN - Thyroid Storm",
+        "url": "https://www.registerednursern.com/hyperthyroidism-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q162",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A nurse is caring for a client with severe hypothyroidism who becomes increasingly lethargic with a temperature of 93°F (33.9°C), bradycardia, and hypotension. Which emergency condition should the nurse suspect?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Thyroid storm",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Myxedema coma",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Diabetic ketoacidosis",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Hyperosmolar hyperglycemic state",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Myxedema coma is the most severe, life-threatening form of hypothyroidism characterized by: hypothermia, altered mental status progressing to coma, bradycardia, hypotension, hypoventilation, and hypoglycemia. It is a medical emergency requiring IV levothyroxine (T4), IV corticosteroids, passive warming (avoid active warming — can cause vasodilation and cardiovascular collapse), respiratory support, and glucose management. Thyroid storm is the opposite — hyperthyroidism crisis with hyperthermia and tachycardia. DKA and HHS are diabetic emergencies with hyperglycemia. Source: RegisteredNurseRN — Myxedema Coma; Nurseslabs — Hypothyroidism.",
+    "tags": [
+      "myxedema-coma",
+      "hypothyroidism",
+      "hypothermia",
+      "endocrine-emergency"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Hypothyroidism",
+        "url": "https://www.registerednursern.com/hypothyroidism-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Hypothyroidism",
+        "url": "https://nurseslabs.com/hypothyroidism/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q163",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A nurse is caring for a client with Addison's disease who develops sudden severe hypotension, tachycardia, nausea, vomiting, and abdominal pain after abruptly discontinuing corticosteroid therapy. Which intervention is the priority?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Administer IV hydrocortisone (Solu-Cortef) and IV fluids with dextrose",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Administer oral prednisone and monitor blood pressure",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Restrict fluid intake and administer vasopressors",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Administer insulin to correct metabolic imbalances",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Addisonian crisis (acute adrenal insufficiency) is triggered by abrupt corticosteroid withdrawal, stress, infection, or trauma in a client with adrenal insufficiency. It presents with severe hypotension, tachycardia, dehydration, hyperkalemia, hyponatremia, and hypoglycemia. The priority is IV hydrocortisone (stress-dose steroids) and aggressive IV fluid resuscitation with dextrose-containing solutions (to correct dehydration and hypoglycemia). Oral medications are inadequate in a crisis — IV is essential. Fluid restriction would worsen dehydration. Insulin is not indicated — the client has hypoglycemia, not hyperglycemia. This is why corticosteroids must always be tapered, never stopped abruptly. Source: Nurseslabs — Addisonian Crisis; RegisteredNurseRN — Adrenal Insufficiency.",
+    "tags": [
+      "Addisonian-crisis",
+      "adrenal-insufficiency",
+      "hydrocortisone",
+      "endocrine-emergency"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Addison's Disease",
+        "url": "https://nurseslabs.com/addisons-disease/"
+      },
+      {
+        "name": "RegisteredNurseRN - Addison's Disease",
+        "url": "https://www.registerednursern.com/addisons-disease-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q164",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A nurse is caring for a client with type 2 diabetes who presents with blood glucose of 820 mg/dL, serum osmolality of 350 mOsm/kg, minimal urine ketones, and profound dehydration. Which condition should the nurse suspect?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diabetic ketoacidosis (DKA)",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Hyperosmolar hyperglycemic state (HHS)",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Hypoglycemic shock",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Syndrome of inappropriate antidiuretic hormone (SIADH)",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Hyperosmolar hyperglycemic state (HHS) is characterized by: extreme hyperglycemia (often >600 mg/dL), hyperosmolality (>320 mOsm/kg), profound dehydration, and minimal or no ketones (because the client still produces some insulin). HHS typically occurs in type 2 diabetes. DKA shows moderate hyperglycemia (250-500 mg/dL), significant ketones, and metabolic acidosis — it occurs in type 1 diabetes. Hypoglycemic shock involves low blood glucose. SIADH involves fluid retention and dilutional hyponatremia. Treatment of HHS focuses on aggressive IV fluid replacement (isotonic saline) and insulin infusion. Source: RegisteredNurseRN — HHS vs DKA; Nurseslabs — Diabetic Emergencies.",
+    "tags": [
+      "HHS",
+      "hyperglycemia",
+      "hyperosmolar",
+      "diabetes",
+      "type-2-diabetes"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - HHS",
+        "url": "https://www.registerednursern.com/hyperosmolar-hyperglycemic-state-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Diabetic Emergencies",
+        "url": "https://nurseslabs.com/diabetes-mellitus/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q165",
+    "type": "select-all-that-apply",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A nurse is caring for a client diagnosed with disseminated intravascular coagulation (DIC). Which assessment findings should the nurse expect? Select all that apply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Oozing blood from IV sites and puncture wounds",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Petechiae and purpura on the skin",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Elevated platelet count and elevated fibrinogen",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Prolonged PT, aPTT, and elevated D-dimer",
+        "isCorrect": true
+      },
+      {
+        "id": "E",
+        "text": "Decreased platelet count and decreased fibrinogen",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "DIC is a paradoxical condition of simultaneous clotting and bleeding. As clotting factors and platelets are consumed in widespread microthrombi, the client develops bleeding: oozing from IV sites, petechiae, purpura, hematuria, and GI bleeding. Lab findings show: decreased platelets (consumed), decreased fibrinogen (consumed), prolonged PT/aPTT (depleted clotting factors), and elevated D-dimer/FDPs (fibrin degradation from clot breakdown). Elevated platelets and fibrinogen would indicate normal coagulation or inflammation, not DIC. Treatment focuses on the underlying cause plus replacement of clotting factors (FFP, cryoprecipitate) and platelets. Source: Nurseslabs — DIC; RegisteredNurseRN — Disseminated Intravascular Coagulation.",
+    "tags": [
+      "DIC",
+      "coagulopathy",
+      "bleeding",
+      "D-dimer",
+      "hematology"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - DIC",
+        "url": "https://nurseslabs.com/disseminated-intravascular-coagulation/"
+      },
+      {
+        "name": "RegisteredNurseRN - DIC",
+        "url": "https://www.registerednursern.com/dic-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q166",
+    "type": "ordered-response",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A nurse is caring for a client with suspected sepsis. Place the following nursing interventions in the correct order of priority according to the Surviving Sepsis Campaign bundle.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Obtain blood cultures before starting antibiotics"
+      },
+      {
+        "id": "B",
+        "text": "Measure serum lactate level"
+      },
+      {
+        "id": "C",
+        "text": "Administer broad-spectrum antibiotics within 1 hour"
+      },
+      {
+        "id": "D",
+        "text": "Begin IV crystalloid fluid bolus (30 mL/kg) for hypotension"
+      },
+      {
+        "id": "E",
+        "text": "Reassess volume status and tissue perfusion"
+      }
+    ],
+    "correctOrder": [
+      "B",
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "rationale": "The Surviving Sepsis Campaign 1-hour bundle requires: (1) Measure lactate — establishes severity (lactate >2 mmol/L indicates tissue hypoperfusion); (2) Obtain blood cultures before antibiotics — allows identification of causative organism without delaying treatment; (3) Administer broad-spectrum antibiotics within 1 hour of recognition — every hour of delay increases mortality; (4) Begin rapid IV fluid resuscitation (30 mL/kg crystalloid) for hypotension or lactate ≥4 — restores intravascular volume; (5) Reassess volume status — guide further fluid or vasopressor therapy. SIRS criteria include: temp >38°C or <36°C, HR >90, RR >20, WBC >12,000 or <4,000. Source: Nurseslabs — Sepsis Nursing; RegisteredNurseRN — Sepsis and SIRS.",
+    "tags": [
+      "sepsis",
+      "SIRS",
+      "sepsis-bundle",
+      "lactate",
+      "antibiotics",
+      "fluid-resuscitation"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Sepsis",
+        "url": "https://nurseslabs.com/sepsis/"
+      },
+      {
+        "name": "RegisteredNurseRN - Sepsis",
+        "url": "https://www.registerednursern.com/sepsis-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q167",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A nurse is caring for a client admitted with severe burns covering 36% of the total body surface area. Using the Parkland formula, how much IV lactated Ringer's solution should be administered in the first 8 hours for a client weighing 80 kg?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2,880 mL",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "5,760 mL",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "11,520 mL",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "1,440 mL",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The Parkland formula for burn fluid resuscitation is: 4 mL × body weight (kg) × %TBSA burned. Total 24-hour volume = 4 × 80 × 36 = 11,520 mL. Half of this total is given in the first 8 hours from the time of burn injury: 11,520 ÷ 2 = 5,760 mL. The remaining half is given over the next 16 hours. Lactated Ringer's is the preferred crystalloid. Urine output (0.5-1 mL/kg/hr in adults) is the best indicator of adequate resuscitation. The Rule of Nines is used to estimate TBSA: each arm 9%, each leg 18%, anterior trunk 18%, posterior trunk 18%, head 9%, perineum 1%. Source: Nurseslabs — Burns Nursing Care; RegisteredNurseRN — Burn Management.",
+    "tags": [
+      "burns",
+      "Parkland-formula",
+      "fluid-resuscitation",
+      "Rule-of-Nines",
+      "critical-care"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Burns",
+        "url": "https://nurseslabs.com/burns/"
+      },
+      {
+        "name": "RegisteredNurseRN - Burns",
+        "url": "https://www.registerednursern.com/burns-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q168",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A nurse is caring for a client with sickle cell disease who presents with severe bone pain, fever, and swelling of the joints. Which priority intervention should the nurse implement?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Apply cold packs to the painful areas",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Administer IV fluids and pain management as prescribed",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Restrict fluids to prevent fluid overload",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Encourage vigorous physical activity to promote circulation",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "During a sickle cell crisis (vaso-occlusive crisis), sickled red blood cells block small blood vessels, causing severe ischemic pain. Priority interventions include: aggressive IV hydration (to dilute blood and promote flow of sickled cells), effective pain management (often requiring opioids — pain is severe), oxygen therapy (to prevent further sickling), rest, and warmth. Cold packs are contraindicated — cold causes vasoconstriction and worsens sickling. Fluid restriction would worsen the crisis. Vigorous activity increases oxygen demand and can trigger more sickling. Source: RegisteredNurseRN — Sickle Cell Disease; Nurseslabs — Sickle Cell Anemia.",
+    "tags": [
+      "sickle-cell-crisis",
+      "pain-management",
+      "hydration",
+      "hematology"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Sickle Cell Disease",
+        "url": "https://www.registerednursern.com/sickle-cell-disease-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Sickle Cell Anemia",
+        "url": "https://nurseslabs.com/sickle-cell-anemia/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q169",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A nurse is monitoring a client receiving chemotherapy who develops tumor lysis syndrome. Which electrolyte abnormality should the nurse anticipate?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hypokalemia and hypocalcemia",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Hyperkalemia and hyperuricemia",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Hyponatremia and hypoglycemia",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Hypernatremia and hyperchloremia",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Tumor lysis syndrome (TLS) occurs when rapid destruction of cancer cells releases intracellular contents into the bloodstream. The classic electrolyte pattern is: hyperkalemia (potassium release from cells), hyperphosphatemia (phosphorus release), hypocalcemia (calcium binds to excess phosphorus), and hyperuricemia (nucleic acid breakdown). Acute kidney injury can develop from uric acid crystal deposition. Prevention includes aggressive IV hydration, allopurinol or rasburicase (to reduce uric acid), and monitoring electrolytes every 6-8 hours. Cardiac monitoring is essential due to hyperkalemia risk. Source: Nurseslabs — Tumor Lysis Syndrome; RegisteredNurseRN — Oncologic Emergencies.",
+    "tags": [
+      "tumor-lysis-syndrome",
+      "hyperkalemia",
+      "chemotherapy",
+      "oncology-emergency"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Tumor Lysis Syndrome",
+        "url": "https://nurseslabs.com/tumor-lysis-syndrome/"
+      },
+      {
+        "name": "RegisteredNurseRN - Oncologic Emergencies",
+        "url": "https://www.registerednursern.com/oncologic-emergencies-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q170",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A nurse is assessing a client admitted with acute pancreatitis. Which is the most characteristic symptom the nurse should expect?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sudden onset of sharp right lower quadrant pain",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Severe epigastric pain radiating to the back, worse after eating",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Colicky pain with rebound tenderness in the left lower quadrant",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Dull, constant right upper quadrant pain with jaundice",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Acute pancreatitis classically presents with severe, steady epigastric pain radiating straight through to the back, worsened by eating (especially fatty foods) and lying flat. Pain may be partially relieved by leaning forward or assuming a fetal position. Other findings include elevated serum amylase and lipase (most specific), nausea/vomiting, and possible Cullen sign (periumbilical bruising) or Grey Turner sign (flank bruising) in severe hemorrhagic pancreatitis. RLQ pain suggests appendicitis. LLQ colicky pain suggests diverticulitis. RUQ pain with jaundice suggests cholecystitis or biliary obstruction. Management includes NPO, IV fluids, pain management, and NG tube if ileus develops. Source: Nurseslabs — Acute Pancreatitis; RegisteredNurseRN — Pancreatitis Nursing.",
+    "tags": [
+      "pancreatitis",
+      "epigastric-pain",
+      "amylase",
+      "lipase",
+      "GI-emergency"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Pancreatitis",
+        "url": "https://nurseslabs.com/pancreatitis/"
+      },
+      {
+        "name": "RegisteredNurseRN - Pancreatitis",
+        "url": "https://www.registerednursern.com/pancreatitis-nclex-review/"
+      }
+    ],
+    "verified": true
   }
 ]

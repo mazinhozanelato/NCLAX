@@ -4,6 +4,54 @@ Track of all question research updates, including sources, verification, and cov
 
 ---
 
+## [v1.5.0] - 2026-02-19
+
+### Summary
+Major expansion of Physiological Adaptation subcategory, adding 24 new questions covering cardiac, respiratory, neurological, metabolic/endocrine emergencies, and other critical conditions. This brings the subcategory from 9 to 33 questions, meeting the NCLEX target allocation.
+
+### Questions Added: 24 (q147–q170)
+| Topic Group | Count |
+|-------------|-------|
+| Cardiac Emergencies (MI/STEMI, cardiac tamponade, A-fib, cardiogenic shock, endocarditis) | 5 |
+| Respiratory Emergencies (status asthmaticus, ARDS, pulmonary edema, tension pneumothorax, respiratory failure) | 5 |
+| Neuro Emergencies (stroke/tPA, status epilepticus, autonomic dysreflexia, meningitis) | 4 |
+| Metabolic/Endocrine Crises (thyroid storm, myxedema coma, Addisonian crisis, HHS) | 4 |
+| Other Critical (DIC, sepsis/SIRS, burns/Parkland, sickle cell crisis, tumor lysis, pancreatitis) | 6 |
+
+### Question Types Added
+- Multiple Choice: 21
+- Select All That Apply (SATA): 2
+- Ordered Response: 1
+
+### Difficulty Distribution
+- Easy: 3
+- Medium: 12
+- Hard: 9
+
+### Verification
+- Verified (2+ independent sources): 24
+- Single source: 0
+- Total sources used: 3 (Nurseslabs, RegisteredNurseRN, RNpedia)
+
+### Coverage Improvements (before → after)
+| Subcategory | Before | After | Target % |
+|-------------|--------|-------|----------|
+| physiological-adaptation | 9 | 33 | 11-17% |
+
+### Overall Stats (v1.5.0)
+- Total questions: 170
+- Verified: 101 (59%)
+- Single source: 59
+- Sample (no source): 10
+
+### Remaining Coverage Gaps
+- pharmacological-therapies: 12 (need ~21 more)
+- management-of-care: 18 (need ~19 more)
+- basic-care-comfort: 9 (need ~11 more)
+- safety-infection-control: 15 (need ~5 more)
+
+---
+
 ## [v1.4.0] - 2026-02-19
 
 ### Summary
