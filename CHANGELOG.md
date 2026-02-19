@@ -4,6 +4,40 @@ Track of all question research updates, including sources, verification, and cov
 
 ---
 
+## [v1.7.0] - 2026-02-19
+
+### Summary
+Major expansion of Management of Care subcategory, adding 19 new questions covering delegation, prioritization, client rights, and quality/safety topics. This brings the subcategory from 18 to 37 questions, meeting the NCLEX target allocation.
+
+### Questions Added: 19 (q192–q210)
+| Topic Group | Count |
+|-------------|-------|
+| Delegation (RN-to-LPN, UAP scenarios, new grad supervision, emergency delegation, community health) | 5 |
+| Prioritization (Maslow's applied, ESI triage, START triage, 4-patient scenarios, discharge teaching) | 5 |
+| Client Rights (advance directives, HIPAA, involuntary commitment, cultural considerations) | 4 |
+| Quality/Safety (incident reporting, chain of command, organ donation, SBAR handoff, case management) | 5 |
+
+### Question Types Added
+- Multiple Choice: 18
+- Ordered Response: 1
+
+### Difficulty Distribution
+- Easy: 5
+- Medium: 11
+- Hard: 3
+
+### Verification
+- Verified (2+ independent sources): 19
+- Single source: 0
+
+### Overall Stats (v1.7.0)
+- Total questions: 210
+- Verified: 141 (67%)
+- Single source: 59
+- Sample (no source): 10
+
+---
+
 ## [v1.6.0] - 2026-02-19
 
 ### Summary

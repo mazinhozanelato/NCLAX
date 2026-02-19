@@ -9126,5 +9126,933 @@
       }
     ],
     "verified": true
+  },
+  {
+    "id": "q192",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A registered nurse (RN) is delegating tasks to a licensed practical nurse (LPN) on a medical-surgical unit. Which task is appropriate for the RN to delegate to the LPN?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Assess a newly admitted client and develop the initial care plan",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Administer oral medications to a stable client with a known medication regimen",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Teach a client newly diagnosed with diabetes about insulin administration",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Receive telephone orders from the healthcare provider for a deteriorating client",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "LPNs can administer oral and injectable medications (including insulin and heparin in many states) to stable clients with predictable outcomes. Initial assessment, care plan development, and nursing diagnosis are within the RN's exclusive scope. Client teaching, especially initial education for new diagnoses, requires RN-level assessment and clinical judgment. Receiving and interpreting telephone orders for complex or deteriorating situations requires RN judgment. The 5 Rights of Delegation: right task, right circumstance, right person, right direction/communication, right supervision. Source: Nurseslabs — Delegation in Nursing; RegisteredNurseRN — RN Delegation.",
+    "tags": [
+      "delegation",
+      "RN-LPN",
+      "scope-of-practice",
+      "management-of-care"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Delegation",
+        "url": "https://nurseslabs.com/delegation-in-nursing/"
+      },
+      {
+        "name": "RegisteredNurseRN - Delegation",
+        "url": "https://www.registerednursern.com/delegation-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q193",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A registered nurse is working with an unlicensed assistive personnel (UAP). Which task is appropriate for the RN to delegate to the UAP?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Obtain vital signs on a stable postpartum client",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Perform tracheostomy suctioning on a ventilator-dependent client",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Evaluate the effectiveness of a client's pain medication",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Administer a PRN antihypertensive medication",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "UAPs (nursing assistants, patient care technicians) can perform routine, non-invasive tasks that do not require clinical judgment: vital signs on stable clients, I&O recording, bathing, ambulation, feeding, and specimen collection. Tracheostomy suctioning is an invasive procedure requiring a licensed nurse. Evaluation of medication effectiveness requires nursing judgment (RN only). Medication administration requires a licensed nurse (RN or LPN). The key principle: UAPs can collect data, but cannot assess, evaluate, or provide clinical judgment. Source: RegisteredNurseRN — UAP Delegation; Nurseslabs — Nursing Delegation.",
+    "tags": [
+      "delegation",
+      "UAP",
+      "scope-of-practice",
+      "vital-signs"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - UAP Delegation",
+        "url": "https://www.registerednursern.com/delegation-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Delegation",
+        "url": "https://nurseslabs.com/delegation-in-nursing/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q194",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A new graduate nurse is assigned to a preceptor on an ICU. The new nurse asks if they can titrate a vasopressor infusion independently. What is the most appropriate response by the preceptor?",
+    "options": [
+      {
+        "id": "A",
+        "text": "\"Yes, you have your license so you can perform any nursing task\"",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "\"Let me observe while you titrate, and I will provide guidance as needed\"",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "\"No, new graduates should not touch ICU medications for the first year\"",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "\"You can titrate after reading the hospital policy; no supervision is needed\"",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The preceptor's role is to provide supervision and guidance while allowing the new graduate to develop competency in a supported environment. Observing while the new nurse performs the task provides real-time learning with a safety net. While the new graduate has a valid license, competency in high-risk ICU skills requires demonstration with supervision before independent practice. Completely restricting the nurse for a year is overly restrictive and impedes learning. Allowing unsupervised titration without observed competency poses patient safety risks. Preceptorship should follow a graduated independence model. Source: Nurseslabs — Nursing Preceptorship; RegisteredNurseRN — New Nurse Transition.",
+    "tags": [
+      "preceptorship",
+      "new-graduate",
+      "supervision",
+      "ICU-nursing",
+      "competency"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Nursing Education",
+        "url": "https://nurseslabs.com/nursing-education/"
+      },
+      {
+        "name": "RegisteredNurseRN - New Graduate",
+        "url": "https://www.registerednursern.com/new-graduate-nurse-nclex/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q195",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "During a code blue in a medical-surgical unit, the RN team leader must delegate emergency tasks. Which delegation is most appropriate?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Assign the UAP to administer epinephrine IV push",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Assign the UAP to perform chest compressions while licensed nurses manage airway and medications",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Send all UAPs out of the room since they cannot assist in emergencies",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Assign the LPN to lead the code and make all medication decisions",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "In emergencies, delegation rules adapt to the situation while maintaining safety. UAPs trained in BLS (Basic Life Support) can perform chest compressions — a critical task during a code that does not require clinical judgment but does require CPR certification. UAPs cannot administer medications — that requires a licensed nurse. Dismissing trained UAPs wastes resources during a critical event. LPNs can assist in codes but should not lead or make independent medication decisions — the code should be led by an RN or physician. The team leader (RN or physician) directs the code and assigns roles based on competency. Source: RegisteredNurseRN — Emergency Delegation; Nurseslabs — Code Blue Nursing.",
+    "tags": [
+      "delegation",
+      "emergency",
+      "code-blue",
+      "UAP",
+      "team-leadership"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Emergency Nursing",
+        "url": "https://www.registerednursern.com/emergency-nursing-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Emergency Nursing",
+        "url": "https://nurseslabs.com/emergency-nursing/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q196",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A community health nurse is delegating tasks for a home health visit schedule. Which task can the nurse delegate to a trained home health aide?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Perform a wound assessment and change a sterile dressing on a surgical wound",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Assist a stable client with bathing, dressing, and light housekeeping",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Adjust the client's insulin dose based on blood glucose readings",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Develop a new home exercise program for a client recovering from hip surgery",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Home health aides (unlicensed personnel) can perform personal care activities: bathing, dressing, grooming, light housekeeping, meal preparation, and assisting with ambulation. Wound assessment and sterile dressing changes require licensed nursing skills. Adjusting medication doses requires prescriber-level authority or nurse clinical judgment per protocol. Developing exercise programs requires a licensed professional (RN, PT). In community health, the RN maintains overall responsibility and must make supervisory visits to evaluate aide performance and client outcomes. Source: Nurseslabs — Community Health Nursing; RegisteredNurseRN — Home Health Nursing.",
+    "tags": [
+      "delegation",
+      "community-health",
+      "home-health-aide",
+      "scope-of-practice"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Community Health Nursing",
+        "url": "https://nurseslabs.com/community-health-nursing/"
+      },
+      {
+        "name": "RegisteredNurseRN - Community Health",
+        "url": "https://www.registerednursern.com/community-health-nursing-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q197",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A nurse is caring for four clients. Using Maslow's hierarchy of needs, which client should the nurse assess first?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A client with anxiety about a scheduled cardiac catheterization tomorrow",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "A client who is dyspneic with an oxygen saturation of 86%",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "A client requesting pain medication rated 5 out of 10",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "A client who is upset about being placed in a room with another patient",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Maslow's hierarchy prioritizes: physiological needs (airway, breathing, circulation) → safety/security → love/belonging → self-esteem → self-actualization. The dyspneic client with SpO2 86% has an unmet physiological need (breathing/oxygenation) which is the highest priority and potentially life-threatening. Pain at 5/10 is a physiological need but not immediately life-threatening. Anxiety about a procedure is a safety/security concern. Room dissatisfaction relates to belonging/comfort — lower priority. On NCLEX, use ABCs (Airway, Breathing, Circulation) and Maslow's to determine priority. Source: Nurseslabs — Prioritization in Nursing; RegisteredNurseRN — NCLEX Priority Setting.",
+    "tags": [
+      "Maslow",
+      "prioritization",
+      "ABCs",
+      "oxygen-saturation",
+      "clinical-judgment"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Prioritization",
+        "url": "https://nurseslabs.com/prioritization-in-nursing/"
+      },
+      {
+        "name": "RegisteredNurseRN - Prioritization",
+        "url": "https://www.registerednursern.com/prioritization-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q198",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A nurse is working in the emergency department during a mass casualty event using the START triage system. A victim is found unresponsive, not breathing, and has no pulse after repositioning the airway. What color triage tag should the nurse assign?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Red (Immediate)",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Yellow (Delayed)",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Green (Minor/Walking wounded)",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Black (Expectant/Deceased)",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "In the START (Simple Triage and Rapid Treatment) system for mass casualty events, if a victim is not breathing after repositioning the airway, they are tagged Black (expectant/deceased). In disaster triage, individual lifesaving resuscitation (CPR) is NOT performed because resources must be directed to those with the greatest chance of survival. This differs from everyday clinical practice where CPR would be initiated. START triage categories: Green = minor, can walk; Yellow = delayed, can wait for treatment; Red = immediate, life-threatening but salvageable; Black = deceased or expectant, no pulse/no breathing after airway repositioning. Source: RegisteredNurseRN — Disaster Triage; Nurseslabs — Emergency/Disaster Nursing.",
+    "tags": [
+      "START-triage",
+      "disaster",
+      "mass-casualty",
+      "triage-tags",
+      "emergency-management"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Disaster Nursing",
+        "url": "https://www.registerednursern.com/disaster-nursing-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Disaster Nursing",
+        "url": "https://nurseslabs.com/disaster-nursing/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q199",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A nurse in the emergency department is using the Emergency Severity Index (ESI) triage system. A client arrives with a chief complaint of chest pain, diaphoresis, and shortness of breath. What ESI level should the nurse assign?",
+    "options": [
+      {
+        "id": "A",
+        "text": "ESI Level 1 — Resuscitation (immediate life-saving intervention needed)",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "ESI Level 2 — Emergent (high-risk, but not immediately dying)",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "ESI Level 3 — Urgent (needs multiple resources)",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "ESI Level 4 — Less urgent (needs one resource)",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Chest pain with diaphoresis and shortness of breath suggests acute myocardial infarction or other immediately life-threatening cardiac event requiring resuscitation-level care (ESI Level 1). ESI Level 1 is for clients requiring immediate life-saving interventions: cardiac arrest, respiratory failure, actively seizing, or presenting with classic acute MI symptoms. ESI Level 2 is for high-risk situations without immediate intervention (e.g., stable chest pain without acute distress). ESI 3-5 considers number of resources needed. This client needs immediate ECG, cardiac monitoring, IV access, medications, and possible cardiac catheterization. Source: Nurseslabs — ED Triage; RegisteredNurseRN — Emergency Triage.",
+    "tags": [
+      "ESI-triage",
+      "emergency-department",
+      "chest-pain",
+      "prioritization",
+      "triage-levels"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Emergency Triage",
+        "url": "https://nurseslabs.com/emergency-nursing/"
+      },
+      {
+        "name": "RegisteredNurseRN - Triage",
+        "url": "https://www.registerednursern.com/triage-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q200",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A nurse receives shift report on four clients. Which client should the nurse assess first?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A client with type 2 diabetes whose morning blood glucose was 210 mg/dL",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "A client 1 day post-appendectomy requesting pain medication",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "A client with COPD whose oxygen saturation dropped from 92% to 84% in the last hour",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "A client with heart failure who gained 2 pounds overnight and has 2+ pedal edema",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The COPD client with rapidly declining oxygen saturation (92% → 84%) represents an acute change in condition with respiratory compromise — this is the highest priority using ABCs. A blood glucose of 210 is elevated but not critical or acutely dangerous. Pain medication request is important but not life-threatening. Weight gain and edema in heart failure indicate worsening condition but is a gradual change that is not immediately life-threatening. The key principle: prioritize acute changes (getting worse) over chronic/stable conditions, and always address ABC (airway, breathing, circulation) issues first. Source: RegisteredNurseRN — Priority Setting; Nurseslabs — NCLEX Prioritization.",
+    "tags": [
+      "prioritization",
+      "4-client-scenario",
+      "ABCs",
+      "acute-change",
+      "COPD"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Prioritization",
+        "url": "https://www.registerednursern.com/prioritization-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Prioritization",
+        "url": "https://nurseslabs.com/prioritization-in-nursing/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q201",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A nurse is preparing discharge teaching for a client going home on warfarin therapy. Which client statement indicates the discharge teaching should be planned first, before other clients?",
+    "options": [
+      {
+        "id": "A",
+        "text": "\"I've been on warfarin for 3 years and know my INR routine\"",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "\"I just started warfarin yesterday and I'm not sure what foods to avoid\"",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "\"My spouse is a nurse and will help me manage my medication at home\"",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "\"I have a follow-up appointment with my doctor in 3 days\"",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The client who just started warfarin and is unsure about dietary restrictions needs priority discharge teaching because warfarin has narrow therapeutic range and significant food/drug interactions. Inadequate knowledge about vitamin K-containing foods (green leafy vegetables) can lead to subtherapeutic or supratherapeutic INR levels, risking clotting or hemorrhage. The experienced client already knows the routine. Having a nurse spouse provides a support system but doesn't replace teaching. A follow-up appointment helps but the client needs to manage medications safely between now and then. Priority teaching focuses on clients with the greatest knowledge deficit for high-risk medications. Source: Nurseslabs — Discharge Planning; RegisteredNurseRN — Warfarin Teaching.",
+    "tags": [
+      "discharge-teaching",
+      "prioritization",
+      "warfarin",
+      "patient-education"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Discharge Planning",
+        "url": "https://nurseslabs.com/discharge-planning/"
+      },
+      {
+        "name": "RegisteredNurseRN - Warfarin",
+        "url": "https://www.registerednursern.com/warfarin-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q202",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A terminally ill client has a legal advance directive stating \"Do Not Resuscitate\" (DNR). The client's family member demands that the nurse perform CPR if the client's heart stops. What is the nurse's most appropriate action?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Follow the family's wishes and plan to perform CPR",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Honor the client's advance directive and explain the legal basis to the family",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Call the ethics committee before taking any action",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Ignore both the directive and family, and wait for the physician to decide",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "A legal advance directive represents the client's autonomous wishes and takes precedence over family requests. The nurse must honor the DNR order as it reflects the client's right to self-determination and informed consent. The nurse should compassionately explain to the family that the advance directive is a legal document representing their loved one's wishes. The ethics committee can be consulted for complex situations, but this is a clear legal matter — delaying is not appropriate. The physician does not override a valid advance directive. Key principles: patient autonomy, right to refuse treatment, and legally binding advance directives. Source: RegisteredNurseRN — Advance Directives; Nurseslabs — Client Rights.",
+    "tags": [
+      "advance-directives",
+      "DNR",
+      "client-rights",
+      "autonomy",
+      "ethical-nursing"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Advance Directives",
+        "url": "https://www.registerednursern.com/advance-directives-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Legal and Ethical Nursing",
+        "url": "https://nurseslabs.com/legal-ethical-nursing/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q203",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A nurse receives a phone call from a client's employer asking about the client's diagnosis and expected date of return to work. What is the nurse's most appropriate response?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Provide the diagnosis since the employer needs it for work accommodation",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Refuse to provide any information and explain that patient information is protected under HIPAA",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Provide only the expected return date but not the diagnosis",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Ask the employer to fax a written request on company letterhead",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Under HIPAA (Health Insurance Portability and Accountability Act), the nurse cannot disclose any protected health information (PHI) — including diagnosis, treatment, prognosis, or hospitalization status — to a client's employer without the client's written authorization. Both the diagnosis AND return-to-work date are PHI. A written request from the employer does not constitute patient authorization. The nurse should inform the caller that patient information is confidential and suggest the employer request the information directly from the client or through proper legal channels with patient consent. HIPAA violations can result in civil and criminal penalties. Source: Nurseslabs — HIPAA Nursing; RegisteredNurseRN — Client Confidentiality.",
+    "tags": [
+      "HIPAA",
+      "confidentiality",
+      "PHI",
+      "patient-rights",
+      "legal-nursing"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - HIPAA",
+        "url": "https://nurseslabs.com/hipaa/"
+      },
+      {
+        "name": "RegisteredNurseRN - HIPAA",
+        "url": "https://www.registerednursern.com/hipaa-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q204",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A client with schizophrenia is brought to the emergency department by police after threatening to harm family members. The client refuses treatment and demands to leave. What is the most appropriate nursing action?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Allow the client to leave since all clients have the right to refuse treatment",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Initiate the involuntary commitment process to ensure safety of the client and others",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Physically restrain the client without a provider's order",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Call the client's family to come convince the client to stay",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "When a client is a danger to self or others (in this case, threatening to harm family members), involuntary commitment (emergency detention) can be initiated to protect the client and the public. This is a legal exception to the right to refuse treatment. The criteria for involuntary commitment generally include: danger to self, danger to others, or gravely disabled (unable to provide basic needs). Physical restraint without an order violates patient rights — restraints require a provider's order (within 1 hour if applied emergently). Relying on family is not a sufficient safety intervention. Each state has specific procedures and time limits for involuntary holds. Source: RegisteredNurseRN — Psychiatric Legal Issues; Nurseslabs — Psychiatric Nursing Ethics.",
+    "tags": [
+      "involuntary-commitment",
+      "psychiatric-nursing",
+      "danger-to-others",
+      "client-rights",
+      "legal"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Psych Legal",
+        "url": "https://www.registerednursern.com/psychiatric-nursing-legal-issues-nclex/"
+      },
+      {
+        "name": "Nurseslabs - Psychiatric Legal",
+        "url": "https://nurseslabs.com/psychiatric-nursing/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q205",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A nurse is providing care to a client from a culture that prohibits male healthcare providers from examining female clients. A male physician enters to perform an assessment. What is the nurse's most appropriate action?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tell the client that hospital policy requires them to accept any assigned provider",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Advocate for the client by requesting a female provider and ensuring cultural preferences are communicated to the team",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Ask the family to leave the room so the physician can examine the client",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Document the refusal and cancel the assessment",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The nurse's role as client advocate includes ensuring cultural and religious preferences are respected. The nurse should communicate the client's cultural needs to the healthcare team and request a female provider. Cultural competence is a core nursing competency — respecting clients' beliefs promotes trust, cooperation, and better outcomes. Forcing the client to accept a provider violates their cultural rights and autonomy. Having the family leave does not address the concern. Simply canceling care without advocating for an alternative fails the client. The nurse should include cultural preferences in the care plan and communicate them during handoff. Source: Nurseslabs — Cultural Nursing; RegisteredNurseRN — Cultural Competence.",
+    "tags": [
+      "cultural-competence",
+      "advocacy",
+      "patient-rights",
+      "cultural-considerations"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Cultural Nursing Care",
+        "url": "https://nurseslabs.com/cultural-nursing/"
+      },
+      {
+        "name": "RegisteredNurseRN - Cultural Competence",
+        "url": "https://www.registerednursern.com/cultural-competence-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q206",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A nurse witnesses a client fall in the hallway. After ensuring the client's safety and providing immediate care, what should the nurse do next?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Notify the client's family before documenting the event",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Complete an incident report (occurrence report) and document the fall in the client's medical record",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Only document in the medical record — incident reports are optional",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Wait until the end of the shift to write the incident report from memory",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "After ensuring client safety and providing care, the nurse must: (1) Document the objective facts of the fall in the client's medical record (what happened, assessment findings, interventions, client response); (2) Complete an incident/occurrence report per facility policy — this is a risk management document used for quality improvement. Important: the incident report itself should NOT be referenced in the medical record. The report should be completed as soon as possible while details are fresh — not at end of shift. Family notification is important but comes after ensuring safety and documentation. Incident reports are not optional — they are required for adverse events. Source: RegisteredNurseRN — Incident Reports; Nurseslabs — Risk Management.",
+    "tags": [
+      "incident-report",
+      "documentation",
+      "fall-prevention",
+      "risk-management",
+      "patient-safety"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Incident Reports",
+        "url": "https://www.registerednursern.com/incident-reports-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Risk Management",
+        "url": "https://nurseslabs.com/risk-management-nursing/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q207",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A nurse disagrees with a physician's order because the prescribed medication dose appears to be dangerously high for the client's weight and renal function. The physician insists the order is correct and tells the nurse to administer it. What should the nurse do?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Administer the medication as ordered since the physician has ultimate authority",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Refuse to administer, document the concern, and use the chain of command to escalate",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Administer half the dose as a compromise",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Ask another nurse to administer the medication instead",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The nurse has an independent professional and legal obligation to question orders that appear unsafe. If the nurse believes an order is dangerous and the physician insists, the nurse should: refuse to administer the medication (the nurse's license is at stake), document the concern and communication, and escalate through the chain of command (charge nurse → supervisor → nursing director → hospital administration). Administering a known unsafe dose makes the nurse liable. Giving half the dose is practicing medicine without authorization. Asking another nurse to administer shifts responsibility but doesn't protect the client. Nurses are legally accountable for their own actions. Source: Nurseslabs — Chain of Command; RegisteredNurseRN — Nursing Advocacy.",
+    "tags": [
+      "chain-of-command",
+      "advocacy",
+      "medication-safety",
+      "nursing-accountability",
+      "legal"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Nursing Advocacy",
+        "url": "https://nurseslabs.com/nursing-advocacy/"
+      },
+      {
+        "name": "RegisteredNurseRN - Advocacy",
+        "url": "https://www.registerednursern.com/nursing-advocacy-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q208",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A client who is brain dead and meets criteria for organ donation has no documented wishes regarding organ donation. The family expresses interest in donating the client's organs. What is the nurse's role?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Contact the organ procurement organization (OPO) and facilitate the process while supporting the family",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Refuse to participate because the client did not give written consent",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Encourage the family to donate and describe which organs will be taken",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Notify the funeral home and let them handle the donation process",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Federal law (CMS Conditions of Participation) requires hospitals to notify the organ procurement organization (OPO) of all deaths or imminent deaths. The OPO determines medical suitability and coordinates the approach to the family. The nurse's role is to notify the OPO, support the family during decision-making, and maintain organ viability through continued care. Legally, next of kin can consent to organ donation when the client's wishes are unknown (varies by state — many states have presumed consent registries). The nurse should not be the one to discuss specific organs — the OPO trained coordinator handles this. Funeral homes do not coordinate organ donation. Source: RegisteredNurseRN — Organ Donation; Nurseslabs — End-of-Life Care.",
+    "tags": [
+      "organ-donation",
+      "OPO",
+      "brain-death",
+      "family-support",
+      "end-of-life"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Organ Donation",
+        "url": "https://www.registerednursern.com/organ-donation-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - End-of-Life Care",
+        "url": "https://nurseslabs.com/end-of-life-care/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q209",
+    "type": "ordered-response",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A nurse is giving a handoff report to the oncoming nurse using the SBAR communication framework. Place the components in the correct order.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Situation: \"I'm calling about Mr. Smith in room 302 who is having increased shortness of breath\""
+      },
+      {
+        "id": "B",
+        "text": "Background: \"He was admitted 2 days ago for pneumonia, has a history of COPD and heart failure\""
+      },
+      {
+        "id": "C",
+        "text": "Assessment: \"His respiratory rate is 28, SpO2 is 89% on 2L nasal cannula, and breath sounds have bilateral crackles\""
+      },
+      {
+        "id": "D",
+        "text": "Recommendation: \"I recommend increasing his oxygen, obtaining a stat chest X-ray, and notifying the provider for possible diuretic orders\""
+      }
+    ],
+    "correctOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "rationale": "SBAR is a standardized communication framework that improves patient safety during handoffs and when communicating with providers: (S) Situation — identify yourself and the patient, state the current problem; (B) Background — relevant medical history, current treatments, and context; (A) Assessment — your clinical assessment including vital signs, changes, and physical findings; (R) Recommendation — what you think should be done, what actions you're requesting. SBAR ensures concise, organized communication that prevents critical information from being lost. The Joint Commission identified communication failures as the leading root cause of sentinel events. Source: Nurseslabs — SBAR Communication; RegisteredNurseRN — Nursing Communication.",
+    "tags": [
+      "SBAR",
+      "handoff",
+      "communication",
+      "patient-safety",
+      "nursing-report"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - SBAR",
+        "url": "https://nurseslabs.com/sbar-nursing/"
+      },
+      {
+        "name": "RegisteredNurseRN - SBAR",
+        "url": "https://www.registerednursern.com/sbar-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q210",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A nurse case manager is coordinating care for a client with multiple chronic conditions being discharged from the hospital. Which action best demonstrates the case management role?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Prescribing new medications for the client's chronic conditions",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Coordinating home health services, medication reconciliation, follow-up appointments, and community resources",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Performing daily physical assessments on the client after discharge",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Making medical decisions about the client's treatment plan independently",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The nurse case manager coordinates all aspects of care across the continuum — from hospital to home — to ensure seamless transitions, optimal outcomes, and cost-effective care. Key functions include: arranging home health or skilled nursing services, ensuring medication reconciliation (comparing pre-admission, in-hospital, and discharge medications), scheduling follow-up appointments, connecting clients with community resources (support groups, financial assistance, transportation), and communicating with the interdisciplinary team. Prescribing medications is a provider role. Daily home assessments are home health nursing. Making independent medical decisions is outside the case manager's scope. Case management reduces readmissions and improves client outcomes. Source: Nurseslabs — Case Management; RegisteredNurseRN — Case Management Nursing.",
+    "tags": [
+      "case-management",
+      "discharge-planning",
+      "care-coordination",
+      "chronic-disease",
+      "community-resources"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Case Management",
+        "url": "https://nurseslabs.com/case-management-nursing/"
+      },
+      {
+        "name": "RegisteredNurseRN - Case Management",
+        "url": "https://www.registerednursern.com/case-management-nclex-review/"
+      }
+    ],
+    "verified": true
   }
 ]
