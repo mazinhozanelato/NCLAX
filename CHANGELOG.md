@@ -4,6 +4,54 @@ Track of all question research updates, including sources, verification, and cov
 
 ---
 
+## [v1.4.0] - 2026-02-19
+
+### Summary
+Major expansion of Reduction of Risk Potential subcategory, adding 28 new questions covering diagnostic procedures, lab values, complication prevention, and patient monitoring. This brings the subcategory from 9 to 37 questions, meeting the NCLEX target allocation.
+
+### Questions Added: 28 (q119–q146)
+| Topic Group | Count |
+|-------------|-------|
+| Diagnostic Procedures (amniocentesis, colonoscopy, MRI, bone marrow biopsy, ECG, lumbar puncture) | 6 |
+| Lab Values (CMP, CBC, thyroid panel, LFTs, cardiac markers, coagulation) | 6 |
+| Complication Prevention (hemorrhage, DVT, PE, compartment syndrome, pneumothorax, dehiscence, aspiration, post-anesthesia) | 8 |
+| Monitoring (fetal heart rate, CVP, arterial lines, post-thoracentesis, post-paracentesis, peritoneal dialysis, hemodialysis, GCS) | 8 |
+
+### Question Types Added
+- Multiple Choice: 23
+- Select All That Apply (SATA): 4
+- Fill-in-the-Blank: 1
+
+### Difficulty Distribution
+- Easy: 8
+- Medium: 14
+- Hard: 6
+
+### Verification
+- Verified (2+ independent sources): 28
+- Single source: 0
+- Total sources used: 4 (Nurseslabs, RegisteredNurseRN, RNpedia, Naxlex)
+
+### Coverage Improvements (before → after)
+| Subcategory | Before | After | Target % |
+|-------------|--------|-------|----------|
+| reduction-of-risk | 9 | 37 | 9-15% |
+
+### Overall Stats (v1.4.0)
+- Total questions: 146
+- Verified: 77 (53%)
+- Single source: 59
+- Sample (no source): 10
+
+### Remaining Coverage Gaps
+- physiological-adaptation: 9 (need ~24 more)
+- pharmacological-therapies: 12 (need ~21 more)
+- management-of-care: 18 (need ~19 more)
+- basic-care-comfort: 9 (need ~11 more)
+- safety-infection-control: 15 (need ~5 more)
+
+---
+
 ## [v1.3.0] - 2026-02-19
 
 ### Summary

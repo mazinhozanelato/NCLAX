@@ -5554,5 +5554,1371 @@
       }
     ],
     "verified": true
+  },
+  {
+    "id": "q119",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is caring for a client at 16 weeks gestation who is scheduled for an amniocentesis. Which nursing action is the priority before the procedure?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Instruct the client to empty her bladder",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Verify the client's Rh status and blood type",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Administer a sedative as prescribed",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Position the client in left lateral position",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Before amniocentesis, verifying Rh status is the priority because an Rh-negative mother may need RhoGAM (Rh immunoglobulin) after the procedure to prevent Rh sensitization from fetal blood mixing. The client should have a full bladder before 20 weeks (to support the uterus) and empty it after 20 weeks. Sedation is not routinely required. The client is positioned supine, not lateral, during the procedure. Source: Nurseslabs — Amniocentesis Nursing Responsibilities; RegisteredNurseRN — Prenatal Testing Review.",
+    "tags": [
+      "amniocentesis",
+      "Rh-factor",
+      "prenatal-testing",
+      "maternal-nursing"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Amniocentesis Nursing Care",
+        "url": "https://nurseslabs.com/amniocentesis/"
+      },
+      {
+        "name": "RegisteredNurseRN - Prenatal Testing",
+        "url": "https://www.registerednursern.com/prenatal-testing-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q120",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is providing pre-procedure education to a client scheduled for a colonoscopy. Which instruction should the nurse include?",
+    "options": [
+      {
+        "id": "A",
+        "text": "\"You will need to follow a clear liquid diet for 1 to 2 days before the procedure\"",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "\"You may eat a regular breakfast on the morning of the procedure\"",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "\"You should take your aspirin as usual the morning of the exam\"",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "\"The procedure does not require any bowel preparation\"",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Colonoscopy requires thorough bowel preparation including a clear liquid diet for 1-2 days before the procedure and a prescribed bowel prep solution. The client must be NPO after midnight. Aspirin and other anticoagulants are typically held 5-7 days before the procedure due to biopsy/polypectomy risk. Adequate bowel preparation is essential for proper visualization. Source: Nurseslabs — Colonoscopy Nursing Care; RNpedia — GI Diagnostic Procedures.",
+    "tags": [
+      "colonoscopy",
+      "bowel-prep",
+      "patient-education",
+      "GI-procedures"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Colonoscopy Nursing Care",
+        "url": "https://nurseslabs.com/colonoscopy/"
+      },
+      {
+        "name": "RNpedia - GI Procedures",
+        "url": "https://www.rnpedia.com/nursing-notes/medical-surgical-nursing-notes/gastrointestinal-diagnostic-procedures/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q121",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is screening a client prior to an MRI. Which finding would require the nurse to notify the radiologist before proceeding?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The client has a titanium hip replacement",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "The client has a cardiac pacemaker",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "The client is wearing a cotton hospital gown",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "The client has a history of latex allergy",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "A cardiac pacemaker is an absolute contraindication for MRI because the strong magnetic field can cause the device to malfunction, overheat, or move, potentially causing life-threatening cardiac arrhythmias. Titanium implants are generally MRI-safe as titanium is non-ferromagnetic. Cotton gowns have no metal components. Latex allergy is not an MRI contraindication. Other MRI contraindications include cochlear implants, metallic foreign bodies, and some aneurysm clips. Source: Nurseslabs — MRI Nursing Care; RegisteredNurseRN — Diagnostic Procedures.",
+    "tags": [
+      "MRI-safety",
+      "pacemaker",
+      "contraindications",
+      "diagnostic-imaging"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - MRI Nursing Responsibilities",
+        "url": "https://nurseslabs.com/magnetic-resonance-imaging-mri/"
+      },
+      {
+        "name": "RegisteredNurseRN - Diagnostic Tests",
+        "url": "https://www.registerednursern.com/diagnostic-tests-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q122",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is preparing a client for a bone marrow biopsy from the posterior iliac crest. Which position should the nurse assist the client into for the procedure?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Supine with knees flexed",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Prone or lateral with knees drawn to chest",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "High Fowler's position",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Lithotomy position",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "For a bone marrow biopsy from the posterior iliac crest, the client is positioned prone or in the lateral (side-lying) position with knees drawn to the chest to expose the posterior iliac crest. Post-procedure, the client should lie on the biopsy site for 30-60 minutes to apply pressure and prevent bleeding. The nurse should monitor for bleeding, infection, and pain at the site. Source: Nurseslabs — Bone Marrow Biopsy; Naxlex — Hematologic Procedures.",
+    "tags": [
+      "bone-marrow-biopsy",
+      "positioning",
+      "hematology",
+      "procedure-care"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Bone Marrow Biopsy",
+        "url": "https://nurseslabs.com/bone-marrow-biopsy/"
+      },
+      {
+        "name": "Naxlex - Hematologic Nursing",
+        "url": "https://naxlex.com/nclex-practice-questions/hematologic-nursing/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q123",
+    "type": "select-all-that-apply",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is interpreting a client's ECG rhythm strip. The strip shows a regular rhythm, a rate of 72 bpm, P waves present before each QRS complex, a PR interval of 0.18 seconds, and a QRS duration of 0.08 seconds. Which conclusions are correct? Select all that apply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The rhythm is normal sinus rhythm",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "The PR interval is within normal limits",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "The QRS complex duration indicates a bundle branch block",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "The heart rate is bradycardic",
+        "isCorrect": false
+      },
+      {
+        "id": "E",
+        "text": "The QRS complex duration is within normal limits",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "This ECG shows normal sinus rhythm (NSR): regular rhythm, rate 60-100 bpm, P wave before each QRS, PR interval 0.12-0.20 sec, and QRS duration <0.12 sec. The PR interval of 0.18 sec is normal (0.12-0.20 sec). The QRS of 0.08 sec is normal (<0.12 sec) — a bundle branch block would show QRS >0.12 sec. The rate of 72 bpm is normal, not bradycardic (bradycardia is <60 bpm). Source: RegisteredNurseRN — ECG Interpretation; Nurseslabs — Cardiac Rhythm Interpretation.",
+    "tags": [
+      "ECG",
+      "normal-sinus-rhythm",
+      "cardiac-monitoring",
+      "rhythm-interpretation"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - ECG Interpretation",
+        "url": "https://www.registerednursern.com/ecg-interpretation/"
+      },
+      {
+        "name": "Nurseslabs - Cardiac Rhythms",
+        "url": "https://nurseslabs.com/electrocardiogram-ecg-interpretation/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q124",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is caring for a client who had a lumbar puncture 2 hours ago. The client reports a severe headache. Which nursing action is most appropriate?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Elevate the head of the bed to 45 degrees",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Encourage the client to remain flat in bed and increase fluid intake",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Apply an ice pack to the puncture site",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Immediately notify the provider for an emergency CT scan",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Post-lumbar puncture headache (spinal headache) occurs due to CSF leakage from the puncture site. The priority nursing intervention is to keep the client flat (supine) for 4-8 hours and encourage increased fluid intake (oral and IV) to promote CSF production and replacement. Elevating the head would worsen the headache by increasing CSF drainage. An ice pack does not address the cause. While the provider should be informed, a spinal headache is an expected complication and does not require an emergency CT scan. Source: Nurseslabs — Lumbar Puncture Nursing Care; RegisteredNurseRN — Neurological Procedures.",
+    "tags": [
+      "lumbar-puncture",
+      "spinal-headache",
+      "post-procedure",
+      "neurological"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Lumbar Puncture",
+        "url": "https://nurseslabs.com/lumbar-puncture/"
+      },
+      {
+        "name": "RegisteredNurseRN - Neurological Procedures",
+        "url": "https://www.registerednursern.com/lumbar-puncture-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q125",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is reviewing the comprehensive metabolic panel (CMP) results of a client. Which result should the nurse report to the healthcare provider immediately?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sodium 140 mEq/L",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Potassium 6.2 mEq/L",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Glucose 95 mg/dL",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "BUN 18 mg/dL",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "A potassium level of 6.2 mEq/L is critically elevated (normal: 3.5-5.0 mEq/L) and requires immediate reporting because hyperkalemia can cause life-threatening cardiac arrhythmias, including ventricular fibrillation and cardiac arrest. ECG changes (peaked T waves, widened QRS) may occur. Sodium 140 mEq/L (normal: 136-145), glucose 95 mg/dL (normal fasting: 70-100), and BUN 18 mg/dL (normal: 7-20) are all within normal limits. Source: RegisteredNurseRN — Lab Values NCLEX Review; Nurseslabs — CMP Interpretation.",
+    "tags": [
+      "lab-values",
+      "potassium",
+      "hyperkalemia",
+      "CMP",
+      "critical-values"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Lab Values",
+        "url": "https://www.registerednursern.com/lab-values-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Electrolyte Imbalances",
+        "url": "https://nurseslabs.com/electrolyte-imbalances/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q126",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is reviewing the complete blood count (CBC) of a client receiving chemotherapy. Which result indicates the client is at highest risk for infection and requires protective precautions?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hemoglobin 10.2 g/dL",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Platelet count 140,000/mm³",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "White blood cell count 1,500/mm³",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Hematocrit 36%",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "A WBC count of 1,500/mm³ indicates neutropenia (normal WBC: 5,000-10,000/mm³). Chemotherapy-induced neutropenia significantly increases infection risk. The nurse should implement neutropenic precautions: private room, no fresh flowers or raw fruits/vegetables, strict hand hygiene, avoid invasive procedures, and monitor temperature closely. A hemoglobin of 10.2 g/dL is mildly low but not critical. Platelets at 140,000 are slightly low but not at bleeding risk level. Hematocrit 36% is within acceptable range. Source: Nurseslabs — Neutropenia Nursing Care; RegisteredNurseRN — Oncology Nursing.",
+    "tags": [
+      "CBC",
+      "neutropenia",
+      "chemotherapy",
+      "infection-risk",
+      "lab-values"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Neutropenia Nursing Management",
+        "url": "https://nurseslabs.com/neutropenia/"
+      },
+      {
+        "name": "RegisteredNurseRN - Oncology Nursing",
+        "url": "https://www.registerednursern.com/oncology-nursing-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q127",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is caring for a client with suspected hypothyroidism. Which set of thyroid panel results is consistent with primary hypothyroidism?",
+    "options": [
+      {
+        "id": "A",
+        "text": "TSH elevated, T4 decreased",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "TSH decreased, T4 elevated",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "TSH decreased, T4 decreased",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "TSH normal, T4 elevated",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "In primary hypothyroidism, the thyroid gland is not producing enough thyroid hormone (T4), so TSH is elevated as the pituitary gland attempts to stimulate the thyroid. This is the hallmark of primary hypothyroidism: high TSH + low T4. Low TSH with high T4 indicates hyperthyroidism. Low TSH with low T4 suggests secondary (pituitary) hypothyroidism. Normal TSH with elevated T4 is not a typical pattern for thyroid dysfunction. Source: RegisteredNurseRN — Thyroid Disorders; Nurseslabs — Endocrine Disorders.",
+    "tags": [
+      "thyroid",
+      "hypothyroidism",
+      "TSH",
+      "lab-values",
+      "endocrine"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Thyroid Disorders",
+        "url": "https://www.registerednursern.com/hypothyroidism-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Hypothyroidism",
+        "url": "https://nurseslabs.com/hypothyroidism/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q128",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is reviewing the liver function tests of a client admitted with suspected hepatitis. Which combination of results is most indicative of acute hepatocellular damage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Elevated alkaline phosphatase (ALP) with normal ALT",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Significantly elevated AST and ALT with elevated total bilirubin",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Normal AST with decreased albumin only",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Elevated BUN and creatinine with normal AST",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "In acute hepatocellular damage (such as hepatitis), AST and ALT are the primary markers that become significantly elevated because they are enzymes released from damaged liver cells. Elevated total bilirubin indicates the liver's impaired ability to conjugate and excrete bilirubin, causing jaundice. Elevated ALP with normal ALT suggests obstructive (cholestatic) rather than hepatocellular disease. Decreased albumin alone suggests chronic liver disease. Elevated BUN and creatinine indicate renal, not hepatic, dysfunction. Source: Nurseslabs — Liver Function Tests; RNpedia — Hepatic Disorders.",
+    "tags": [
+      "LFTs",
+      "hepatitis",
+      "AST",
+      "ALT",
+      "bilirubin",
+      "liver-disease"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Liver Function Tests",
+        "url": "https://nurseslabs.com/liver-function-tests/"
+      },
+      {
+        "name": "RNpedia - Hepatic Disorders",
+        "url": "https://www.rnpedia.com/nursing-notes/medical-surgical-nursing-notes/hepatitis/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q129",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A client presents to the emergency department with chest pain. The troponin I level drawn on admission is 0.02 ng/mL (normal: <0.04 ng/mL). A repeat troponin drawn 6 hours later is 2.8 ng/mL. How should the nurse interpret these results?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The results are normal and the client can be discharged",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "The rising troponin indicates acute myocardial injury and the nurse should anticipate cardiac interventions",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "The initial normal result rules out myocardial infarction",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "The elevated result is likely a lab error and should be redrawn",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Troponin is the most specific cardiac biomarker for myocardial injury. Troponin levels may be normal immediately after a cardiac event and rise over 3-6 hours. A significant rise from normal (0.02) to markedly elevated (2.8) over 6 hours strongly indicates acute myocardial infarction (MI). Serial troponin measurements are essential because a single normal result does NOT rule out MI. The nurse should anticipate cardiac catheterization, thrombolytics, or other interventions. Assuming lab error with such a significant rise is inappropriate. Source: RegisteredNurseRN — Cardiac Markers; Nurseslabs — Acute Coronary Syndrome.",
+    "tags": [
+      "troponin",
+      "cardiac-markers",
+      "MI",
+      "serial-labs",
+      "emergency"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Cardiac Markers",
+        "url": "https://www.registerednursern.com/cardiac-enzymes-markers-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Acute Coronary Syndrome",
+        "url": "https://nurseslabs.com/acute-coronary-syndrome/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q130",
+    "type": "select-all-that-apply",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is monitoring a client receiving IV heparin therapy. The aPTT result is 120 seconds (therapeutic range: 60-80 seconds). Which nursing actions are appropriate? Select all that apply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Stop the heparin infusion immediately",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Notify the healthcare provider of the result",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Assess the client for signs of bleeding",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Double the infusion rate to reach therapeutic range",
+        "isCorrect": false
+      },
+      {
+        "id": "E",
+        "text": "Have protamine sulfate readily available",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "An aPTT of 120 seconds is critically elevated (well above the therapeutic range of 60-80 seconds), indicating a high risk for hemorrhage. The nurse should: stop the heparin infusion to prevent further anticoagulation; notify the provider for orders; assess for bleeding (hematuria, melena, petechiae, gum bleeding, neurological changes); and have protamine sulfate (heparin antidote) available. Doubling the infusion rate is absolutely incorrect — the client is already over-anticoagulated. The aPTT should be 1.5-2.5 times the control value for therapeutic anticoagulation. Source: Nurseslabs — Heparin Therapy Nursing; RegisteredNurseRN — Anticoagulant Therapy.",
+    "tags": [
+      "heparin",
+      "aPTT",
+      "coagulation",
+      "anticoagulation",
+      "protamine-sulfate",
+      "bleeding-risk"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Heparin Nursing Care",
+        "url": "https://nurseslabs.com/heparin/"
+      },
+      {
+        "name": "RegisteredNurseRN - Anticoagulants",
+        "url": "https://www.registerednursern.com/anticoagulant-medications-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q131",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is caring for a client who is 4 hours post-abdominal surgery. Which finding is the earliest sign of post-operative hemorrhage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Blood pressure of 80/50 mmHg",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Increasing restlessness and anxiety",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Hemoglobin of 6.0 g/dL",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Urine output of 10 mL/hr",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Increasing restlessness and anxiety are the earliest signs of hemorrhage and hypovolemic shock because the brain is very sensitive to decreased oxygen delivery. As blood volume decreases, the body initially compensates with increased heart rate and vasoconstriction, maintaining blood pressure temporarily. Hypotension (80/50 mmHg) is a late sign indicating decompensation. A critically low hemoglobin and decreased urine output are also later findings. Early recognition of hemorrhage allows for prompt intervention. Source: Nurseslabs — Post-Operative Complications; RegisteredNurseRN — Hypovolemic Shock.",
+    "tags": [
+      "hemorrhage",
+      "post-operative",
+      "early-signs",
+      "hypovolemic-shock"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Post-Operative Nursing Care",
+        "url": "https://nurseslabs.com/postoperative-nursing-care/"
+      },
+      {
+        "name": "RegisteredNurseRN - Hypovolemic Shock",
+        "url": "https://www.registerednursern.com/hypovolemic-shock-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q132",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is caring for a client who had a total hip replacement 12 hours ago. Which intervention is most important for preventing deep vein thrombosis (DVT)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Encouraging deep breathing exercises every 2 hours",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Applying sequential compression devices (SCDs) as prescribed",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Restricting fluid intake to reduce edema",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Keeping the legs in a dependent position",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Sequential compression devices (SCDs) are a primary mechanical intervention for DVT prevention in post-operative clients, especially after orthopedic surgery. SCDs promote venous return by intermittently compressing the legs, counteracting venous stasis — one of Virchow's triad factors (stasis, endothelial injury, hypercoagulability). Deep breathing helps prevent pulmonary complications but is not the primary DVT intervention. Restricting fluids would increase viscosity and DVT risk. Dependent positioning promotes stasis and increases DVT risk — legs should be elevated. Source: Nurseslabs — DVT Prevention; RegisteredNurseRN — Venous Thromboembolism.",
+    "tags": [
+      "DVT-prevention",
+      "SCDs",
+      "post-operative",
+      "orthopedic",
+      "Virchow-triad"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Deep Vein Thrombosis",
+        "url": "https://nurseslabs.com/deep-vein-thrombosis/"
+      },
+      {
+        "name": "RegisteredNurseRN - DVT Nursing",
+        "url": "https://www.registerednursern.com/deep-vein-thrombosis-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q133",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is assessing a client who suddenly develops sharp chest pain, dyspnea, tachycardia, and a sense of impending doom. The client had surgery 3 days ago and has been on bedrest. Which condition should the nurse suspect?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Myocardial infarction",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Pulmonary embolism",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Pneumothorax",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Atelectasis",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The clinical picture — sudden sharp chest pain, dyspnea, tachycardia, and sense of impending doom in a post-operative client on bedrest — is classic for pulmonary embolism (PE). Surgery and immobility are major risk factors for DVT, which can dislodge and travel to the lungs. While MI can cause chest pain, the post-surgical bedrest history and sudden onset with dyspnea strongly suggest PE. Pneumothorax would present with absent breath sounds on one side. Atelectasis causes gradual-onset symptoms, not sudden sharp chest pain with a sense of impending doom. Source: Nurseslabs — Pulmonary Embolism; RegisteredNurseRN — PE Nursing Care.",
+    "tags": [
+      "pulmonary-embolism",
+      "DVT",
+      "post-operative",
+      "emergency",
+      "chest-pain"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Pulmonary Embolism",
+        "url": "https://nurseslabs.com/pulmonary-embolism/"
+      },
+      {
+        "name": "RegisteredNurseRN - Pulmonary Embolism",
+        "url": "https://www.registerednursern.com/pulmonary-embolism-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q134",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is assessing a client with a long leg cast applied 6 hours ago for a tibial fracture. The client reports severe, unrelenting pain in the lower leg that is not relieved by prescribed analgesics, and pain increases with passive extension of the toes. Which action should the nurse take first?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Administer a higher dose of prescribed pain medication",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Elevate the extremity above the level of the heart",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Notify the healthcare provider immediately",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Apply ice to the affected area and reassess in 30 minutes",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The client is exhibiting classic signs of compartment syndrome: severe pain unrelieved by analgesics and pain with passive stretch of the muscles in the affected compartment. Compartment syndrome is a surgical emergency — the 5 P's are Pain (out of proportion), Pressure, Pallor, Pulselessness, and Paresthesia. The nurse must notify the provider immediately because a fasciotomy may be needed to prevent permanent tissue damage. Delaying for more pain medication, elevation (which may further decrease perfusion), or watchful waiting could result in irreversible neurovascular damage. Source: Nurseslabs — Compartment Syndrome; RegisteredNurseRN — Musculoskeletal Emergencies.",
+    "tags": [
+      "compartment-syndrome",
+      "5-Ps",
+      "fracture",
+      "cast-care",
+      "emergency"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Compartment Syndrome",
+        "url": "https://nurseslabs.com/compartment-syndrome/"
+      },
+      {
+        "name": "RegisteredNurseRN - Compartment Syndrome",
+        "url": "https://www.registerednursern.com/compartment-syndrome-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q135",
+    "type": "select-all-that-apply",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is caring for a client who develops a tension pneumothorax after a central line insertion. Which assessment findings should the nurse expect? Select all that apply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tracheal deviation toward the unaffected side",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Absent breath sounds on the affected side",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Bilateral crackles in the lung bases",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Distended neck veins (JVD)",
+        "isCorrect": true
+      },
+      {
+        "id": "E",
+        "text": "Hypotension and tachycardia",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "Tension pneumothorax is a life-threatening emergency where air enters the pleural space but cannot escape, causing increasing pressure that shifts mediastinal structures. Classic findings include: tracheal deviation away from the affected side (mediastinal shift), absent breath sounds on the affected side (collapsed lung), jugular venous distension (JVD) from impaired venous return, and hypotension with tachycardia (obstructive shock). Bilateral crackles suggest pulmonary edema or fluid overload, not pneumothorax. Immediate treatment is needle decompression followed by chest tube insertion. Source: Nurseslabs — Pneumothorax; RegisteredNurseRN — Tension Pneumothorax.",
+    "tags": [
+      "tension-pneumothorax",
+      "tracheal-deviation",
+      "JVD",
+      "emergency",
+      "chest-tube"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Pneumothorax Nursing Care",
+        "url": "https://nurseslabs.com/pneumothorax/"
+      },
+      {
+        "name": "RegisteredNurseRN - Pneumothorax",
+        "url": "https://www.registerednursern.com/pneumothorax-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q136",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse enters a client's room and finds the client's abdominal surgical incision has dehisced with intestinal contents visible. What is the nurse's first action?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Push the intestinal contents back into the abdominal cavity",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Cover the wound with sterile saline-moistened dressings",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Apply a dry sterile dressing and tape securely",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Position the client in high Fowler's position",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "When wound evisceration occurs (organs protruding through the wound), the nurse should immediately cover the exposed organs with sterile saline-moistened dressings to prevent drying, infection, and tissue damage. Never attempt to push organs back into the abdominal cavity as this can cause tissue damage and contamination. Dry dressings would adhere to and damage the exposed tissue. The client should be placed in low Fowler's position (15-20 degrees) with knees bent to reduce abdominal tension — not high Fowler's. The nurse should then notify the surgeon immediately for emergency surgical repair. Source: Nurseslabs — Wound Dehiscence and Evisceration; RNpedia — Post-Operative Complications.",
+    "tags": [
+      "dehiscence",
+      "evisceration",
+      "wound-care",
+      "post-operative",
+      "emergency"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Wound Dehiscence",
+        "url": "https://nurseslabs.com/wound-dehiscence/"
+      },
+      {
+        "name": "RNpedia - Post-Op Complications",
+        "url": "https://www.rnpedia.com/nursing-notes/medical-surgical-nursing-notes/postoperative-complications/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q137",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is planning care for a client with dysphagia following a stroke. Which intervention is most important to prevent aspiration?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Place the client in a supine position during meals",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Offer thin liquids to make swallowing easier",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Position the client upright at 90 degrees and thicken liquids as prescribed",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Encourage the client to use a straw for all drinks",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "For clients with dysphagia, the most important aspiration prevention measures are: positioning the client upright (high Fowler's, 90 degrees) during and for 30 minutes after meals, and thickening liquids as prescribed by the speech therapist. Upright positioning uses gravity to direct food into the esophagus. Supine positioning greatly increases aspiration risk. Thin liquids are the most difficult to swallow safely for clients with dysphagia — they move too quickly and can enter the airway. Straws increase the speed of liquid flow and aspiration risk. The client should also tilt the chin down (chin tuck) while swallowing and eat small bites. Source: RegisteredNurseRN — Dysphagia Nursing Care; Nurseslabs — Stroke Nursing Interventions.",
+    "tags": [
+      "dysphagia",
+      "aspiration-prevention",
+      "stroke",
+      "positioning",
+      "swallowing"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Dysphagia",
+        "url": "https://www.registerednursern.com/dysphagia-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Stroke Nursing Care",
+        "url": "https://nurseslabs.com/cerebrovascular-accident-stroke/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q138",
+    "type": "select-all-that-apply",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is assessing a client in the post-anesthesia care unit (PACU) after general anesthesia. Which findings indicate the client is ready for discharge from the PACU? Select all that apply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The client is able to move all four extremities voluntarily",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Oxygen saturation is maintained above 94% on room air",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "The client's blood pressure is within 20% of the preoperative baseline",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "The client remains unconscious but has stable vital signs",
+        "isCorrect": false
+      },
+      {
+        "id": "E",
+        "text": "The client is awake and oriented or at preoperative level of consciousness",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "PACU discharge readiness is assessed using the Aldrete scoring system, which evaluates: activity (ability to move extremities), respiration (adequate SpO2), circulation (blood pressure within 20% of baseline), consciousness (awake and oriented), and oxygen saturation (>92% on room air). A client who is unconscious is not ready for discharge regardless of vital sign stability — consciousness is a key criterion. All other options describe criteria that must be met for safe PACU discharge. The total Aldrete score should be 9-10 (out of 10) for discharge. Source: Nurseslabs — PACU Nursing Care; RegisteredNurseRN — Post-Anesthesia Recovery.",
+    "tags": [
+      "PACU",
+      "Aldrete-score",
+      "post-anesthesia",
+      "discharge-readiness",
+      "recovery"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Post-Anesthesia Care",
+        "url": "https://nurseslabs.com/post-anesthesia-care-unit-pacu/"
+      },
+      {
+        "name": "RegisteredNurseRN - PACU Nursing",
+        "url": "https://www.registerednursern.com/pacu-nursing-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q139",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is monitoring the fetal heart rate tracing of a laboring client. The tracing shows the fetal heart rate decreasing after the peak of each contraction and returning to baseline after the contraction ends. Which type of deceleration is this, and what does it indicate?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Early decelerations — caused by head compression; reassuring pattern",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Late decelerations — caused by uteroplacental insufficiency; non-reassuring pattern",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Variable decelerations — caused by cord compression; requires repositioning",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Prolonged decelerations — caused by cord prolapse; emergency delivery needed",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Late decelerations begin after the peak of a contraction and return to baseline after the contraction ends — the nadir is offset from the contraction peak. They indicate uteroplacental insufficiency (inadequate oxygen delivery to the fetus) and are a non-reassuring pattern requiring intervention: left lateral positioning, IV fluids, oxygen, stop oxytocin if infusing, and notify the provider. Early decelerations mirror contractions (onset and offset with contraction) and are caused by fetal head compression — they are benign. Variable decelerations have an abrupt onset and variable timing relative to contractions, caused by cord compression. Source: RegisteredNurseRN — Fetal Heart Rate Monitoring; Nurseslabs — Fetal Monitoring.",
+    "tags": [
+      "fetal-heart-rate",
+      "late-decelerations",
+      "uteroplacental-insufficiency",
+      "labor-monitoring",
+      "maternal-nursing"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Fetal Monitoring",
+        "url": "https://www.registerednursern.com/fetal-heart-rate-monitoring-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Fetal Heart Rate Patterns",
+        "url": "https://nurseslabs.com/fetal-heart-rate-monitoring/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q140",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is monitoring a client's central venous pressure (CVP). The reading is 12 mmHg. Which condition should the nurse suspect?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hypovolemia",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Fluid volume overload",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Normal fluid balance",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Cardiac tamponade has been resolved",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Normal CVP is 2-8 mmHg (or 3-8 cm H₂O). A CVP of 12 mmHg is elevated and indicates increased right atrial pressure, commonly caused by fluid volume overload, right-sided heart failure, cardiac tamponade, or pulmonary hypertension. A low CVP (<2 mmHg) would suggest hypovolemia. The nurse should assess for other signs of fluid overload: crackles, edema, weight gain, and distended neck veins. Interventions may include fluid restriction and diuretics as prescribed. Source: Nurseslabs — CVP Monitoring; RegisteredNurseRN — Hemodynamic Monitoring.",
+    "tags": [
+      "CVP",
+      "hemodynamic-monitoring",
+      "fluid-overload",
+      "right-atrial-pressure"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Central Venous Pressure",
+        "url": "https://nurseslabs.com/central-venous-pressure/"
+      },
+      {
+        "name": "RegisteredNurseRN - Hemodynamic Monitoring",
+        "url": "https://www.registerednursern.com/hemodynamic-monitoring-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q141",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is caring for a client with an arterial line in the radial artery. The waveform appears dampened with a flattened tracing. Which action should the nurse take first?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Remove the arterial line and replace it in the other arm",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Check the tubing for air bubbles, kinks, or blood clots",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Increase the IV fluid rate to raise the blood pressure",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Obtain a cuff blood pressure and document the dampened reading as accurate",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "A dampened arterial line waveform (flattened, with reduced systolic and elevated diastolic readings) is most commonly caused by a mechanical issue: air bubbles in the tubing, kinked tubing, a loose connection, or a clot at the catheter tip. The nurse should first troubleshoot by checking the system for these issues, flushing the line per protocol, and ensuring proper leveling. Removing the line is premature without troubleshooting. Increasing IV fluids addresses blood pressure, not the waveform issue. Accepting a dampened reading as accurate would lead to clinical decisions based on unreliable data. Source: Nurseslabs — Arterial Line Nursing Care; RNpedia — Hemodynamic Monitoring.",
+    "tags": [
+      "arterial-line",
+      "waveform",
+      "troubleshooting",
+      "hemodynamic-monitoring"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Arterial Line Monitoring",
+        "url": "https://nurseslabs.com/arterial-blood-pressure-monitoring/"
+      },
+      {
+        "name": "RNpedia - Hemodynamic Monitoring",
+        "url": "https://www.rnpedia.com/nursing-notes/medical-surgical-nursing-notes/hemodynamic-monitoring/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q142",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is monitoring a client after a thoracentesis. Which assessment finding requires immediate intervention?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mild discomfort at the puncture site",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Absent breath sounds on the affected side with increasing dyspnea",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Small amount of serous drainage on the dressing",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Respiratory rate of 18 breaths per minute",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Absent breath sounds on the affected side with increasing dyspnea after thoracentesis indicates a pneumothorax — the most serious complication of this procedure. The needle may have punctured the visceral pleura, allowing air into the pleural space and causing lung collapse. The nurse should immediately notify the provider, prepare for chest X-ray and possible chest tube insertion, and provide oxygen. Mild site discomfort is expected. A small amount of serous drainage is normal. A respiratory rate of 18 is normal. Post-thoracentesis nursing includes vital signs every 15 minutes for 1 hour and bilateral breath sound assessment. Source: Nurseslabs — Thoracentesis Nursing Care; RegisteredNurseRN — Respiratory Procedures.",
+    "tags": [
+      "thoracentesis",
+      "pneumothorax",
+      "post-procedure",
+      "respiratory-assessment"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Thoracentesis",
+        "url": "https://nurseslabs.com/thoracentesis/"
+      },
+      {
+        "name": "RegisteredNurseRN - Thoracentesis",
+        "url": "https://www.registerednursern.com/thoracentesis-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q143",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is caring for a client who had a paracentesis with 3 liters of ascitic fluid removed. Which complication should the nurse monitor for most closely in the first few hours?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hypervolemia and pulmonary edema",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Hypotension and tachycardia due to fluid shift",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Hypertension and bradycardia",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Hyperglycemia from stress response",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "After large-volume paracentesis, the most significant immediate complication is hypotension due to fluid shifting from the intravascular space into the peritoneal cavity to replace the removed fluid (third-spacing). Removal of large volumes (>1-2 liters) can cause hypovolemia, manifesting as hypotension and compensatory tachycardia. The nurse should monitor vital signs frequently, measure abdominal girth, weigh the client, and administer IV albumin as prescribed to maintain intravascular volume. The client would not develop hypervolemia since fluid was removed. Hypertension would not be expected. Source: Nurseslabs — Paracentesis Nursing Care; RegisteredNurseRN — Liver Cirrhosis Nursing.",
+    "tags": [
+      "paracentesis",
+      "fluid-shift",
+      "hypotension",
+      "ascites",
+      "post-procedure"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Paracentesis",
+        "url": "https://nurseslabs.com/paracentesis/"
+      },
+      {
+        "name": "RegisteredNurseRN - Liver Cirrhosis",
+        "url": "https://www.registerednursern.com/liver-cirrhosis-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q144",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is caring for a client receiving peritoneal dialysis. During the drain cycle, the client reports abdominal pain and the effluent appears cloudy. Which action should the nurse take first?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Continue the dialysis and monitor the effluent for clearing",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Obtain a sample of the effluent for culture and notify the provider",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Increase the dwell time to improve dialysis efficiency",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Warm the dialysate solution and continue exchanges",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Cloudy effluent with abdominal pain during peritoneal dialysis is the hallmark sign of peritonitis, the most serious and common complication. The nurse should immediately obtain an effluent sample for culture and sensitivity testing and notify the provider. Peritonitis requires prompt antibiotic treatment — delay can lead to sepsis. Normal effluent should be clear or pale yellow. Continuing dialysis without investigating, increasing dwell time, or warming the solution are all inappropriate responses to signs of infection. Other signs of peritonitis include fever, rebound tenderness, and nausea/vomiting. Source: Nurseslabs — Peritoneal Dialysis Nursing; RegisteredNurseRN — Renal Failure Nursing.",
+    "tags": [
+      "peritoneal-dialysis",
+      "peritonitis",
+      "cloudy-effluent",
+      "renal-nursing"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Peritoneal Dialysis",
+        "url": "https://nurseslabs.com/peritoneal-dialysis/"
+      },
+      {
+        "name": "RegisteredNurseRN - Peritoneal Dialysis",
+        "url": "https://www.registerednursern.com/peritoneal-dialysis-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q145",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is caring for a client with an arteriovenous (AV) fistula in the left arm who is receiving hemodialysis. Which assessment finding requires immediate action?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A palpable thrill over the fistula site",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "An audible bruit on auscultation of the fistula",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Absence of thrill and bruit over the fistula",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Mild swelling of the left hand after dialysis treatment",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Absence of a thrill (palpable vibration) and bruit (audible rushing sound) over an AV fistula indicates fistula thrombosis or occlusion — a medical emergency requiring immediate intervention to restore blood flow. A functioning AV fistula should always have a palpable thrill and audible bruit, indicating adequate blood flow. The nurse should notify the provider immediately. A thrill and bruit are normal, expected findings. Mild hand swelling may occur but is not an emergency. Nursing care for AV fistulas includes: no blood pressures, no venipunctures, and no tourniquets on the affected arm. Source: Nurseslabs — Hemodialysis Nursing Care; RegisteredNurseRN — Vascular Access.",
+    "tags": [
+      "hemodialysis",
+      "AV-fistula",
+      "thrill",
+      "bruit",
+      "vascular-access"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Hemodialysis Nursing",
+        "url": "https://nurseslabs.com/hemodialysis/"
+      },
+      {
+        "name": "RegisteredNurseRN - Hemodialysis",
+        "url": "https://www.registerednursern.com/hemodialysis-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q146",
+    "type": "fill-in-the-blank",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is assessing a client using the Glasgow Coma Scale. The client opens eyes to verbal stimulation (3), responds with incomprehensible sounds (2), and has flexion withdrawal to pain (4). Calculate the client's GCS score.",
+    "correctAnswer": "9",
+    "acceptableAnswers": [
+      "9",
+      "9.0"
+    ],
+    "unit": "",
+    "rationale": "The Glasgow Coma Scale (GCS) has three components: Eye opening (1-4), Verbal response (1-5), and Motor response (1-6). This client scores: Eye opening to verbal stimulation = 3, Verbal with incomprehensible sounds = 2, Motor with flexion withdrawal = 4. Total GCS = 3 + 2 + 4 = 9. GCS ranges from 3 (deep coma) to 15 (fully alert). A score of 8 or below generally indicates severe brain injury and need for intubation. This client at GCS 9 is in moderate brain injury range (9-12) and requires close monitoring. Source: Nurseslabs — Glasgow Coma Scale; RegisteredNurseRN — Neurological Assessment.",
+    "tags": [
+      "GCS",
+      "Glasgow-Coma-Scale",
+      "neurological-assessment",
+      "level-of-consciousness"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Glasgow Coma Scale",
+        "url": "https://nurseslabs.com/glasgow-coma-scale/"
+      },
+      {
+        "name": "RegisteredNurseRN - Neurological Assessment",
+        "url": "https://www.registerednursern.com/glasgow-coma-scale-nclex-review/"
+      }
+    ],
+    "verified": true
   }
 ]
