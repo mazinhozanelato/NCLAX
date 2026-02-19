@@ -8,7 +8,7 @@ Adaptive NCLEX-RN exam simulator. Vanilla JS SPA, no frameworks. `npm start` to 
 - **Routing**: hash-based (`#dashboard`, `#test`, etc.)
 - **Data**: localStorage, seeded from `data/*.json` on first load
 - **CSS**: BEM naming, CSS custom properties, dark mode via `data-theme`
-- **Questions**: 170 with `sources[]` and `verified` fields for double-check tracking
+- **Questions**: 191 with `sources[]` and `verified` fields for double-check tracking
 
 ## Rules (detailed)
 - `rules/project.md` — architecture, file map, design decisions, state

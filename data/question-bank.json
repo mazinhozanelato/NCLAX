@@ -8104,5 +8104,1027 @@
       }
     ],
     "verified": true
+  },
+  {
+    "id": "q171",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A nurse is teaching a client newly prescribed enalapril (Vasotec), an ACE inhibitor. Which side effect should the nurse instruct the client to report immediately?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A persistent dry cough",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Swelling of the tongue and difficulty breathing",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Mild dizziness when standing up quickly",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "A metallic taste in the mouth",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Angioedema (swelling of the face, lips, tongue, and throat with potential airway obstruction) is a rare but life-threatening adverse effect of ACE inhibitors that requires immediate emergency treatment. A dry cough is a common and expected side effect (due to bradykinin accumulation) but is not life-threatening — if intolerable, the provider may switch to an ARB. Mild orthostatic dizziness is common initially. A metallic taste can occur but is not dangerous. ACE inhibitors are contraindicated in pregnancy. The nurse should also teach about monitoring potassium (risk of hyperkalemia). Source: RegisteredNurseRN — ACE Inhibitors; Nurseslabs — Antihypertensive Medications.",
+    "tags": [
+      "ACE-inhibitors",
+      "angioedema",
+      "enalapril",
+      "antihypertensive",
+      "adverse-effects"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - ACE Inhibitors",
+        "url": "https://www.registerednursern.com/ace-inhibitor-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - ACE Inhibitors",
+        "url": "https://nurseslabs.com/ace-inhibitors/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q172",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A nurse is preparing to administer metoprolol (Lopressor) to a client. Which assessment finding would cause the nurse to withhold the medication and notify the provider?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Blood pressure of 138/86 mmHg",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Heart rate of 52 beats per minute",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Respiratory rate of 16 breaths per minute",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Temperature of 98.8°F (37.1°C)",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Beta-blockers (medications ending in '-olol') decrease heart rate and blood pressure. A heart rate below 60 bpm (bradycardia) is a contraindication for administration because the medication will further decrease the heart rate, potentially causing symptomatic bradycardia, heart block, or cardiac arrest. The nurse should withhold the medication and notify the provider. A blood pressure of 138/86 is mildly elevated — the drug is appropriate. Normal respiratory rate and temperature do not affect beta-blocker administration. The nurse should also hold if systolic BP is <100 mmHg. Source: Nurseslabs — Beta-Blockers; RegisteredNurseRN — Beta-Blocker Medications.",
+    "tags": [
+      "beta-blockers",
+      "metoprolol",
+      "bradycardia",
+      "withhold-medication"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Beta-Blockers",
+        "url": "https://nurseslabs.com/beta-adrenergic-blockers/"
+      },
+      {
+        "name": "RegisteredNurseRN - Beta-Blockers",
+        "url": "https://www.registerednursern.com/beta-blockers-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q173",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A nurse is administering sublingual nitroglycerin to a client experiencing chest pain. Which instruction is correct regarding administration?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Take one tablet every 5 minutes for up to 3 doses; call 911 if pain persists after the first dose",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Take three tablets at once for faster pain relief",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Take a tablet every 15 minutes with no limit on doses",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Swallow the tablet with a full glass of water",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Per current AHA guidelines, the client should take one sublingual nitroglycerin tablet and call 911 if chest pain is not relieved after the first dose (updated from the older recommendation of waiting for 3 doses). If EMS is delayed, a second and third dose may be taken at 5-minute intervals. The tablet is placed under the tongue — not swallowed — for rapid sublingual absorption. Never take multiple tablets at once. The nurse should also check blood pressure before each dose (withhold if systolic <90 mmHg), and nitroglycerin is contraindicated within 24-48 hours of PDE5 inhibitors (sildenafil/tadalafil). Store in a dark, glass container. Source: RegisteredNurseRN — Nitroglycerin; Nurseslabs — Antianginal Medications.",
+    "tags": [
+      "nitroglycerin",
+      "sublingual",
+      "chest-pain",
+      "antianginal",
+      "patient-education"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Nitroglycerin",
+        "url": "https://www.registerednursern.com/nitroglycerin-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Antianginal Drugs",
+        "url": "https://nurseslabs.com/antianginal-drugs/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q174",
+    "type": "select-all-that-apply",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A nurse is comparing antihypertensive medication classes for a client with newly diagnosed hypertension. Which statements about antihypertensive medications are correct? Select all that apply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "ACE inhibitors can cause hyperkalemia and should not be given with potassium-sparing diuretics",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Calcium channel blockers such as amlodipine cause vasodilation and may lead to peripheral edema",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Thiazide diuretics such as hydrochlorothiazide may cause hypokalemia and hyperglycemia",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Beta-blockers are the safest first-line choice for clients with asthma",
+        "isCorrect": false
+      },
+      {
+        "id": "E",
+        "text": "ARBs (angiotensin receptor blockers) are often prescribed when ACE inhibitors cause intolerable cough",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "ACE inhibitors reduce aldosterone, causing potassium retention — combining with potassium-sparing diuretics increases hyperkalemia risk. Calcium channel blockers (dihydropyridines like amlodipine) cause vasodilation, which can lead to peripheral edema and flushing. Thiazide diuretics increase potassium, sodium, and magnesium excretion and can elevate blood glucose — monitor electrolytes and glucose. Beta-blockers are contraindicated in asthma because they cause bronchospasm via beta-2 blockade. ARBs block angiotensin II at the receptor level without affecting bradykinin (no cough), making them an alternative when ACE inhibitor cough is intolerable. Source: Nurseslabs — Antihypertensive Drugs; RegisteredNurseRN — Hypertension Medications.",
+    "tags": [
+      "antihypertensives",
+      "ACE-inhibitors",
+      "calcium-channel-blockers",
+      "diuretics",
+      "drug-comparison"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Antihypertensive Drugs",
+        "url": "https://nurseslabs.com/antihypertensive-drugs/"
+      },
+      {
+        "name": "RegisteredNurseRN - Antihypertensives",
+        "url": "https://www.registerednursern.com/antihypertensive-medications-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q175",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A nurse is administering IV vancomycin to a client. During the infusion, the client develops flushing of the face and neck, pruritus, and a red rash on the upper body. Which nursing action is most appropriate?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Discontinue the medication immediately and never administer it again",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Stop the infusion, slow the rate, and notify the provider",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Administer epinephrine for anaphylaxis",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Continue the infusion as this is an expected minor reaction",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The client is experiencing \"Red Man Syndrome\" (vancomycin flushing syndrome), a histamine-mediated reaction caused by too-rapid IV infusion of vancomycin. It is NOT a true allergy. Management: stop the infusion, slow the rate (infuse over at least 60 minutes per 1 gram), and notify the provider. Diphenhydramine may be administered prophylactically before future infusions. The medication can be given again at a slower rate — it does not need to be permanently discontinued. Epinephrine is inappropriate because this is not anaphylaxis. Continuing the infusion without adjustment could worsen the reaction. Vancomycin also requires peak and trough level monitoring (trough 15-20 mcg/mL) and monitoring for ototoxicity and nephrotoxicity. Source: RegisteredNurseRN — Vancomycin; Nurseslabs — Anti-Infective Drugs.",
+    "tags": [
+      "vancomycin",
+      "Red-Man-Syndrome",
+      "IV-infusion",
+      "anti-infective",
+      "adverse-reaction"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Vancomycin",
+        "url": "https://www.registerednursern.com/vancomycin-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Vancomycin",
+        "url": "https://nurseslabs.com/vancomycin/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q176",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A nurse is teaching a client starting tuberculosis therapy with the RIPE regimen. Which medication in the RIPE regimen requires the nurse to assess for visual changes including color blindness?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rifampin",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Isoniazid (INH)",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Pyrazinamide",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Ethambutol",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "Ethambutol (the 'E' in RIPE) can cause optic neuritis, leading to decreased visual acuity, color blindness (inability to distinguish red from green), and visual field loss. Baseline and monthly eye exams are required. Rifampin ('R') turns body fluids orange/red (urine, tears, sweat) and is a potent CYP450 inducer. Isoniazid ('I') can cause peripheral neuropathy (give vitamin B6/pyridoxine to prevent) and hepatotoxicity. Pyrazinamide ('P') can cause hepatotoxicity and hyperuricemia. All RIPE medications require liver function monitoring. The initial phase uses all 4 drugs for 2 months, followed by a continuation phase with rifampin and isoniazid for 4 months. Source: Nurseslabs — TB Medications; RegisteredNurseRN — Tuberculosis Drugs.",
+    "tags": [
+      "tuberculosis",
+      "RIPE-regimen",
+      "ethambutol",
+      "optic-neuritis",
+      "anti-infective"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Anti-Tuberculosis Drugs",
+        "url": "https://nurseslabs.com/anti-tuberculosis-drugs/"
+      },
+      {
+        "name": "RegisteredNurseRN - TB Medications",
+        "url": "https://www.registerednursern.com/tuberculosis-medications-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q177",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A nurse is monitoring a client receiving IV amphotericin B for a systemic fungal infection. Which adverse effect is most important to monitor for during therapy?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hyperglycemia",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Nephrotoxicity with elevated BUN and creatinine",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Increased platelet count",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Weight gain from fluid retention",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Amphotericin B is known as 'Amphoterrible' due to its severe toxicity profile. The most significant adverse effect is nephrotoxicity (kidney damage), manifested by elevated BUN, creatinine, and decreased urine output. The nurse should monitor renal function (BUN/creatinine) before and during therapy, ensure adequate hydration, and monitor electrolytes (hypokalemia and hypomagnesemia are common). Infusion-related reactions (fever, chills, rigors) are common — premedication with acetaminophen, diphenhydramine, and meperidine may help. Liposomal formulations reduce but do not eliminate nephrotoxicity. Source: RegisteredNurseRN — Antifungal Medications; Nurseslabs — Amphotericin B.",
+    "tags": [
+      "amphotericin-B",
+      "nephrotoxicity",
+      "antifungal",
+      "adverse-effects",
+      "renal-monitoring"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Antifungal Drugs",
+        "url": "https://www.registerednursern.com/antifungal-medications-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Antifungal Drugs",
+        "url": "https://nurseslabs.com/antifungal-drugs/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q178",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A client who takes diazepam (Valium) daily for anxiety presents to the emergency department with extreme sedation, respiratory depression, and slurred speech. Which medication should the nurse anticipate administering?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Naloxone (Narcan)",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Flumazenil (Romazicon)",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Activated charcoal",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Protamine sulfate",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Flumazenil (Romazicon) is the specific antidote for benzodiazepine overdose. It competitively antagonizes benzodiazepines at the GABA receptor, reversing sedation, respiratory depression, and CNS depression. Diazepam (Valium) is a benzodiazepine. Naloxone is the antidote for opioid overdose. Activated charcoal is used for oral poisoning/overdose within 1-2 hours of ingestion. Protamine sulfate is the antidote for heparin. Important: flumazenil should be used cautiously in chronic benzodiazepine users as it can precipitate seizures. Key antidote pairs: benzodiazepines/flumazenil, opioids/naloxone, heparin/protamine, warfarin/vitamin K, acetaminophen/N-acetylcysteine. Source: Nurseslabs — Drug Antidotes; RegisteredNurseRN — Benzodiazepines.",
+    "tags": [
+      "benzodiazepine",
+      "flumazenil",
+      "antidote",
+      "overdose",
+      "diazepam"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Drug Antidotes",
+        "url": "https://nurseslabs.com/drug-antidotes/"
+      },
+      {
+        "name": "RegisteredNurseRN - Benzodiazepines",
+        "url": "https://www.registerednursern.com/benzodiazepines-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q179",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A nurse is monitoring a client who takes lithium carbonate for bipolar disorder. The client's serum lithium level is 2.0 mEq/L. Which action should the nurse take?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Administer the next scheduled dose as prescribed",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Hold the lithium, hydrate the client, and notify the provider immediately",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Increase the lithium dose as the level is subtherapeutic",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Document the finding and recheck in 24 hours",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The therapeutic range for lithium is 0.6-1.2 mEq/L. A level of 2.0 mEq/L is toxic and requires immediate intervention. The nurse should: hold the medication, ensure adequate hydration (lithium is excreted renally and dehydration worsens toxicity), and notify the provider immediately. Early toxicity signs (1.5-2.0): GI symptoms (nausea, vomiting, diarrhea), fine hand tremor, drowsiness. Severe toxicity (2.0-3.5): coarse tremor, confusion, seizures. Fatal toxicity (>3.5): coma, organ failure. Risk factors for toxicity include dehydration, sodium depletion, renal impairment, and interactions with NSAIDs, diuretics, and ACE inhibitors. Dialysis may be needed for severe toxicity. Source: RegisteredNurseRN — Lithium; Nurseslabs — Mood Stabilizers.",
+    "tags": [
+      "lithium",
+      "toxicity",
+      "bipolar-disorder",
+      "therapeutic-range",
+      "mood-stabilizer"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Lithium",
+        "url": "https://www.registerednursern.com/lithium-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Lithium",
+        "url": "https://nurseslabs.com/lithium/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q180",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A nurse is monitoring a client receiving phenytoin (Dilantin) for seizure prophylaxis. The serum phenytoin level is 25 mcg/mL (therapeutic range: 10-20 mcg/mL). Which assessment finding would the nurse expect related to this drug level?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hypertension and tachycardia",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Nystagmus, ataxia, and slurred speech",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Increased seizure frequency",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "No symptoms — this level is therapeutic",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "A phenytoin level of 25 mcg/mL is above the therapeutic range (10-20 mcg/mL) and indicates toxicity. Early signs of phenytoin toxicity include nystagmus (involuntary eye movements — often the first sign), ataxia (unsteady gait), slurred speech (dysarthria), and drowsiness. Higher levels can cause confusion, seizures (paradoxically), and cardiovascular collapse. The nurse should hold the medication and notify the provider. Phenytoin also causes gingival hyperplasia (teach good oral hygiene), hirsutism, and can lower folic acid levels. IV phenytoin requires a filter and must be given slowly (<50 mg/min) to prevent cardiac arrhythmias — never mix with dextrose. Source: Nurseslabs — Phenytoin; RegisteredNurseRN — Anticonvulsants.",
+    "tags": [
+      "phenytoin",
+      "toxicity",
+      "nystagmus",
+      "anticonvulsant",
+      "therapeutic-range"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Anticonvulsant Drugs",
+        "url": "https://nurseslabs.com/anticonvulsant-drugs/"
+      },
+      {
+        "name": "RegisteredNurseRN - Phenytoin",
+        "url": "https://www.registerednursern.com/phenytoin-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q181",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A nurse is caring for a post-operative client with a patient-controlled analgesia (PCA) pump delivering morphine. Which assessment finding requires immediate nursing intervention?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pain rating decreased from 8 to 4 on a 0-10 scale",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Respiratory rate of 8 breaths per minute and pinpoint pupils",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "The client pressed the PCA button 3 times in the last hour",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Mild nausea after the most recent dose",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "A respiratory rate of 8 breaths/min with pinpoint pupils (miosis) indicates opioid overdose/respiratory depression — the most dangerous adverse effect of opioid analgesia and a medical emergency. The nurse should stop the PCA pump, stimulate the client, ensure airway patency, administer naloxone (Narcan) as prescribed, and notify the provider. Pain reduction from 8 to 4 indicates the PCA is effective. Pressing the button 3 times per hour is within normal use. Mild nausea is a common opioid side effect managed with antiemetics. PCA safety: only the patient should press the button (no family activation), and continuous pulse oximetry monitoring should be used. Source: RegisteredNurseRN — PCA Pump; Nurseslabs — Opioid Analgesics.",
+    "tags": [
+      "PCA",
+      "opioid-overdose",
+      "respiratory-depression",
+      "morphine",
+      "pain-management"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - PCA Pump",
+        "url": "https://www.registerednursern.com/pca-pump-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Opioid Analgesics",
+        "url": "https://nurseslabs.com/opioid-agonists/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q182",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A nurse is caring for a laboring client who received epidural anesthesia 30 minutes ago. The client's blood pressure drops to 82/48 mmHg and she reports feeling dizzy. Which intervention should the nurse perform first?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Position the client on her left side and increase IV fluid infusion rate",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Administer epinephrine 1 mg IV push",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Remove the epidural catheter immediately",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Place the client in Trendelenburg position",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Hypotension is the most common complication of epidural anesthesia due to sympathetic nerve blockade causing vasodilation. The first intervention is to position the client on her left side (to relieve aortocaval compression by the uterus and improve venous return) and increase IV fluid infusion rate to expand intravascular volume. Epinephrine 1 mg is for cardiac arrest, not epidural hypotension — IV ephedrine or phenylephrine in small doses may be used if fluids and positioning fail. Removing the epidural is not indicated for hypotension alone. Trendelenburg is generally avoided in pregnancy due to uterine compression of the diaphragm. Other epidural complications include urinary retention, pruritus, and rarely, respiratory depression from high spinal block. Source: Nurseslabs — Epidural Anesthesia; RegisteredNurseRN — Labor Analgesia.",
+    "tags": [
+      "epidural",
+      "hypotension",
+      "labor-analgesia",
+      "maternal-nursing",
+      "anesthesia-complication"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Epidural Anesthesia",
+        "url": "https://nurseslabs.com/epidural-anesthesia/"
+      },
+      {
+        "name": "RegisteredNurseRN - Epidural",
+        "url": "https://www.registerednursern.com/epidural-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q183",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A nurse is caring for a client who received a dose of hydromorphone (Dilaudid) and is now unresponsive with a respiratory rate of 6 breaths per minute. Which medication should the nurse administer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Flumazenil (Romazicon)",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Naloxone (Narcan)",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Protamine sulfate",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Vitamin K (phytonadione)",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Naloxone (Narcan) is the specific opioid antagonist used to reverse opioid-induced respiratory depression and sedation. Hydromorphone (Dilaudid) is a potent opioid, and this client shows signs of opioid overdose (unresponsiveness, respiratory depression). Naloxone competitively displaces opioids from receptor sites, rapidly reversing their effects. It can be given IV, IM, SubQ, or intranasally. Important: naloxone has a shorter duration than most opioids, so re-sedation may occur — the nurse must continue monitoring and may need to repeat doses. Flumazenil reverses benzodiazepines. Protamine reverses heparin. Vitamin K reverses warfarin. Source: RegisteredNurseRN — Naloxone; Nurseslabs — Opioid Antagonists.",
+    "tags": [
+      "naloxone",
+      "opioid-reversal",
+      "respiratory-depression",
+      "antidote",
+      "hydromorphone"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Naloxone",
+        "url": "https://www.registerednursern.com/naloxone-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Opioid Antagonists",
+        "url": "https://nurseslabs.com/opioid-antagonists/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q184",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A nurse is preparing to administer an IV fluid bolus to a client with hyponatremia. Which IV solution should the nurse anticipate using?",
+    "options": [
+      {
+        "id": "A",
+        "text": "0.45% sodium chloride (half-normal saline)",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "3% sodium chloride (hypertonic saline)",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "5% dextrose in water (D5W)",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Lactated Ringer's solution",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "3% sodium chloride (hypertonic saline) is used to treat hyponatremia because it has a higher osmolality than blood, drawing fluid from the intracellular space into the intravascular space and increasing serum sodium levels. It must be infused slowly and via an IV pump, with frequent sodium level monitoring (correct no faster than 8-12 mEq/L per 24 hours to prevent osmotic demyelination syndrome/central pontine myelinolysis). Half-normal saline (0.45%) is hypotonic and would worsen hyponatremia. D5W acts as a hypotonic solution in the body (after dextrose is metabolized). Lactated Ringer's is isotonic and would not correct hyponatremia effectively. Source: Nurseslabs — IV Fluid Types; RegisteredNurseRN — IV Solutions.",
+    "tags": [
+      "IV-fluids",
+      "hypertonic-saline",
+      "hyponatremia",
+      "fluid-therapy",
+      "osmolality"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - IV Solutions",
+        "url": "https://nurseslabs.com/intravenous-fluid-therapy/"
+      },
+      {
+        "name": "RegisteredNurseRN - IV Fluids",
+        "url": "https://www.registerednursern.com/iv-solutions-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q185",
+    "type": "select-all-that-apply",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A nurse is preparing to administer a unit of packed red blood cells (PRBCs). Which nursing actions are appropriate during blood product administration? Select all that apply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Verify the blood product with two registered nurses at the bedside",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Infuse the blood using 0.9% normal saline as the compatible IV solution",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Stay with the client for the first 15 minutes and monitor vital signs",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Administer the blood through a standard IV tubing without a filter",
+        "isCorrect": false
+      },
+      {
+        "id": "E",
+        "text": "Complete the transfusion within 4 hours of removal from blood bank",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "Blood product administration requires: (1) Two-nurse verification at the bedside — checking patient identity, blood type/Rh, crossmatch, expiration date, and bag number against the order; (2) Normal saline (0.9% NaCl) is the ONLY compatible IV solution — never use dextrose (causes hemolysis) or lactated Ringer's (contains calcium, causes clotting); (3) Stay with the client for the first 15 minutes monitoring for transfusion reactions (most severe reactions occur in the first 15 mL); (4) Blood must be administered through tubing with a blood filter (170-260 micron) to trap clots and debris; (5) Complete within 4 hours to prevent bacterial growth. Source: RegisteredNurseRN — Blood Transfusion; Nurseslabs — Blood Administration.",
+    "tags": [
+      "blood-transfusion",
+      "PRBCs",
+      "transfusion-safety",
+      "IV-compatibility",
+      "nursing-procedure"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Blood Transfusion",
+        "url": "https://www.registerednursern.com/blood-transfusion-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Blood Transfusion",
+        "url": "https://nurseslabs.com/blood-transfusion-therapy/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q186",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A nurse is monitoring a client receiving total parenteral nutrition (TPN) through a central venous catheter. Which laboratory value is most important to monitor every 6 hours during TPN initiation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hemoglobin and hematocrit",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Blood glucose",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Prothrombin time (PT)",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "White blood cell count",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "TPN contains high concentrations of dextrose, which can cause significant hyperglycemia, especially during initiation. Blood glucose should be monitored every 4-6 hours initially and regular insulin may be added to the TPN or given as a sliding scale. TPN must be infused via a central line (due to high osmolality), using an infusion pump at a constant rate. Never abruptly discontinue TPN (risk of rebound hypoglycemia — taper gradually). Other important monitoring includes: electrolytes (especially potassium, phosphorus, magnesium), liver function tests, triglycerides, and daily weight. Hemoglobin, PT, and WBC are important but not the priority during TPN initiation. Source: Nurseslabs — Total Parenteral Nutrition; RegisteredNurseRN — TPN Nursing.",
+    "tags": [
+      "TPN",
+      "parenteral-nutrition",
+      "hyperglycemia",
+      "blood-glucose",
+      "central-line"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - TPN",
+        "url": "https://nurseslabs.com/total-parenteral-nutrition/"
+      },
+      {
+        "name": "RegisteredNurseRN - TPN",
+        "url": "https://www.registerednursern.com/tpn-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q187",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A nurse is preparing to administer potassium chloride (KCl) IV to a client with severe hypokalemia. Which safety measure is essential?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Administer the potassium by rapid IV push for faster correction",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Dilute the potassium and administer via an IV infusion pump, never faster than 10 mEq/hour",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Mix the potassium with dextrose 50% for better absorption",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Administer undiluted potassium through a peripheral IV site",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "IV potassium must NEVER be given by IV push — rapid administration can cause fatal cardiac arrhythmia (ventricular fibrillation and cardiac arrest). It must always be diluted and administered via an infusion pump at a rate not exceeding 10 mEq/hour (or 20 mEq/hour in critical situations with cardiac monitoring). Maximum concentration for peripheral IV is 40 mEq/L; higher concentrations require a central line. The infusion site should be monitored for phlebitis (potassium is a vesicant). Undiluted potassium is extremely caustic to veins. Cardiac monitoring is recommended for IV rates >10 mEq/hour. Source: RegisteredNurseRN — Potassium Administration; Nurseslabs — Electrolyte Replacement.",
+    "tags": [
+      "potassium",
+      "IV-safety",
+      "hypokalemia",
+      "infusion-pump",
+      "high-alert-medication"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Potassium",
+        "url": "https://www.registerednursern.com/potassium-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Potassium",
+        "url": "https://nurseslabs.com/potassium/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q188",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A nurse is teaching a client who is newly prescribed levothyroxine (Synthroid) for hypothyroidism. Which instruction should the nurse include?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Take the medication with food to reduce stomach upset",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Take the medication on an empty stomach, 30-60 minutes before breakfast",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Take the medication at bedtime with a glass of milk",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Take the medication only when feeling fatigued",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Levothyroxine should be taken on an empty stomach, 30-60 minutes before breakfast (or 3-4 hours after the last meal) for optimal absorption. Food, calcium supplements, antacids, and iron preparations decrease absorption and should be taken at least 4 hours apart. The medication must be taken consistently every day at the same time — it is not PRN (as-needed). Dairy products (milk) contain calcium and will reduce absorption. It is a lifelong medication for hypothyroidism. The nurse should teach the client to report signs of thyrotoxicosis (if overdosed): palpitations, heat intolerance, nervousness, insomnia, and weight loss. TSH levels should be monitored 6-8 weeks after dose changes. Source: Nurseslabs — Levothyroxine; RegisteredNurseRN — Thyroid Medications.",
+    "tags": [
+      "levothyroxine",
+      "hypothyroidism",
+      "patient-education",
+      "thyroid-medication",
+      "absorption"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Thyroid Drugs",
+        "url": "https://nurseslabs.com/thyroid-drugs/"
+      },
+      {
+        "name": "RegisteredNurseRN - Levothyroxine",
+        "url": "https://www.registerednursern.com/levothyroxine-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q189",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A nurse is providing discharge teaching to a client who has been on long-term prednisone therapy for rheumatoid arthritis. Which statement by the client indicates a need for further teaching?",
+    "options": [
+      {
+        "id": "A",
+        "text": "\"I should carry a medical alert card indicating I take corticosteroids\"",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "\"I can stop taking prednisone whenever I feel better since my symptoms are gone\"",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "\"I need to report any signs of infection to my doctor right away\"",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "\"I should avoid people who are sick because my immune system is suppressed\"",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Long-term corticosteroid therapy suppresses the adrenal glands' natural cortisol production via negative feedback. Abrupt discontinuation can cause acute adrenal insufficiency (Addisonian crisis) — a life-threatening emergency. Corticosteroids must always be tapered gradually to allow the adrenal glands to resume normal function. Carrying a medical alert card is appropriate. Reporting infections is correct because corticosteroids suppress the immune system and mask infection signs. Avoiding sick contacts is appropriate due to immunosuppression. Other important teaching: take with food (risk of GI ulcers), monitor blood glucose (can cause hyperglycemia), and monitor for Cushing syndrome signs. Source: RegisteredNurseRN — Corticosteroids; Nurseslabs — Glucocorticoids.",
+    "tags": [
+      "corticosteroids",
+      "prednisone",
+      "tapering",
+      "adrenal-suppression",
+      "patient-education"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN - Corticosteroids",
+        "url": "https://www.registerednursern.com/corticosteroids-nclex-review/"
+      },
+      {
+        "name": "Nurseslabs - Glucocorticoids",
+        "url": "https://nurseslabs.com/adrenal-drugs/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q190",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A nurse is preparing to administer chemotherapy to a client. Which safety precaution is essential when handling chemotherapeutic agents?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wear standard examination gloves and a surgical mask",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Wear chemotherapy-rated double gloves, gown, goggles, and use a biological safety cabinet",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Handle the drugs in an open area with good ventilation",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Only wear protective equipment if the client is on isolation precautions",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Chemotherapy drugs are hazardous substances that can cause adverse effects through skin absorption, inhalation, or ingestion. OSHA and ONS guidelines require: chemotherapy-rated double gloves (changed every 30 minutes or immediately if torn), a disposable protective gown, eye protection (goggles or face shield), and preparation in a biological safety cabinet (BSC) Class II or closed-system transfer devices. Standard exam gloves and surgical masks are insufficient — chemotherapy can penetrate standard gloves. Open areas expose staff to aerosolized drug particles. PPE is required for ALL chemotherapy handling regardless of patient isolation status. Spills require a chemotherapy spill kit. Body fluids of clients receiving chemo are also hazardous for 48 hours. Source: Nurseslabs — Chemotherapy Safety; RegisteredNurseRN — Oncology Nursing.",
+    "tags": [
+      "chemotherapy",
+      "PPE",
+      "safety",
+      "hazardous-drugs",
+      "oncology-nursing"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Chemotherapy",
+        "url": "https://nurseslabs.com/chemotherapy/"
+      },
+      {
+        "name": "RegisteredNurseRN - Chemotherapy Safety",
+        "url": "https://www.registerednursern.com/chemotherapy-nclex-review/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q191",
+    "type": "fill-in-the-blank",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A nurse needs to administer amoxicillin 500 mg PO. The pharmacy sends amoxicillin 250 mg/5 mL oral suspension. How many mL should the nurse administer?",
+    "correctAnswer": "10",
+    "acceptableAnswers": [
+      "10",
+      "10.0",
+      "10 mL"
+    ],
+    "unit": "mL",
+    "rationale": "Using the dosage calculation formula: Desired dose / Available dose × Volume = 500 mg / 250 mg × 5 mL = 2 × 5 mL = 10 mL. The nurse should administer 10 mL of the oral suspension. Always double-check dosage calculations and use the rights of medication administration: right patient, right drug, right dose, right route, right time, right documentation. For liquid medications, use a calibrated oral syringe or medication cup for accurate measurement. Source: Nurseslabs — Dosage Calculations; RegisteredNurseRN — Drug Calculations.",
+    "tags": [
+      "dosage-calculation",
+      "oral-medication",
+      "drug-math",
+      "medication-administration"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Dosage Calculations",
+        "url": "https://nurseslabs.com/dosage-calculations/"
+      },
+      {
+        "name": "RegisteredNurseRN - Drug Calculations",
+        "url": "https://www.registerednursern.com/dosage-calculations-nclex-review/"
+      }
+    ],
+    "verified": true
   }
 ]

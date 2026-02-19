@@ -4,6 +4,49 @@ Track of all question research updates, including sources, verification, and cov
 
 ---
 
+## [v1.6.0] - 2026-02-19
+
+### Summary
+Major expansion of Pharmacological Therapies subcategory, adding 21 new questions covering cardiovascular medications, anti-infectives, CNS drugs, pain/anesthesia management, parenteral therapy, and endocrine/other medications. This brings the subcategory from 12 to 33 questions, meeting the NCLEX target allocation.
+
+### Questions Added: 21 (q171–q191)
+| Topic Group | Count |
+|-------------|-------|
+| CV Meds (ACE inhibitors, beta-blockers, nitroglycerin, antihypertensive comparison) | 4 |
+| Anti-Infectives (vancomycin/Red Man, TB RIPE regimen, amphotericin B) | 3 |
+| CNS Meds (benzodiazepines/flumazenil, lithium toxicity, phenytoin levels) | 3 |
+| Pain/Anesthesia (PCA safety, epidural complications, naloxone) | 3 |
+| Parenteral Therapy (IV fluids, blood products, TPN monitoring, IV potassium safety) | 4 |
+| Endocrine/Other (levothyroxine, corticosteroid tapering, chemo handling, dosage calculation) | 4 |
+
+### Question Types Added
+- Multiple Choice: 18
+- Select All That Apply (SATA): 2
+- Fill-in-the-Blank: 1
+
+### Difficulty Distribution
+- Easy: 8
+- Medium: 11
+- Hard: 2
+
+### Verification
+- Verified (2+ independent sources): 21
+- Single source: 0
+- Total sources used: 3 (Nurseslabs, RegisteredNurseRN, RNpedia)
+
+### Coverage Improvements (before → after)
+| Subcategory | Before | After | Target % |
+|-------------|--------|-------|----------|
+| pharmacological-therapies | 12 | 33 | 12-18% |
+
+### Overall Stats (v1.6.0)
+- Total questions: 191
+- Verified: 122 (64%)
+- Single source: 59
+- Sample (no source): 10
+
+---
+
 ## [v1.5.0] - 2026-02-19
 
 ### Summary

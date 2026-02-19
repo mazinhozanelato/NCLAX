@@ -30,7 +30,7 @@ UI Layer (HTML/CSS/JS) → Engine Layer (Core JS Modules) → Data Layer (localS
 | `js/scoring-engine.js` | ScoringEngine — evaluation, reports |
 | `js/adaptive-engine.js` | AdaptiveLearningEngine — intelligence layer |
 | `js/app.js` | Router, event bus, toast/modal, 8 screen renderers |
-| `data/question-bank.json` | 170 NCLEX questions with sources |
+| `data/question-bank.json` | 191 NCLEX questions with sources |
 | `data/categories-config.json` | NCLEX-RN exam structure + weights |
 
 ## Script Load Order (strict)
@@ -57,10 +57,10 @@ Each question has `sources[]` ({name, url}) and `verified` (boolean).
 - **Single Source** (yellow): 1 source, needs cross-verification
 - **Sample** (gray): original built-in, no external source
 
-## Current State: v1.5
-All features complete. 170 questions with source tracking. GitHub: mazinhozanelato/NCLAX
+## Current State: v1.6
+All features complete. 191 questions with source tracking. GitHub: mazinhozanelato/NCLAX
 
-### Question Bank Coverage (v1.5 — 170 questions)
+### Question Bank Coverage (v1.6 — 191 questions)
 | Subcategory | Count | Target % |
 |-------------|-------|----------|
 | management-of-care | 18 | 17-23% |
@@ -70,20 +70,20 @@ All features complete. 170 questions with source tracking. GitHub: mazinhozanela
 | coping-adaptation | 11 | part of 9% |
 | psychosocial-wellbeing | 10 | part of 9% |
 | basic-care-comfort | 9 | 6-12% |
-| pharmacological-therapies | 12 | 12-18% |
+| pharmacological-therapies | 33 | 12-18% |
 | reduction-of-risk | 37 | 9-15% |
 | physiological-adaptation | 33 | 11-17% |
 
 ### Verification Stats
-- Verified (2+ sources): 101
+- Verified (2+ sources): 122
 - Single source: 59
 - Sample (no source): 10
 
 ## Next Step
-**v1.6.0 — Pharmacological Therapies expansion (21 questions)**
+**v1.7.0 — Management of Care expansion (19 questions)**
 - 59 single-source questions still need cross-verification
-- Reduction of Risk (37) and Physiological Adaptation (33) now at target
-- Next: Pharmacological Therapies (12 → 33), Management of Care, Basic Care/Safety
+- Reduction of Risk (37), Physiological Adaptation (33), Pharmacological (33) at target
+- Next: Management of Care (18 → 37), then Basic Care/Safety
 - Goal: 226 total questions aligned with NCLEX weights
 
 ## TODO (future)
