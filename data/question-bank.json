@@ -1,0 +1,2653 @@
+[
+  {
+    "id": "q001",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A nurse is caring for four clients. Which client should the nurse assess first?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A client with diabetes who has a blood glucose level of 180 mg/dL",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "A client with pneumonia who has a respiratory rate of 32 breaths/min and oxygen saturation of 88%",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "A client who is 1 day postoperative and reports pain of 6 on a 0-10 scale",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "A client with heart failure who has 1+ pedal edema",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The client with pneumonia exhibiting a high respiratory rate and low oxygen saturation requires immediate assessment. This client shows signs of respiratory distress which is an acute, life-threatening condition. Using the ABCs (Airway, Breathing, Circulation) framework, breathing problems take priority. The other clients have findings that require monitoring but are not immediately life-threatening.",
+    "tags": [
+      "prioritization",
+      "ABCs",
+      "delegation"
+    ],
+    "sources": [],
+    "verified": false
+  },
+  {
+    "id": "q002",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A nurse is preparing to administer digoxin (Lanoxin) 0.25 mg PO daily to a client. Before administering the medication, which assessment is the priority?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Blood pressure",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Apical heart rate for one full minute",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Respiratory rate",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Temperature",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Before administering digoxin, the nurse must assess the apical heart rate for one full minute. Digoxin slows the heart rate, and if the apical pulse is below 60 beats per minute in an adult, the nurse should withhold the medication and notify the healthcare provider. This is a critical safety check to prevent bradycardia and potential cardiac complications.",
+    "tags": [
+      "pharmacology",
+      "digoxin",
+      "cardiac",
+      "assessment"
+    ],
+    "sources": [],
+    "verified": false
+  },
+  {
+    "id": "q003",
+    "type": "select-all-that-apply",
+    "difficulty": "hard",
+    "category": "safe-effective-care",
+    "subcategory": "safety-infection-control",
+    "stem": "A nurse is caring for a client diagnosed with Clostridium difficile (C. diff) infection. Which interventions should the nurse implement? Select all that apply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Place the client in a private room",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Use alcohol-based hand sanitizer before and after client contact",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Wear gloves and gown when entering the room",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Wash hands with soap and water after removing gloves",
+        "isCorrect": true
+      },
+      {
+        "id": "E",
+        "text": "Use bleach-based disinfectant for environmental cleaning",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "C. diff requires contact precautions. The client should be placed in a private room. Gloves and gown are required for all contact. Importantly, alcohol-based hand sanitizers are NOT effective against C. diff spores - hands must be washed with soap and water. Bleach-based disinfectants are required because C. diff spores are resistant to most standard cleaning agents.",
+    "tags": [
+      "infection-control",
+      "contact-precautions",
+      "c-diff"
+    ],
+    "sources": [],
+    "verified": false
+  },
+  {
+    "id": "q004",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "reduction-of-risk",
+    "stem": "A nurse is reviewing the laboratory results of a client receiving heparin therapy. Which lab value should the nurse monitor to evaluate the effectiveness of heparin?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Prothrombin time (PT)",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "International Normalized Ratio (INR)",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Activated partial thromboplastin time (aPTT)",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Platelet count",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "aPTT (activated partial thromboplastin time) is the lab value used to monitor the therapeutic effectiveness of heparin therapy. The therapeutic range for aPTT is typically 1.5 to 2.5 times the normal control value. PT and INR are used to monitor warfarin (Coumadin) therapy. While platelet count should be monitored for heparin-induced thrombocytopenia (HIT), it does not measure therapeutic effectiveness.",
+    "tags": [
+      "heparin",
+      "lab-values",
+      "anticoagulation"
+    ],
+    "sources": [],
+    "verified": false
+  },
+  {
+    "id": "q005",
+    "type": "select-all-that-apply",
+    "difficulty": "medium",
+    "category": "health-promotion",
+    "subcategory": "health-promotion-prevention",
+    "stem": "A nurse is providing discharge teaching to a client newly diagnosed with type 2 diabetes mellitus. Which instructions should the nurse include? Select all that apply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Monitor blood glucose levels as prescribed",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Inspect feet daily for cuts, blisters, or redness",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Exercise only when blood glucose is above 250 mg/dL",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Carry a fast-acting carbohydrate source at all times",
+        "isCorrect": true
+      },
+      {
+        "id": "E",
+        "text": "Report signs of hypoglycemia such as shakiness and sweating",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "Clients with type 2 diabetes need comprehensive education. Blood glucose monitoring is essential for management. Daily foot inspections help prevent complications from peripheral neuropathy. Carrying fast-acting carbohydrates helps treat hypoglycemic episodes. Clients should know hypoglycemia symptoms. Exercise should NOT be performed when blood glucose is above 250 mg/dL, as this can worsen hyperglycemia through stress hormone release.",
+    "tags": [
+      "diabetes",
+      "patient-education",
+      "health-promotion"
+    ],
+    "sources": [],
+    "verified": false
+  },
+  {
+    "id": "q006",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "psychosocial-integrity",
+    "subcategory": "coping-adaptation",
+    "stem": "A nurse is caring for a client who was recently diagnosed with terminal cancer. The client states, 'If I can just live to see my daughter graduate, I'll accept whatever happens after.' According to Kubler-Ross, which stage of grief is the client demonstrating?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Denial",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Anger",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Bargaining",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Acceptance",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The client is demonstrating the bargaining stage of Kubler-Ross's five stages of grief. In this stage, the individual attempts to negotiate or make deals, often with a higher power, to postpone death or extend life for a specific purpose. The statement 'If I can just live to see...' is a classic example of bargaining. Denial involves refusing to accept the diagnosis, anger involves frustration directed at others or the situation, and acceptance involves coming to terms with the reality.",
+    "tags": [
+      "kubler-ross",
+      "grief",
+      "therapeutic-communication",
+      "end-of-life"
+    ],
+    "sources": [],
+    "verified": false
+  },
+  {
+    "id": "q007",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "physiological-integrity",
+    "subcategory": "basic-care-comfort",
+    "stem": "A nurse is positioning a client who has just undergone a lumbar puncture. Which position should the nurse place the client in immediately after the procedure?",
+    "options": [
+      {
+        "id": "A",
+        "text": "High Fowler's position",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Flat/supine for 4-12 hours",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Left lateral (Sims') position",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Prone position",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "After a lumbar puncture, the client should remain flat (supine) for 4-12 hours as prescribed. This position helps prevent a post-lumbar puncture headache (spinal headache) by reducing cerebrospinal fluid (CSF) leakage from the puncture site. The client should also be encouraged to increase fluid intake to help replace lost CSF.",
+    "tags": [
+      "positioning",
+      "lumbar-puncture",
+      "post-procedure"
+    ],
+    "sources": [],
+    "verified": false
+  },
+  {
+    "id": "q008",
+    "type": "ordered-response",
+    "difficulty": "hard",
+    "category": "physiological-integrity",
+    "subcategory": "physiological-adaptation",
+    "stem": "A nurse discovers a client lying on the floor unresponsive. Place the following nursing actions in the correct priority order.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Call for help and activate the emergency response system"
+      },
+      {
+        "id": "B",
+        "text": "Check for responsiveness by tapping and shouting"
+      },
+      {
+        "id": "C",
+        "text": "Begin chest compressions at a rate of 100-120 per minute"
+      },
+      {
+        "id": "D",
+        "text": "Open the airway using head-tilt chin-lift maneuver"
+      },
+      {
+        "id": "E",
+        "text": "Apply the AED as soon as it is available"
+      }
+    ],
+    "correctOrder": [
+      "B",
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "rationale": "According to the American Heart Association (AHA) BLS guidelines, the correct sequence is: (1) Check responsiveness - tap and shout to assess if the client responds. (2) Call for help and activate emergency response - early activation improves outcomes. (3) Begin chest compressions - C-A-B sequence prioritizes circulation. (4) Open the airway - after compressions, manage the airway. (5) Apply AED when available - early defibrillation is critical for survival. The C-A-B approach emphasizes starting compressions quickly rather than delaying for airway management.",
+    "tags": [
+      "BLS",
+      "CPR",
+      "emergency-response",
+      "CAB"
+    ],
+    "sources": [],
+    "verified": false
+  },
+  {
+    "id": "q009",
+    "type": "fill-in-the-blank",
+    "difficulty": "medium",
+    "category": "physiological-integrity",
+    "subcategory": "pharmacological-therapies",
+    "stem": "A healthcare provider prescribes amoxicillin 500 mg PO every 8 hours. The pharmacy supplies amoxicillin 250 mg/5 mL oral suspension. How many mL should the nurse administer per dose?",
+    "correctAnswer": "10",
+    "acceptableAnswers": [
+      "10",
+      "10.0",
+      "10 mL",
+      "10mL"
+    ],
+    "unit": "mL",
+    "rationale": "Using the dosage calculation formula: Desired dose / Available dose × Volume = 500 mg / 250 mg × 5 mL = 10 mL. The nurse should administer 10 mL of the oral suspension per dose to provide the prescribed 500 mg of amoxicillin.",
+    "tags": [
+      "dosage-calculation",
+      "pharmacology",
+      "math"
+    ],
+    "sources": [],
+    "verified": false
+  },
+  {
+    "id": "q010",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "health-promotion",
+    "subcategory": "aging-process",
+    "stem": "A nurse is assessing a 6-month-old infant during a well-child visit. Which developmental milestone should the nurse expect to observe?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Walking independently",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Sitting with support and beginning to babble",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Speaking in two-word sentences",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Running and climbing stairs",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "At 6 months, an infant should be able to sit with support (and may begin sitting briefly without support), roll over both ways, reach for and grasp objects, and begin to babble (making consonant-vowel combinations like 'ba-ba' or 'da-da'). Walking independently typically occurs around 12 months, two-word sentences around 2 years, and running/climbing stairs around 2-3 years.",
+    "tags": [
+      "growth-development",
+      "pediatric",
+      "milestones"
+    ],
+    "sources": [],
+    "verified": false
+  },
+  {
+    "id": "q011",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A 16-year-old client with cystic fibrosis is admitted with increased shortness of breath and possible pneumonia. Which nursing activity is most important to include in the plan of care?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Perform postural drainage and chest physiotherapy every 4 hours",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Allow the client to decide when to take aerosolized medications",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Place the client in a private room for rest",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Plan for 8 hours of uninterrupted sleep each night",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Airway clearance techniques are critical for patients with cystic fibrosis. Due to thick, sticky secretions, frequent postural drainage and chest physiotherapy are essential during acute exacerbations with pneumonia. Allowing the client to skip treatments, prioritizing sleep over airway clearance, or isolation alone do not address the primary physiological need for maintaining a patent airway. Source: Nurseslabs - Prioritization, Delegation, and Assignment NCLEX Practice Questions.",
+    "tags": [
+      "prioritization",
+      "cystic-fibrosis",
+      "airway-clearance",
+      "respiratory"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Prioritization, Delegation, and Assignment NCLEX Practice Questions",
+        "url": "https://nurseslabs.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q012",
+    "type": "select-all-that-apply",
+    "difficulty": "hard",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A client with a pulmonary embolism is receiving IV heparin therapy. The RN is delegating activities of daily living (ADLs) to the nursing assistant. Which instructions should the nurse give regarding this client's care? Select all that apply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Use a lift sheet when moving the client in bed",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Use an electric razor for shaving",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Provide a soft-bristled toothbrush for oral care",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Use a rectal thermometer for temperature assessment",
+        "isCorrect": false
+      },
+      {
+        "id": "E",
+        "text": "Ensure the client wears firm-soled footwear when ambulating",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "A client on heparin anticoagulation therapy has an increased risk of bleeding. Interventions to minimize bleeding risk include: using a lift sheet to prevent skin shearing, an electric razor instead of a safety razor, a soft-bristled toothbrush to prevent gum trauma, and firm-soled footwear to prevent falls and injury. Rectal thermometers should be avoided because they may cause trauma to the rectal mucous membranes and result in bleeding. Source: Nurseslabs - Prioritization, Delegation, and Assignment NCLEX Practice.",
+    "tags": [
+      "delegation",
+      "heparin",
+      "bleeding-precautions",
+      "anticoagulation",
+      "SATA"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Prioritization, Delegation, and Assignment NCLEX Practice",
+        "url": "https://nurseslabs.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q013",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A nurse is caring for a client with COPD. Which airway management intervention is appropriate to delegate to a nursing assistant?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Assist the client to sit upright on the side of the bed",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Instruct the client on effective coughing techniques",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Teach the client how to use an incentive spirometer",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Auscultate breath sounds after a breathing treatment",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Assisting patients with positioning and activities of daily living is within the educational preparation and scope of practice of nursing assistants. Instructing on coughing techniques and teaching incentive spirometry are forms of patient education that require the RN's professional knowledge and clinical judgment. Auscultation of breath sounds is an assessment that must be performed by the RN. Source: Nurseslabs - Prioritization, Delegation, and Assignment NCLEX Practice.",
+    "tags": [
+      "delegation",
+      "COPD",
+      "scope-of-practice",
+      "UAP"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Prioritization, Delegation, and Assignment NCLEX Practice",
+        "url": "https://nurseslabs.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q014",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A nurse receives shift report on four clients. Which client should the nurse assess first?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A client on a ventilator who needs a sputum specimen collected",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "A client with COPD who has an oxygen saturation of 90%",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "A client with pneumonia who is due for IV antibiotics",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "A client with asthma who reports continued shortness of breath after a bronchodilator treatment",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "The asthma client who did not achieve relief from shortness of breath after a bronchodilator treatment is at risk for acute respiratory complications and requires urgent assessment. This represents an unexpected finding (treatment failure) that could indicate status asthmaticus. The ventilator client needs a routine specimen, COPD clients often have baseline saturations around 88-92%, and the pneumonia client's antibiotics, while important, are a scheduled task. Source: Nurseslabs - Prioritization, Delegation, and Assignment NCLEX Practice.",
+    "tags": [
+      "prioritization",
+      "ABCs",
+      "asthma",
+      "respiratory-distress"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Prioritization, Delegation, and Assignment NCLEX Practice",
+        "url": "https://nurseslabs.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q015",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A nurse is caring for four patients. Which patient should the nurse assess first?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A diabetic patient with a blood glucose of 180 mg/dL",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "A post-operative patient reporting sudden shortness of breath",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "A patient with dementia who is agitated",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "A patient with chronic back pain requesting pain medication",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Sudden shortness of breath in a post-operative patient indicates a potential pulmonary embolism or acute hypoxia, requiring immediate assessment and intervention. Using the ABCs (Airway, Breathing, Circulation) framework, respiratory compromise takes priority over all other findings listed. A blood glucose of 180 mg/dL is elevated but not emergent, agitation in dementia requires assessment but is not life-threatening, and chronic pain medication is a scheduled need. Source: Nexus Nursing Institute - Management of Care NCLEX.",
+    "tags": [
+      "prioritization",
+      "ABCs",
+      "post-operative",
+      "pulmonary-embolism"
+    ],
+    "sources": [
+      {
+        "name": "Nexus Nursing Institute - Management of Care NCLEX",
+        "url": "https://nexusnursinginstitute.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q016",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "Which task is appropriate to delegate to an unlicensed assistive personnel (UAP)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Administering oral medications",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Assisting a stable patient with ambulation",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Assessing a postoperative wound",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Educating a patient on insulin administration",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "UAPs can provide mobility assistance to stable patients as this falls within their scope of practice. Administering medications requires a licensed nurse (RN or LPN). Wound assessment is a nursing judgment activity that cannot be delegated. Patient education on medication administration requires the RN's professional knowledge. Remember the delegation rule: never delegate what you can E.A.T. (Evaluate, Assess, Teach). Source: Nexus Nursing Institute - Management of Care NCLEX.",
+    "tags": [
+      "delegation",
+      "UAP",
+      "scope-of-practice"
+    ],
+    "sources": [
+      {
+        "name": "Nexus Nursing Institute - Management of Care NCLEX",
+        "url": "https://nexusnursinginstitute.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q017",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A patient refuses a blood transfusion due to religious beliefs. What should the nurse do first?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Document the refusal and notify the healthcare provider",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Attempt to convince the patient to accept the transfusion",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Administer the transfusion as ordered by the physician",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Ask the family to persuade the patient to comply",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Patients have the legal and ethical right to refuse treatment, including blood transfusions, based on the principle of autonomy. The nurse must respect this right, document the refusal thoroughly in the medical record, and notify the healthcare provider so alternative treatment options can be explored. Attempting to persuade the patient, administering treatment against their wishes, or involving family to override the patient's decision all violate the patient's right to self-determination. Source: Nexus Nursing Institute - Management of Care NCLEX.",
+    "tags": [
+      "client-rights",
+      "autonomy",
+      "informed-consent",
+      "ethical-legal"
+    ],
+    "sources": [
+      {
+        "name": "Nexus Nursing Institute - Management of Care NCLEX",
+        "url": "https://nexusnursinginstitute.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q018",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A nurse is part of a committee tasked with allocating nursing staff to areas where they are most needed during a nursing shortage. This approach exemplifies which ethical principle?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Utilitarianism theory",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Beneficence",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Justice",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Deontological theory",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Justice refers to fairness and equity in the distribution of resources. Allocating nursing staff to areas of greatest need during a shortage demonstrates the ethical principle of justice by ensuring equitable distribution of limited healthcare resources. Utilitarianism focuses on the greatest good for the greatest number. Beneficence means acting in the patient's best interest. Deontological theory focuses on duty and rules regardless of consequences. Source: RNpedia - NCLEX Practice Exam for Legal, Ethical, Cultural and Nursing Jurisprudence.",
+    "tags": [
+      "ethics",
+      "justice",
+      "resource-allocation",
+      "nursing-management"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Legal, Ethical, Cultural and Nursing Jurisprudence",
+        "url": "https://www.rnpedia.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q019",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A nurse is preparing a patient for a procedure and needs to ensure proper consent is obtained. A nurse's signature as a witness on an informed consent form confirms which of the following?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The patient signed the form voluntarily, without any coercion",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "The patient is fully informed and understands all consequences",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "The patient was awake, fully alert, and not under the influence of narcotics",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "The patient signed the form in the presence of the witness",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "A witness signature on an informed consent form confirms that the patient physically signed the document in the presence of the witness and that the signature is authentic and not forged. It does not verify that the patient understood the information, was free from coercion, or was alert. The responsibility of ensuring the patient understands the procedure, risks, benefits, and alternatives belongs to the healthcare provider performing the procedure. Source: RNpedia - NCLEX Practice Exam for Legal, Ethical, Cultural and Nursing Jurisprudence.",
+    "tags": [
+      "informed-consent",
+      "legal",
+      "witness",
+      "documentation"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Legal, Ethical, Cultural and Nursing Jurisprudence",
+        "url": "https://www.rnpedia.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q020",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A nurse is caring for a confused patient who was left unattended with the side rails down and the bed in a high position. The patient fell and sustained a hip fracture. Which legal term best describes this situation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Assault",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Battery",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Civil tort",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Negligence",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "Negligence occurs when a healthcare provider fails to take appropriate action or provides substandard care, leading to harm. In this scenario, the nurse failed to implement standard safety measures (raising side rails, lowering the bed, not leaving the confused patient unattended) which directly resulted in the patient's fall and injury. Assault is the threat of touching without consent, battery is actual touching without consent, and while this could be classified as a civil tort, negligence is the most specific and accurate legal term. Source: RNpedia - NCLEX Practice Exam for Legal, Ethical, Cultural and Nursing Jurisprudence.",
+    "tags": [
+      "negligence",
+      "legal",
+      "patient-safety",
+      "fall-prevention"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Legal, Ethical, Cultural and Nursing Jurisprudence",
+        "url": "https://www.rnpedia.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q021",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A nurse is reviewing common sources of hospital-related litigation during new hire orientation. Which of the following scenarios is most likely to result in a legal case?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A nurse carrying out an order that is either incomplete or incorrect",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "A supervisor observing a new employee to assess their skill competency",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "A nurse leaving patients unattended while taking a lunch break",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "A nurse placing blame on the physician in documentation after an error occurs",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Nurses have a legal and professional duty to ensure that the orders they follow are clear, complete, and correct. Executing incorrect or incomplete orders without seeking clarification can result in patient harm and subsequent malpractice liability. While the other options may represent poor practice, carrying out erroneous orders poses the most direct risk of patient harm and litigation because it involves a clear failure of the nurse's professional obligation to verify and question orders. Source: RNpedia - NCLEX Practice Exam for Legal, Ethical, Cultural and Nursing Jurisprudence.",
+    "tags": [
+      "legal",
+      "malpractice",
+      "order-verification",
+      "patient-safety"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Legal, Ethical, Cultural and Nursing Jurisprudence",
+        "url": "https://www.rnpedia.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q022",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "safety-infection-control",
+    "stem": "A nurse is reviewing the assignments for the shift. Which client requires the implementation of droplet precautions?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A 70-year-old client with vancomycin-resistant enterococci (VRE) in the urine",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "A 4-year-old child with measles (rubeola)",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "A 65-year-old client with a localized herpes zoster (shingles) outbreak",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "A 25-year-old client with seasonal influenza",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "Influenza is a respiratory virus transmitted by large respiratory droplets, requiring droplet precautions including a private room and surgical mask for caregivers within 3 feet of the patient. Measles (rubeola) requires airborne precautions because the virus is transmitted via small airborne particles. Localized herpes zoster and VRE are transmitted by direct or indirect contact and require contact precautions only. Source: GoodNurse - Infection Control and Standard Precautions NCLEX Quiz.",
+    "tags": [
+      "droplet-precautions",
+      "infection-control",
+      "influenza",
+      "transmission-based-precautions"
+    ],
+    "sources": [
+      {
+        "name": "GoodNurse - Infection Control and Standard Precautions NCLEX Quiz",
+        "url": "https://goodnurse.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q023",
+    "type": "select-all-that-apply",
+    "difficulty": "hard",
+    "category": "safe-effective-care",
+    "subcategory": "safety-infection-control",
+    "stem": "A nurse is reviewing isolation precaution assignments. Which patients should be placed on droplet precautions? Select all that apply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "A 5-year-old with chickenpox (varicella)",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "A 36-year-old with pertussis (whooping cough)",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "A 25-year-old with scarlet fever",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "A 56-year-old with tuberculosis",
+        "isCorrect": false
+      },
+      {
+        "id": "E",
+        "text": "A 69-year-old with streptococcal pharyngitis",
+        "isCorrect": true
+      },
+      {
+        "id": "F",
+        "text": "An 89-year-old with C. difficile",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Droplet precautions are required for diseases transmitted by large respiratory droplets (travel less than 3 feet). Pertussis, scarlet fever, and streptococcal pharyngitis are all transmitted via droplets. Chickenpox (varicella) requires both airborne AND contact precautions because the virus can be aerosolized. Tuberculosis requires airborne precautions (negative pressure room, N95 respirator). C. difficile requires contact precautions with soap and water hand hygiene. Source: RegisteredNurseRN.com - Isolation Precautions NCLEX Practice Quiz.",
+    "tags": [
+      "droplet-precautions",
+      "isolation",
+      "infection-control",
+      "SATA"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN.com - Isolation Precautions NCLEX Practice Quiz",
+        "url": "https://www.registerednursern.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q024",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "safety-infection-control",
+    "stem": "A patient with disseminated herpes zoster requires routine tracheostomy suctioning. Which personal protective equipment (PPE) should the nurse wear?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Surgical mask, goggles, and gown",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "N95 respirator, face shield, gown, and gloves",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "N95 respirator, gown, and face shield only",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Surgical mask, face shield, gown, and gloves",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Disseminated herpes zoster requires both airborne AND contact precautions. An N95 respirator is needed for airborne protection (not a surgical mask). Gown and gloves are required for contact precautions. A face shield provides splash protection during suctioning, which is an aerosol-generating procedure. Option C is incorrect because it omits gloves, which are essential for contact precautions. Source: RegisteredNurseRN.com - Isolation Precautions NCLEX Practice Quiz.",
+    "tags": [
+      "PPE",
+      "airborne-precautions",
+      "contact-precautions",
+      "herpes-zoster",
+      "suctioning"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN.com - Isolation Precautions NCLEX Practice Quiz",
+        "url": "https://www.registerednursern.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q025",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "safe-effective-care",
+    "subcategory": "safety-infection-control",
+    "stem": "A nurse is providing care to a patient with C. difficile infection. After removing appropriate PPE, how should the nurse perform hand hygiene?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Using alcohol-based hand sanitizer",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Using soap and water",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Using soap and water only if hands are visibly soiled; otherwise use hand sanitizer",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Using either hand sanitizer or soap and water",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "After caring for a patient with C. difficile, the nurse MUST wash hands with soap and water. Alcohol-based hand sanitizers are NOT effective against C. difficile spores. The mechanical friction from washing with soap and water is necessary to physically remove the spores from the hands. This is also true for norovirus and rotavirus. There is no exception based on visible soiling -- soap and water is always required for C. diff. Source: RegisteredNurseRN.com - Isolation Precautions NCLEX Practice Quiz.",
+    "tags": [
+      "hand-hygiene",
+      "c-diff",
+      "infection-control",
+      "spore-forming"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN.com - Isolation Precautions NCLEX Practice Quiz",
+        "url": "https://www.registerednursern.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q026",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "safety-infection-control",
+    "stem": "A nurse discovers a small fire in a client's room. What is the nurse's first action?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Extinguish the fire with a fire extinguisher",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Rescue the client from immediate danger",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Activate the fire alarm",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Close doors and windows to contain the fire",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The first step in the RACE protocol (Rescue, Alarm, Confine, Extinguish) is to rescue the client from immediate danger by removing them from the area of the fire. After ensuring client safety, the nurse should activate the fire alarm, confine the fire by closing doors and windows, and then extinguish the fire if it is small enough and safe to do so. Client safety always comes first. Source: GoTestPrep - NCLEX Safety and Infection Control Questions.",
+    "tags": [
+      "fire-safety",
+      "RACE",
+      "emergency-response",
+      "patient-safety"
+    ],
+    "sources": [
+      {
+        "name": "GoTestPrep - NCLEX Safety and Infection Control Questions",
+        "url": "https://gotestprep.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q027",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "safe-effective-care",
+    "subcategory": "safety-infection-control",
+    "stem": "A nurse is preparing to use a fire extinguisher. What is the correct order of steps using the PASS method?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aim, Pull, Squeeze, Sweep",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Pull, Aim, Squeeze, Sweep",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Squeeze, Aim, Pull, Sweep",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Sweep, Pull, Aim, Squeeze",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The PASS method for using a fire extinguisher follows this order: Pull the pin, Aim the nozzle at the base of the fire, Squeeze the handle to release the extinguishing agent, and Sweep the nozzle from side to side at the base of the fire. This mnemonic is a critical safety concept tested on the NCLEX. Source: GoTestPrep - NCLEX Safety and Infection Control Questions.",
+    "tags": [
+      "fire-safety",
+      "PASS",
+      "emergency-response",
+      "safety-equipment"
+    ],
+    "sources": [
+      {
+        "name": "GoTestPrep - NCLEX Safety and Infection Control Questions",
+        "url": "https://gotestprep.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q028",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "safety-infection-control",
+    "stem": "A client requires the use of physical restraints. The nurse understands that which action regarding restraint use is most appropriate?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Applying restraints without informing the client",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Checking circulation, sensation, and movement every 2 hours",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Securing restraints to the movable part of the bed frame",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Using restraints as the first intervention for behavior control",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Restraints should be secured to the movable part of the bed frame (not the side rails) to prevent injury when the bed position is changed. Restraints should never be applied without informing the client and obtaining a physician's order. Circulation, sensation, and movement should be checked every 1-2 hours (not every 4 hours). Restraints should always be a last resort after all other less restrictive interventions have been attempted and documented. A new restraint order is required every 24 hours. Source: GoTestPrep - NCLEX Safety and Infection Control Questions.",
+    "tags": [
+      "restraints",
+      "safety-devices",
+      "patient-safety",
+      "circulation-checks"
+    ],
+    "sources": [
+      {
+        "name": "GoTestPrep - NCLEX Safety and Infection Control Questions",
+        "url": "https://gotestprep.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q029",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "safe-effective-care",
+    "subcategory": "safety-infection-control",
+    "stem": "A nurse is teaching clients about preventing falls at home. Which recommendation is most appropriate?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Use scatter rugs throughout the home for comfort",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Install grab bars in the bathroom near the toilet and shower",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Keep the home dimly lit to reduce glare",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Wear loose-fitting slippers for ease of movement",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Installing grab bars in the bathroom near the toilet and in the shower or tub provides essential support to prevent falls in one of the most high-risk areas of the home. Scatter rugs are a tripping hazard and should be removed or secured with non-slip backing. Homes should be well-lit, not dimly lit, to improve visibility. Loose-fitting slippers can increase fall risk; non-skid, well-fitting footwear is recommended. Source: GoTestPrep - NCLEX Safety and Infection Control Questions.",
+    "tags": [
+      "fall-prevention",
+      "home-safety",
+      "patient-teaching",
+      "elderly"
+    ],
+    "sources": [
+      {
+        "name": "GoTestPrep - NCLEX Safety and Infection Control Questions",
+        "url": "https://gotestprep.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q030",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "safety-infection-control",
+    "stem": "During an in-service on transmission-based precautions, which nursing student statement indicates a need for further education?",
+    "options": [
+      {
+        "id": "A",
+        "text": "I will ensure patients in droplet precautions wear a surgical mask during transport",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Airborne diseases like meningitis require a special room with negative air pressure",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "I will always wear a gown and gloves when entering a contact precaution room",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "For C. diff, norovirus, and rotavirus, I will wash hands with soap and water rather than using hand sanitizer",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The statement about meningitis requiring airborne precautions with a negative pressure room is incorrect and requires further education. Bacterial meningitis (Neisseria meningitidis) requires DROPLET precautions, not airborne precautions. Airborne precautions with negative pressure rooms are required for tuberculosis, measles (rubeola), varicella (chickenpox), and disseminated herpes zoster. The other statements are all correct regarding isolation precaution practices. Source: RegisteredNurseRN.com - Isolation Precautions NCLEX Practice Quiz.",
+    "tags": [
+      "isolation-precautions",
+      "airborne",
+      "droplet",
+      "meningitis",
+      "education"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN.com - Isolation Precautions NCLEX Practice Quiz",
+        "url": "https://www.registerednursern.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q031",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "psychosocial-integrity",
+    "subcategory": "coping-adaptation",
+    "stem": "A client with a diagnosis of major depression who has attempted suicide says to the nurse, 'I should have died! I've always been a failure. Nothing ever goes right for me.' Which response by the nurse demonstrates therapeutic communication?",
+    "options": [
+      {
+        "id": "A",
+        "text": "You have everything to live for.",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Why do you see yourself as a failure?",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Feeling like this is all part of being depressed.",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "You've been feeling like a failure for a while?",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "Responding to the feelings expressed by the client is an effective therapeutic communication technique. Option D uses restating, which encourages the client to explore their feelings further without judgment. Option A ('You have everything to live for') minimizes the client's experience and offers false reassurance. Option B uses 'why,' which is a nontherapeutic response that puts the client on the defensive. Option C ('Feeling like this is all part of being depressed') minimizes the client's experience by attributing their feelings solely to the diagnosis. Source: Quizlet - NCLEX Questions Therapeutic Communication; Nurseslabs - Therapeutic Communication NCLEX Practice.",
+    "tags": [
+      "therapeutic-communication",
+      "depression",
+      "suicide",
+      "restating"
+    ],
+    "sources": [
+      {
+        "name": "Quizlet - NCLEX Questions Therapeutic Communication",
+        "url": "https://quizlet.com"
+      },
+      {
+        "name": "Nurseslabs - Therapeutic Communication NCLEX Practice",
+        "url": "https://nurseslabs.com"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q032",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "psychosocial-integrity",
+    "subcategory": "coping-adaptation",
+    "stem": "A newly admitted client with depression isolates herself in her room and just sits and stares into space. How should the nurse best begin establishing an initial therapeutic relationship with this client?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bring the client to the dayroom to socialize with other clients",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Make frequent short visits to her room and sit quietly with her",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Tell the client she must come out of her room for meals and activities",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Ask the client's family to stay with her throughout the day",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Beginning a trusting therapeutic relationship requires the nurse to spend time with the client in a non-demanding way. Making frequent short visits and sitting quietly demonstrates genuine interest and acceptance without placing demands on the withdrawn client. Forcing socialization or attendance at activities can increase anxiety and does not build trust. Relying on family to provide constant companionship shifts the nursing responsibility and may not address the therapeutic needs of the client. Source: Quizlet - NCLEX Questions Therapeutic Communication.",
+    "tags": [
+      "therapeutic-relationship",
+      "depression",
+      "trust",
+      "nursing-presence"
+    ],
+    "sources": [
+      {
+        "name": "Quizlet - NCLEX Questions Therapeutic Communication",
+        "url": "https://quizlet.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q033",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "psychosocial-integrity",
+    "subcategory": "coping-adaptation",
+    "stem": "A nurse is teaching a group of nursing students about the stages of dying as described by Elisabeth Kubler-Ross. Which of the following correctly outlines these stages in order?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Anticipatory grief, perceived loss, actual loss, and renewal",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Numbing; yearning and searching; disorganization and despair; and reorganization",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Denial, anger, bargaining, depression, and acceptance",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Accepting the reality of loss, working through the pain of grief, adjusting to life without the deceased, and emotionally relocating the deceased while moving on",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The Kubler-Ross model identifies five stages representing emotional responses that individuals may go through when faced with terminal illness or significant loss: Denial (refusing to accept the reality), Anger (frustration directed outward), Bargaining (attempting to negotiate or make deals), Depression (deep sadness as reality sets in), and Acceptance (coming to terms with the situation). Option B describes Bowlby's four phases of mourning. Option D describes Worden's four tasks of mourning. These stages are not necessarily linear and individuals may move between stages. Source: RNpedia - NCLEX Practice Exam for Legal, Ethical, Cultural and Nursing Jurisprudence.",
+    "tags": [
+      "kubler-ross",
+      "grief-stages",
+      "death-dying",
+      "end-of-life"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Legal, Ethical, Cultural and Nursing Jurisprudence",
+        "url": "https://www.rnpedia.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q034",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "psychosocial-integrity",
+    "subcategory": "coping-adaptation",
+    "stem": "A nurse is caring for a client who has experienced a sexual assault. Which action should the nurse take first?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ask the client to describe the details of the assault",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Ensure the client's physical safety and provide a private environment",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Notify law enforcement immediately",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Administer a sedative to reduce the client's anxiety",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The nurse's first priority when caring for a sexual assault victim is to ensure physical safety and provide a private, safe environment. This addresses both the physical and psychological needs of the client. Asking for details of the assault should be done carefully and not as the first action, as it can re-traumatize the client. While law enforcement may be notified, this requires the client's consent and is not the nurse's first priority. Administering a sedative is not appropriate as a first action and could interfere with the client's ability to give consent or provide information. Source: Kaplan Test Prep - Psychosocial Integrity; Nurseslabs - Mental Health and Psychiatric Nursing NCLEX Practice.",
+    "tags": [
+      "abuse",
+      "crisis-intervention",
+      "sexual-assault",
+      "safety"
+    ],
+    "sources": [
+      {
+        "name": "Kaplan Test Prep - Psychosocial Integrity",
+        "url": "https://www.kaptest.com"
+      },
+      {
+        "name": "Nurseslabs - Mental Health and Psychiatric Nursing NCLEX Practice",
+        "url": "https://nurseslabs.com"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q035",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "psychosocial-integrity",
+    "subcategory": "psychosocial-wellbeing",
+    "stem": "A nurse is assessing a client who abuses alcohol and was admitted 48 hours ago. Which assessment finding indicates the client may be developing delirium tremens?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bradycardia and hypotension",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Visual hallucinations and severe tremors",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Sedation and decreased reflexes",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Euphoria and increased appetite",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Delirium tremens (DTs) is a severe, potentially life-threatening complication of alcohol withdrawal that typically occurs 48-72 hours after the last drink. Symptoms include visual hallucinations (often seeing insects or small animals), severe tremors, tachycardia (not bradycardia), elevated blood pressure, diaphoresis, agitation, and confusion. Alcohol withdrawal causes CNS excitation, not sedation. Other withdrawal symptoms include coarse tremors of hands, tongue, or eyelids; seizures; nausea; anxiety; and insomnia. Source: Quizlet - Mental Health: Substance-Related and Addictive Disorders NCLEX Questions.",
+    "tags": [
+      "substance-abuse",
+      "alcohol-withdrawal",
+      "delirium-tremens",
+      "assessment"
+    ],
+    "sources": [
+      {
+        "name": "Quizlet - Mental Health: Substance-Related and Addictive Disorders NCLEX Questions",
+        "url": "https://quizlet.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q036",
+    "type": "select-all-that-apply",
+    "difficulty": "hard",
+    "category": "psychosocial-integrity",
+    "subcategory": "psychosocial-wellbeing",
+    "stem": "A nurse is caring for a client with congestive heart failure. Which interventions should the nurse implement? Select all that apply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Monitor daily weights",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Administer IV fluids at 125 mL/hr",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Restrict sodium intake",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Elevate the head of the bed",
+        "isCorrect": true
+      },
+      {
+        "id": "E",
+        "text": "Encourage a high-protein diet",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "For a client with congestive heart failure, appropriate interventions include: monitoring daily weights (a gain of 2-3 lbs in 24 hours indicates fluid retention), restricting sodium intake (to reduce fluid retention), and elevating the head of the bed (to improve respiratory function and reduce pulmonary congestion). Administering IV fluids at 125 mL/hr would worsen fluid overload. A high-protein diet is not a standard CHF intervention and can be contraindicated depending on renal function. Fluid restriction, not fluid administration, is typically indicated. Source: Serrari Group - Understanding SATA Questions NCLEX-RN.",
+    "tags": [
+      "CHF",
+      "heart-failure",
+      "fluid-management",
+      "SATA"
+    ],
+    "sources": [
+      {
+        "name": "Serrari Group - Understanding SATA Questions NCLEX-RN",
+        "url": "https://learn.serrarigroup.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q037",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "psychosocial-integrity",
+    "subcategory": "psychosocial-wellbeing",
+    "stem": "A nurse is caring for a client diagnosed with anorexia nervosa who was recently admitted. Which nursing intervention takes the highest priority?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Establishing a therapeutic relationship through daily counseling sessions",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Initiating caloric and nutritional rehabilitation therapy",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Discussing body image distortion with the client",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Implementing a behavioral contract for weight gain goals",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The client with anorexia nervosa is at risk for death from self-starvation and severe malnutrition, including cardiac dysrhythmias from electrolyte imbalances. Therefore, initiating caloric and nutritional therapy takes the highest priority as it addresses the most immediate physiological threat. While therapeutic relationships, body image counseling, and behavioral contracts are all important components of treatment, they cannot be effectively implemented until the client's nutritional status is stabilized. Using Maslow's hierarchy, physiological needs (nutrition) take priority over psychosocial needs. Source: Quizlet - NCLEX Questions Substance Abuse, Eating Disorders.",
+    "tags": [
+      "eating-disorders",
+      "anorexia-nervosa",
+      "nutrition",
+      "prioritization"
+    ],
+    "sources": [
+      {
+        "name": "Quizlet - NCLEX Questions Substance Abuse, Eating Disorders",
+        "url": "https://quizlet.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q038",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "psychosocial-integrity",
+    "subcategory": "psychosocial-wellbeing",
+    "stem": "A nurse is caring for a client receiving chlordiazepoxide (Librium) for alcohol withdrawal. Which assessment finding indicates the client may need additional medication?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Heart rate of 68 beats per minute and blood pressure of 118/72 mmHg",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Client is calm and sleeping comfortably",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Tachycardia, elevated blood pressure, tremors, and increasing anxiety",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Client reports mild nausea with no vomiting",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Benzodiazepines such as chlordiazepoxide (Librium) are administered during alcohol withdrawal to prevent seizures and manage autonomic hyperactivity. Additional medication is indicated when the client exhibits signs of inadequately controlled withdrawal: tachycardia, elevated blood pressure and temperature, tremors, and increasing anxiety. These signs indicate escalating CNS excitation that requires pharmacological intervention. A normal heart rate and blood pressure, comfortable sleep, and mild nausea without other symptoms indicate the current dosing is adequate. Source: Quizlet - Substance-Related and Addictive Disorders NCLEX Questions.",
+    "tags": [
+      "substance-abuse",
+      "alcohol-withdrawal",
+      "benzodiazepines",
+      "pharmacology"
+    ],
+    "sources": [
+      {
+        "name": "Quizlet - Substance-Related and Addictive Disorders NCLEX Questions",
+        "url": "https://quizlet.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q039",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "health-promotion",
+    "subcategory": "health-promotion-prevention",
+    "stem": "A pregnant client has A-negative blood type. Which statement by the nurse is correct regarding her care?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No further testing will be done because the client is Rh negative",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "The client will be checked for clotting problems related to her blood type",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "At 28 weeks gestation, she should receive Rh immune globulin (RhoGAM)",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "At 36 weeks gestation, she will receive Rh immune globulin",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "An Rh-negative pregnant client requires Rh immune globulin (RhoGAM) at 28 weeks gestation to prevent Rh sensitization. If the fetus is Rh-positive, the mother's immune system could develop antibodies against fetal red blood cells, causing hemolytic disease of the newborn in subsequent pregnancies. RhoGAM is also administered within 72 hours after delivery if the newborn is confirmed Rh-positive. The standard timing is 28 weeks, not 36 weeks. Source: RegisteredNurseRN.com - NCLEX Practice Test for Prenatal Maternity Nursing.",
+    "tags": [
+      "prenatal-care",
+      "Rh-factor",
+      "RhoGAM",
+      "maternal-health"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN.com - NCLEX Practice Test for Prenatal Maternity Nursing",
+        "url": "https://www.registerednursern.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q040",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "health-promotion",
+    "subcategory": "health-promotion-prevention",
+    "stem": "A pregnant client with a low rubella titer (lower than 1:8) consents to the rubella vaccination. Which education should the nurse provide?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The client must use effective birth control during immunization and avoid pregnancy for 1-3 months after vaccination",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "The client should call the office once a pregnancy test is positive to schedule an appointment",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "It is safe for the client to contact immunocompromised individuals after vaccination",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "The client's titer is normal and the vaccine is unnecessary",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The rubella vaccine is a live vaccine and poses potential teratogenic risks to a developing fetus. A client receiving the rubella vaccine must use effective contraception during immunization and for 1-3 months afterward to prevent exposure of a fetus to the live virus. A rubella titer lower than 1:8 indicates non-immunity and the vaccine IS necessary. The client should avoid close contact with immunocompromised individuals after receiving a live vaccine. Source: RegisteredNurseRN.com - NCLEX Practice Test for Prenatal Maternity Nursing.",
+    "tags": [
+      "immunization",
+      "rubella",
+      "prenatal-care",
+      "live-vaccine",
+      "contraception"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN.com - NCLEX Practice Test for Prenatal Maternity Nursing",
+        "url": "https://www.registerednursern.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q041",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "health-promotion",
+    "subcategory": "health-promotion-prevention",
+    "stem": "A pregnant client (5 feet 5 inches tall, 127 lbs, normal BMI) makes which statement that indicates a need for further nutritional education?",
+    "options": [
+      {
+        "id": "A",
+        "text": "I do not have to watch my sodium intake unless my doctor specifies",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "I can expect to gain 50-60 pounds during my pregnancy",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "I need to eat foods rich in folic acid",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "I will increase my caloric intake by about 300 calories per day",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "A client with a normal pre-pregnancy BMI should expect to gain 25-35 pounds during pregnancy. A weight gain of 50-60 pounds significantly exceeds the recommended range and increases the risk of gestational diabetes, preeclampsia, cesarean delivery, and macrosomia. The other statements are correct: sodium restriction is typically not required unless indicated, folic acid is essential to prevent neural tube defects, and an additional 300 calories per day is the standard recommendation during the second and third trimesters. Source: RegisteredNurseRN.com - NCLEX Practice Test for Prenatal Maternity Nursing.",
+    "tags": [
+      "prenatal-nutrition",
+      "weight-gain",
+      "pregnancy",
+      "patient-education"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN.com - NCLEX Practice Test for Prenatal Maternity Nursing",
+        "url": "https://www.registerednursern.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q042",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "health-promotion",
+    "subcategory": "health-promotion-prevention",
+    "stem": "A nonstress test (NST) is performed on a pregnant client at 34 weeks. The results show 4 fetal heart rate accelerations of 15 beats per minute or more, each lasting at least 15 seconds, occurring with fetal movement during a 20-minute period. How should the nurse document this result?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Positive contraction stress test",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Reactive nonstress test",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Nonreactive nonstress test",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Negative contraction stress test",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "A reactive nonstress test (NST) requires at least 2 fetal heart rate accelerations of 15 beats per minute or more, lasting at least 15 seconds, occurring within a 20-minute window. This result (4 accelerations meeting criteria) is reactive and indicates adequate fetal oxygenation and well-being. A nonreactive NST would show fewer than 2 qualifying accelerations. Options A and D refer to contraction stress tests, which are a different assessment tool that evaluates fetal heart rate response to uterine contractions. Source: RegisteredNurseRN.com - NCLEX Practice Test for Prenatal Maternity Nursing.",
+    "tags": [
+      "nonstress-test",
+      "fetal-assessment",
+      "prenatal-care",
+      "fetal-monitoring"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN.com - NCLEX Practice Test for Prenatal Maternity Nursing",
+        "url": "https://www.registerednursern.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q043",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "health-promotion",
+    "subcategory": "health-promotion-prevention",
+    "stem": "A 35-week pregnant client calls the triage nurse stating she suspects her water broke because she noticed a small amount of fluid leaking. What would the nurse expect the healthcare provider to order first?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nitrazine strip test",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Abdominal ultrasound",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Nonstress test",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Amniocentesis",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "A nitrazine strip test is the initial screening tool used to assess for possible rupture of membranes. Amniotic fluid is alkaline (pH 7.0-7.5), and when it contacts the nitrazine paper, the paper turns blue-green, indicating a positive result for amniotic fluid. This is a quick, non-invasive bedside test that can be performed immediately. An ultrasound may be ordered to assess amniotic fluid volume afterward, and a nonstress test may be used to evaluate fetal well-being, but the nitrazine test is the first diagnostic step. Source: RegisteredNurseRN.com - NCLEX Practice Test for Prenatal Maternity Nursing.",
+    "tags": [
+      "rupture-of-membranes",
+      "nitrazine-test",
+      "prenatal-care",
+      "assessment"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN.com - NCLEX Practice Test for Prenatal Maternity Nursing",
+        "url": "https://www.registerednursern.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q044",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "health-promotion",
+    "subcategory": "aging-process",
+    "stem": "According to Erik Erikson's theory of psychosocial development, a 3-year-old child is in which developmental stage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Trust vs. Mistrust",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Autonomy vs. Shame and Doubt",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Initiative vs. Guilt",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Industry vs. Inferiority",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "According to Erikson's theory of psychosocial development, a 3-year-old child (ages 3-6) is in the Initiative vs. Guilt stage. During this stage, children begin to assert control and power over their environment through directing play and social interactions. Trust vs. Mistrust is the stage for infants (birth to 1 year). Autonomy vs. Shame and Doubt is for toddlers (1-3 years). Industry vs. Inferiority is for school-age children (6-12 years). Source: Nurseslabs - Growth and Development NCLEX Questions.",
+    "tags": [
+      "erikson",
+      "growth-development",
+      "psychosocial",
+      "pediatric"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Growth and Development NCLEX Questions",
+        "url": "https://nurseslabs.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q045",
+    "type": "select-all-that-apply",
+    "difficulty": "hard",
+    "category": "safe-effective-care",
+    "subcategory": "safety-infection-control",
+    "stem": "A nurse is reviewing patient assignments. Which conditions warrant airborne precautions? Select all that apply.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Norovirus",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Measles (rubeola)",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Varicella (chickenpox)",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Disseminated varicella zoster",
+        "isCorrect": true
+      },
+      {
+        "id": "E",
+        "text": "Tuberculosis",
+        "isCorrect": true
+      },
+      {
+        "id": "F",
+        "text": "Whooping cough (pertussis)",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Airborne precautions are required for pathogens transmitted via small airborne particles (droplet nuclei) that remain suspended in the air for long periods and can travel distances greater than 3 feet. These include measles, varicella (chickenpox), disseminated varicella zoster, and tuberculosis. Airborne precautions require a negative-pressure airborne infection isolation room (AIIR) and an N95 respirator or higher. Norovirus requires contact precautions. Pertussis (whooping cough) requires droplet precautions, not airborne. Source: RegisteredNurseRN.com - Isolation Precautions NCLEX Practice Quiz.",
+    "tags": [
+      "airborne-precautions",
+      "isolation",
+      "infection-control",
+      "SATA"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN.com - Isolation Precautions NCLEX Practice Quiz",
+        "url": "https://www.registerednursern.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q046",
+    "type": "ordered-response",
+    "difficulty": "hard",
+    "category": "safe-effective-care",
+    "subcategory": "safety-infection-control",
+    "stem": "A female client has a prescription for the insertion of an indwelling Foley catheter. After positioning the client and washing hands, place the following steps in the correct order the nurse should perform them.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Inflate the catheter balloon"
+      },
+      {
+        "id": "B",
+        "text": "Remove and dispose of gloves"
+      },
+      {
+        "id": "C",
+        "text": "Pour antiseptic solution (betadine) over cotton balls"
+      },
+      {
+        "id": "D",
+        "text": "Using the non-dominant hand, separate and clean the labia using one swipe per cotton ball"
+      },
+      {
+        "id": "E",
+        "text": "Apply sterile gloves"
+      },
+      {
+        "id": "F",
+        "text": "Using the sterile dominant hand, insert the catheter 1-2 inches past where urine is noted"
+      }
+    ],
+    "correctOrder": [
+      "E",
+      "C",
+      "D",
+      "F",
+      "A",
+      "B"
+    ],
+    "rationale": "The correct sequence follows proper sterile technique: (1) Apply sterile gloves first to maintain asepsis. (2) Pour betadine over cotton balls to prepare the cleansing solution. (3) Using the non-dominant hand (which becomes contaminated), separate the labia and clean the urethral meatus using one downward swipe per cotton ball. (4) Using the sterile dominant hand, insert the catheter until urine flows, then advance 1-2 additional inches to ensure the balloon is within the bladder. (5) Inflate the balloon to secure the catheter. (6) Remove and dispose of gloves. Source: Hurst Review - Mastering NCLEX-Style Sequencing Questions.",
+    "tags": [
+      "sterile-technique",
+      "foley-catheter",
+      "procedural-steps",
+      "ordered-response"
+    ],
+    "sources": [
+      {
+        "name": "Hurst Review - Mastering NCLEX-Style Sequencing Questions",
+        "url": "https://www.hurstreview.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q047",
+    "type": "ordered-response",
+    "difficulty": "hard",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "After receiving shift report, the nurse has five assigned clients. Place the following clients in the order the nurse should assess them from first to last priority.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Post-operative abdominal hysterectomy client needing a dressing change with quarter-size bloody drainage"
+      },
+      {
+        "id": "B",
+        "text": "Client scheduled for an EGD who is requesting information about the procedure"
+      },
+      {
+        "id": "C",
+        "text": "Client with pneumonia reporting increasing difficulty breathing"
+      },
+      {
+        "id": "D",
+        "text": "Client 6 hours post-tracheostomy with copious sputum production"
+      },
+      {
+        "id": "E",
+        "text": "New admission with stable chronic angina reporting mild chest pain"
+      }
+    ],
+    "correctOrder": [
+      "D",
+      "C",
+      "E",
+      "A",
+      "B"
+    ],
+    "rationale": "Prioritization follows the ABCs framework: (1) The post-tracheostomy client with copious sputum has an Airway concern -- a new tracheostomy with excessive secretions can occlude the airway. (2) The pneumonia client with increasing difficulty breathing has a Breathing concern that requires urgent assessment. (3) The angina client with chest pain represents a Circulation concern, though stable and chronic. (4) The post-operative client with quarter-size drainage needs assessment but the small amount of drainage is not immediately life-threatening. (5) The client requesting procedure information has an informational need that can be addressed last. Source: Hurst Review - Mastering NCLEX-Style Sequencing Questions.",
+    "tags": [
+      "prioritization",
+      "ABCs",
+      "client-assessment-order",
+      "ordered-response"
+    ],
+    "sources": [
+      {
+        "name": "Hurst Review - Mastering NCLEX-Style Sequencing Questions",
+        "url": "https://www.hurstreview.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q048",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "The charge nurse is making patient assignments. A new graduate nurse (6 months experience, previously worked on a surgical unit) is being floated to the medical unit. Which patient assignment is most appropriate for this nurse?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A patient with tuberculosis on airborne precautions requiring respiratory isolation",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "A patient who is 2 hours post-bronchoscopy requiring frequent monitoring",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "A patient who needs teaching about using an incentive spirometer before surgery",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "A ventilator-dependent patient with COPD requiring complex respiratory care",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The most appropriate assignment matches the nurse's knowledge, skills, and abilities. A nurse from a surgical unit would have extensive experience with preoperative teaching, including incentive spirometry instruction. This assignment utilizes existing competencies without placing the nurse in unfamiliar, high-acuity situations. The TB patient, post-bronchoscopy patient, and ventilator-dependent patient all require specialized respiratory or medical-surgical expertise that may exceed a new surgical nurse's comfort level. Source: Nurseslabs - Prioritization, Delegation, and Assignment NCLEX Practice.",
+    "tags": [
+      "delegation",
+      "assignment",
+      "float-nurse",
+      "charge-nurse"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Prioritization, Delegation, and Assignment NCLEX Practice",
+        "url": "https://nurseslabs.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q049",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "An experienced LPN/LVN is working under the supervision of an RN providing respiratory care. Which actions are appropriate for the LPN to perform?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Auscultate breath sounds and administer metered-dose inhaler (MDI) medications",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Complete an in-depth admission assessment and initiate a nursing care plan",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Evaluate the effectiveness of MDI technique and revise the teaching plan",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Develop the initial nursing diagnosis and create expected outcomes",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "LPNs/LVNs can perform focused data collection (such as auscultating breath sounds) and administer medications (including MDI medications) under the direct supervision and guidance of the RN. However, the RN retains responsibility for comprehensive admission assessments, initiating nursing care plans, developing nursing diagnoses, creating expected outcomes, and evaluating care effectiveness. These higher-level nursing process functions require RN-level education and clinical judgment. Source: Nurseslabs - Prioritization, Delegation, and Assignment NCLEX Practice.",
+    "tags": [
+      "delegation",
+      "LPN-scope",
+      "supervision",
+      "respiratory-care"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Prioritization, Delegation, and Assignment NCLEX Practice",
+        "url": "https://nurseslabs.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q050",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "psychosocial-integrity",
+    "subcategory": "coping-adaptation",
+    "stem": "A nurse is assessing an elderly client in the emergency department who has multiple bruises in various stages of healing on the arms and torso. The client's caregiver insists on staying in the room and answering all questions for the client. Which action should the nurse take first?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Document the findings and immediately call Adult Protective Services",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Separate the client from the caregiver and interview the client privately",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Confront the caregiver about the bruises",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Ask the caregiver to explain how the bruises occurred",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "When elder abuse is suspected, the nurse should first separate the client from the potential abuser to allow for a private, honest assessment. The caregiver's insistence on staying and answering all questions is a red flag for controlling behavior. The client is more likely to disclose abuse when the suspected abuser is not present. While reporting to Adult Protective Services is mandatory for confirmed or strongly suspected abuse, the nurse must first assess the situation properly. Confronting the caregiver could escalate the situation and potentially endanger the client. Source: Nurseslabs - Mental Health and Psychiatric Nursing NCLEX Practice; Kaplan Test Prep - Psychosocial Integrity.",
+    "tags": [
+      "elder-abuse",
+      "assessment",
+      "mandatory-reporting",
+      "safety"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Mental Health and Psychiatric Nursing NCLEX Practice",
+        "url": "https://nurseslabs.com"
+      },
+      {
+        "name": "Kaplan Test Prep - Psychosocial Integrity",
+        "url": "https://www.kaptest.com"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "q051",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "health-promotion",
+    "subcategory": "aging-process",
+    "stem": "According to Jean Piaget's theory of cognitive development, a 7-year-old child is in which stage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sensorimotor stage",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Preoperational stage",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Concrete operational stage",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Formal operational stage",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "According to Piaget's theory of cognitive development, a 7-year-old child is in the Concrete Operational stage (ages 7-11 years). During this stage, children develop logical thinking about concrete events, understand the concept of conservation, and can classify objects into different sets. The Sensorimotor stage is birth to 2 years, Preoperational stage is 2-7 years, and Formal Operational stage begins around age 11-12 and continues through adulthood. Source: Nurseslabs - Growth and Development NCLEX Questions.",
+    "tags": [
+      "piaget",
+      "cognitive-development",
+      "growth-development",
+      "pediatric"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Growth and Development NCLEX Questions",
+        "url": "https://nurseslabs.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q052",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "The document that outlines the guiding ethical principles for professional nursing practice within a clinical setting is which of the following?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Good Samaritan laws that provide civil protection guidelines",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "The American Nurses Association's (ANA) Code of Ethics",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "The Nurse Practice Act (NPA) established by state legislation",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Standards of care formulated by experts in the nursing field",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The ANA Code of Ethics is the primary document that outlines the ethical principles and values that guide professional nursing practice. It establishes the ethical obligations and duties of all nurses. Good Samaritan laws provide legal protection for voluntary emergency aid. The Nurse Practice Act defines the legal scope of practice for nurses in each state. Standards of care define the minimum level of expected care but are not primarily ethical guidelines. Source: RNpedia - NCLEX Practice Exam for Legal, Ethical, Cultural and Nursing Jurisprudence.",
+    "tags": [
+      "ethics",
+      "ANA",
+      "code-of-ethics",
+      "professional-standards"
+    ],
+    "sources": [
+      {
+        "name": "RNpedia - NCLEX Practice Exam for Legal, Ethical, Cultural and Nursing Jurisprudence",
+        "url": "https://www.rnpedia.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q053",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "safety-infection-control",
+    "stem": "A nurse is caring for a patient in droplet precautions who has visiting family members. How far should the visitors maintain distance from the patient if not wearing a mask?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2 feet or more",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "3 feet or more",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Stand at the doorway only",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "6 feet or more",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "For droplet precautions, the standard distance maintained from the patient should be 3 feet or more if not wearing a mask, because large respiratory droplets do not travel more than approximately 3 feet from the source. Anyone within 3 feet of the patient should wear a surgical mask. Standing at the doorway or maintaining 6 feet is unnecessary and overly restrictive. A distance of 2 feet is too close and does not provide adequate protection from droplet transmission. Source: RegisteredNurseRN.com - Isolation Precautions NCLEX Practice Quiz.",
+    "tags": [
+      "droplet-precautions",
+      "visitor-guidelines",
+      "infection-control",
+      "distance"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN.com - Isolation Precautions NCLEX Practice Quiz",
+        "url": "https://www.registerednursern.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q054",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "health-promotion",
+    "subcategory": "health-promotion-prevention",
+    "stem": "An 8-month pregnant client reports she has been experiencing severe leg cramps at night during the third trimester. Which statement by the nurse is correct?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Avoiding all exercise will prevent leg tiredness and decrease the cramps",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "You should increase your iron intake because low iron causes leg cramps",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "A complete prenatal workup is needed because this is abnormal in the third trimester",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Dorsiflexing your foot can help relieve cramps in the affected leg",
+        "isCorrect": true
+      }
+    ],
+    "rationale": "Leg cramps are a common discomfort in the third trimester of pregnancy, often related to pressure on nerves, fatigue, and possible calcium or magnesium imbalances. Dorsiflexion of the foot (pointing toes toward the head) stretches the calf muscles and is an effective technique for relieving leg cramps. Exercise should not be avoided entirely; regular gentle exercise can actually help. Low iron causes anemia, not leg cramps. Leg cramps are a normal occurrence in the third trimester and do not require a full workup unless severe or persistent. Source: RegisteredNurseRN.com - NCLEX Practice Test for Prenatal Maternity Nursing.",
+    "tags": [
+      "pregnancy",
+      "leg-cramps",
+      "third-trimester",
+      "patient-education"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN.com - NCLEX Practice Test for Prenatal Maternity Nursing",
+        "url": "https://www.registerednursern.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q055",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "category": "safe-effective-care",
+    "subcategory": "safety-infection-control",
+    "stem": "Which action is most appropriate for a nurse to take when a client has a seizure?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Restrain the client's movements to prevent injury",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Place a tongue depressor or padded blade in the client's mouth",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Protect the client from injury by clearing the area and padding if possible",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Leave the client to call for immediate help",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The priority during a seizure is to protect the client from injury. The nurse should lower the client to the floor if not already in bed, clear the surrounding area of hard or sharp objects, and place padding under the head if possible. The nurse should NOT restrain the client's movements (this can cause injury), should NOT place anything in the client's mouth (this can cause aspiration, broken teeth, or injury to the nurse), and should NOT leave the client unattended. The nurse should stay with the client, turn them to the side after the seizure to maintain airway patency, and time the seizure. Source: GoTestPrep - NCLEX Safety and Infection Control Questions.",
+    "tags": [
+      "seizure-safety",
+      "fall-prevention",
+      "emergency-response",
+      "patient-safety"
+    ],
+    "sources": [
+      {
+        "name": "GoTestPrep - NCLEX Safety and Infection Control Questions",
+        "url": "https://gotestprep.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q056",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A client with obstructive sleep apnea has a nursing diagnosis of Sleep Deprivation. Which action should the nurse delegate to the nursing assistant?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Discuss weight-loss strategies with the client",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Teach the client how to set up the BiPAP machine",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Remind the client to sleep on their side rather than their back",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Administer the prescribed modafinil (Provigil)",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Nursing assistants can remind patients about actions and interventions that have already been taught by the nurse. Reminding the client to sleep on their side is a simple reinforcement of previously established nursing care. Discussing weight-loss strategies constitutes health teaching, which requires RN-level knowledge. Teaching BiPAP setup requires specialized education that only the RN or respiratory therapist can provide. Medication administration cannot be delegated to unlicensed assistive personnel. Source: Nurseslabs - Prioritization, Delegation, and Assignment NCLEX Practice.",
+    "tags": [
+      "delegation",
+      "sleep-apnea",
+      "UAP",
+      "reinforcement"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Prioritization, Delegation, and Assignment NCLEX Practice",
+        "url": "https://nurseslabs.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q057",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "category": "safe-effective-care",
+    "subcategory": "management-of-care",
+    "stem": "A client with ARDS is on a non-rebreather mask at 100% FiO2. The arterial blood gas results show PaO2 of 55 mmHg. The nurse should anticipate which physician order?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Endotracheal intubation and mechanical ventilation",
+        "isCorrect": true
+      },
+      {
+        "id": "B",
+        "text": "Continuous positive airway pressure (CPAP)",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Intravenous furosemide (Lasix)",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Preparation for a code due to imminent respiratory arrest",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "A PaO2 of 55 mmHg on maximum oxygen delivery (100% non-rebreather mask) indicates refractory hypoxemia, a hallmark of ARDS. This client requires endotracheal intubation and mechanical ventilation with PEEP (positive end-expiratory pressure) to maintain adequate oxygenation. CPAP is not sufficient for this level of hypoxemia. While diuretics may be used to manage fluid overload, they do not address the primary oxygenation failure. The patient is not yet in respiratory arrest, and proactive intubation should prevent arrest. Delay in intubation may result in respiratory arrest. Source: Nurseslabs - Prioritization, Delegation, and Assignment NCLEX Practice.",
+    "tags": [
+      "ARDS",
+      "mechanical-ventilation",
+      "refractory-hypoxemia",
+      "critical-care"
+    ],
+    "sources": [
+      {
+        "name": "Nurseslabs - Prioritization, Delegation, and Assignment NCLEX Practice",
+        "url": "https://nurseslabs.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q058",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "safe-effective-care",
+    "subcategory": "safety-infection-control",
+    "stem": "A 6-year-old child is diagnosed with varicella (chickenpox). What type of isolation precautions should the nurse initiate?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Droplet precautions only",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Airborne precautions only",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Airborne and contact precautions",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Droplet and contact precautions",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "Varicella (chickenpox) requires BOTH airborne AND contact precautions. The varicella-zoster virus can be transmitted through airborne particles (small droplet nuclei that remain suspended in the air), requiring a negative pressure room and N95 respirator. It is also transmitted through direct contact with the vesicular fluid from the skin lesions, requiring gown and gloves (contact precautions). Neither droplet precautions alone nor airborne precautions alone are sufficient. Source: RegisteredNurseRN.com - Isolation Precautions NCLEX Practice Quiz.",
+    "tags": [
+      "varicella",
+      "isolation-precautions",
+      "airborne",
+      "contact",
+      "pediatric"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN.com - Isolation Precautions NCLEX Practice Quiz",
+        "url": "https://www.registerednursern.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q059",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "psychosocial-integrity",
+    "subcategory": "psychosocial-wellbeing",
+    "stem": "The priority nursing diagnosis for a client experiencing acute alcohol withdrawal should be which of the following?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Imbalanced Nutrition: Less Than Body Requirements",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Risk for Injury related to central nervous system stimulation",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Ineffective Coping related to substance dependence",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Disturbed Sleep Pattern related to CNS excitability",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The priority nursing diagnosis for a client in acute alcohol withdrawal is Risk for Injury related to central nervous system stimulation. Alcohol withdrawal causes CNS hyperexcitability, which can lead to seizures, falls, aspiration, and autonomic instability -- all of which are potentially life-threatening. While nutritional deficiency, ineffective coping, and sleep disturbances are all valid nursing diagnoses for this population, safety and risk for injury take the highest priority according to Maslow's hierarchy and the ABCs framework. Source: Quizlet - Substance-Related and Addictive Disorders NCLEX Questions.",
+    "tags": [
+      "alcohol-withdrawal",
+      "nursing-diagnosis",
+      "safety",
+      "prioritization"
+    ],
+    "sources": [
+      {
+        "name": "Quizlet - Substance-Related and Addictive Disorders NCLEX Questions",
+        "url": "https://quizlet.com"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "q060",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "category": "health-promotion",
+    "subcategory": "health-promotion-prevention",
+    "stem": "A pregnant client is scheduled for an abdominal ultrasound to determine gestational age and estimated delivery date. Which statement by the client indicates a need for further education?",
+    "options": [
+      {
+        "id": "A",
+        "text": "At 20 weeks, the gender of my baby can be assessed by abdominal ultrasound",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "The ultrasound outlines and identifies fetal and maternal structures",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "I should empty my bladder before the procedure",
+        "isCorrect": true
+      },
+      {
+        "id": "D",
+        "text": "Both abdominal and transvaginal ultrasounds are safe types",
+        "isCorrect": false
+      }
+    ],
+    "rationale": "The client's statement about emptying the bladder before the procedure is incorrect and requires further education. A FULL bladder is required before an abdominal ultrasound during early pregnancy because the full bladder serves as an acoustic window that enhances visualization of the uterus and fetal structures. The other statements are all correct: gender can typically be determined at 20 weeks via abdominal ultrasound, ultrasound does outline fetal and maternal structures, and both abdominal and transvaginal ultrasounds are considered safe during pregnancy. Source: RegisteredNurseRN.com - NCLEX Practice Test for Prenatal Maternity Nursing.",
+    "tags": [
+      "prenatal-ultrasound",
+      "patient-education",
+      "abdominal-ultrasound",
+      "pregnancy"
+    ],
+    "sources": [
+      {
+        "name": "RegisteredNurseRN.com - NCLEX Practice Test for Prenatal Maternity Nursing",
+        "url": "https://www.registerednursern.com"
+      }
+    ],
+    "verified": false
+  }
+]

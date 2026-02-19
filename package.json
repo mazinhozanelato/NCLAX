@@ -1,0 +1,11 @@
+{
+  "name": "nclex-prep-simulator",
+  "version": "1.0.0",
+  "description": "NCLEX-RN Exam Simulator - Adaptive exam simulation with performance tracking",
+  "scripts": {
+    "start": "live-server --port=3000 --no-browser"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}

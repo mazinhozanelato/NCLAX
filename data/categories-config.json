@@ -1,0 +1,89 @@
+{
+  "examInfo": {
+    "name": "NCLEX-RN",
+    "passingThreshold": 65,
+    "defaultQuestionCount": 75,
+    "maxQuestionCount": 145,
+    "timeLimitMinutes": 300
+  },
+  "categories": [
+    {
+      "id": "safe-effective-care",
+      "name": "Safe and Effective Care Environment",
+      "weight": 26,
+      "subcategories": [
+        {
+          "id": "management-of-care",
+          "name": "Management of Care",
+          "weight": 17
+        },
+        {
+          "id": "safety-infection-control",
+          "name": "Safety and Infection Control",
+          "weight": 9
+        }
+      ]
+    },
+    {
+      "id": "health-promotion",
+      "name": "Health Promotion and Maintenance",
+      "weight": 9,
+      "subcategories": [
+        {
+          "id": "health-promotion-prevention",
+          "name": "Health Promotion and Disease Prevention",
+          "weight": 5
+        },
+        {
+          "id": "aging-process",
+          "name": "Aging Process and Developmental Stages",
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "id": "psychosocial-integrity",
+      "name": "Psychosocial Integrity",
+      "weight": 9,
+      "subcategories": [
+        {
+          "id": "coping-adaptation",
+          "name": "Coping and Adaptation",
+          "weight": 5
+        },
+        {
+          "id": "psychosocial-wellbeing",
+          "name": "Psychosocial Well-being",
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "id": "physiological-integrity",
+      "name": "Physiological Integrity",
+      "weight": 56,
+      "subcategories": [
+        {
+          "id": "basic-care-comfort",
+          "name": "Basic Care and Comfort",
+          "weight": 9
+        },
+        {
+          "id": "pharmacological-therapies",
+          "name": "Pharmacological and Parenteral Therapies",
+          "weight": 15
+        },
+        {
+          "id": "reduction-of-risk",
+          "name": "Reduction of Risk Potential",
+          "weight": 17
+        },
+        {
+          "id": "physiological-adaptation",
+          "name": "Physiological Adaptation",
+          "weight": 15
+        }
+      ]
+    }
+  ]
+}
